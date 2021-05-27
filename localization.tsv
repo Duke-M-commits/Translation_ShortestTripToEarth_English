@@ -4741,7 +4741,7 @@
 'text	'Memories of an adventure	'Memories of an adventure	50		'1484131227:3 P nat picturesque iron piles T.prefab
 'text	'iron dust storms...	'iron dust storms...	50		'647963785:3 P nat picturesque iron piles T.prefab
 'title	'Landing complete	'Landing complete	35		'945013834:3 P nat picturesque iron piles T.prefab
-'text2	'We lost some external equipment on the way down. \nDespite harsh storms in the outer atmosphere, air on the surgace is very calm. The winds have blown iron dust particles into tall, picturesque piles. No signs of life.	'We lost some external equipment on the way down. \nDespite harsh storms in the outer atmosphere, air on the surgace is very calm. The winds have blown iron dust particles into tall, picturesque piles. No signs of life.	400		'945013834:3 P nat picturesque iron piles T.prefab
+'text2	'We lost some external equipment on the way down. \nDespite harsh storms in the outer atmosphere, air on the surface is very calm. The winds have blown iron dust particles into tall, picturesque piles. No signs of life.	'We lost some external equipment on the way down. \nDespite harsh storms in the outer atmosphere, air on the surface is very calm. The winds have blown iron dust particles into tall, picturesque piles. No signs of life.	400		'945013834:3 P nat picturesque iron piles T.prefab
 'choiceTexts	'Surface mining operation [send crew]	'Surface mining operation [send crew]	100		'945013834:3 P nat picturesque iron piles T.prefab
 'title	'Exotic minerals mined	'Exotic minerals mined	35		'1941309217:3 P nat picturesque iron piles T.prefab
 'text2	'The "iron dust" sediments contained trace amounts of exotics. One of the resting crewmembers took time to manually paint a picture of the scenery before it was destroyed.	'The "iron dust" sediments contained trace amounts of exotics. One of the resting crewmembers took time to manually paint a picture of the scenery before it was destroyed.	400		'1941309217:3 P nat picturesque iron piles T.prefab
@@ -7237,7 +7237,7 @@
 
 'Ambusher L5 slavers, arrow cmd + arrowhead.prefab
 'title	'Victimizers (slaver clan)	'Victimizers (slaver clan)	35		'155657859:Ambusher L5 slavers, arrow cmd + arrowhead.prefab
-'okButtonText	'actually, you just need to cease existing [to battle]	'actually, you just need to cease existing [to battle]	7		'155657859:Ambusher L5 slavers, arrow cmd + arrowhead.prefab
+'okButtonText	'Actually, you just need to cease existing [to battle]	'Actually, you just need to cease existing [to battle]	7		'155657859:Ambusher L5 slavers, arrow cmd + arrowhead.prefab
 'text	'"You have the Mark of Victim. We cannot ignore the Mark. We need to have you. We will teach you to overcome all hate for self. But first, we need to take away that annoying freedom of yours."	'"You have the Mark of Victim. We cannot ignore the Mark. We need to have you. We will teach you to overcome all hate for self. But first, we need to take away that annoying freedom of yours."	600		'155657859:Ambusher L5 slavers, arrow cmd + arrowhead.prefab
 'text	'Two ships rapidly approaching tactical weapons range. Active jamming systems suggests these are pirates or slavers.	'Two ships rapidly approaching tactical weapons range. Active jamming systems suggests these are pirates or slavers.	600		'1902101773:Ambusher L5 slavers, arrow cmd + arrowhead.prefab
 
