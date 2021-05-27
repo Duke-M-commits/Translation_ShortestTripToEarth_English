@@ -1110,7 +1110,7 @@
 	'Amount of exotics consumed per 1 conversion	'Amount of exotics consumed per 1 conversion	0		'1010314008:Materials converter panel.prefab; 9623959:Module data subpanel.prefab; 268197174:Materials converter panel.prefab
 	'Allocate all excess	'Allocate all excess	0		'1902450388:Materials converter panel.prefab; 469649402:Materials converter panel.prefab
 	'Convert	'Convert	0		'1849491787:Materials converter panel.prefab; 143592821:Module actions panel.prefab; 2095486144:Materials converter panel.prefab
-	'Amount of fuel recieved after conversion	'Amount of fuel recieved after conversion	0		'1347328052:Materials converter panel.prefab; 602068456:Materials converter panel.prefab
+	'Amount of fuel received after conversion	'Amount of fuel received after conversion	0		'1347328052:Materials converter panel.prefab; 602068456:Materials converter panel.prefab
 	'Cargo capacity full!	'Cargo capacity full!	0		'1517773966:Materials converter panel.prefab; 1369915215:Materials converter panel.prefab; 1975451130:Materials converter panel.prefab
 	'Materials convertor name	'Materials convertor name	0		'2028098703:Materials converter panel.prefab
 	'Amount of fuel consumed per 1 conversion	'Amount of fuel consumed per 1 conversion	0		'461579186:Materials converter panel.prefab; 1488801523:Module data subpanel.prefab
@@ -1130,12 +1130,12 @@
 	'Amount of metals used for conversion	'Amount of metals used for conversion	0		'1914162767:Materials converter panel.prefab
 	'Amount of Xenodata left	'Amount of Xenodata left	0		'1112540317:Materials converter panel.prefab
 	'Amount of Xenodata used for conversion	'Amount of Xenodata used for conversion	0		'2001490432:Materials converter panel.prefab
-	'Amount of organics recieved after conversion	'Amount of organics recieved after conversion	0		'37861754:Materials converter panel.prefab
-	'Amount of aynthetics recieved after conversion	'Amount of aynthetics recieved after conversion	0		'1820297474:Materials converter panel.prefab
-	'Amount of explosives recieved after conversion	'Amount of explosives recieved after conversion	0		'2110865989:Materials converter panel.prefab
-	'Amount of exotics recieved after conversion	'Amount of exotics recieved after conversion	0		'226530457:Materials converter panel.prefab
-	'Amount of metals recieved after conversion	'Amount of metals recieved after conversion	0		'781174729:Materials converter panel.prefab
-	'Amount of datacreds recieved after conversion	'Amount of datacreds recieved after conversion	0		'2091656713:Materials converter panel.prefab
+	'Amount of organics received after conversion	'Amount of organics received after conversion	0		'37861754:Materials converter panel.prefab
+	'Amount of synthetics received after conversion	'Amount of synthetics received after conversion	0		'1820297474:Materials converter panel.prefab
+	'Amount of explosives received after conversion	'Amount of explosives received after conversion	0		'2110865989:Materials converter panel.prefab
+	'Amount of exotics received after conversion	'Amount of exotics received after conversion	0		'226530457:Materials converter panel.prefab
+	'Amount of metals received after conversion	'Amount of metals received after conversion	0		'781174729:Materials converter panel.prefab
+	'Amount of datacreds received after conversion	'Amount of datacreds received after conversion	0		'2091656713:Materials converter panel.prefab
 	'Craft container modules to get more container space or craft packs to place resources into storage	'Craft container modules to get more container space or craft packs to place resources into storage	0		'781873282:Materials converter panel.prefab
 	'Convertor module damaged/overloaded!	'Convertor module damaged/overloaded!	0		'1798709471:Materials converter panel.prefab
 	'Do not open automatically when a materials converter module on player ship is selected	'Do not open automatically when a materials converter module on player ship is selected	0		'374520912:Materials converter panel.prefab
@@ -8683,7 +8683,7 @@
 
 'ECM 0 terran old.prefab
 'displayName	'Armored ECM Turret I [old]	'Armored ECM Turret I [old]	40		'1717910481:ECM 0 terran old.prefab
-'description	'Hybrid integrity technolgy with electronic countermeasures. Increases overall ship evasion, improves ship HP, requires a hybrid slot.	'Hybrid integrity technolgy with electronic countermeasures. Increases overall ship evasion, improves ship HP, requires a hybrid slot.	200		'1717910481:ECM 0 terran old.prefab; 178792571:ECM 03 insectoid.prefab; 738383845:ECM 02 terran.prefab; 738383846:ECM 03 terran.prefab; 738383848:ECM 01 terran.prefab
+'description	'Hybrid integrity technology with electronic countermeasures. Increases overall ship evasion, improves ship HP, requires a hybrid slot.	'Hybrid integrity technology with electronic countermeasures. Increases overall ship evasion, improves ship HP, requires a hybrid slot.	200		'1717910481:ECM 0 terran old.prefab; 178792571:ECM 03 insectoid.prefab; 738383845:ECM 02 terran.prefab; 738383846:ECM 03 terran.prefab; 738383848:ECM 01 terran.prefab
 
 'ECM 01 terran.prefab
 'displayName	'Armored ECM Turret I	'Armored ECM Turret I	40		'738383848:ECM 01 terran.prefab
@@ -8707,7 +8707,7 @@
 
 'ECM 04 spideraa.prefab
 'displayName	'Spideraa ECM	'Spideraa ECM	40		'1754358032:ECM 04 spideraa.prefab
-'description	'Hybrid integrity technolgy with electronic countermeasures. Increases overall ship evasion, requires a hybrid slot.	'Hybrid integrity technolgy with electronic countermeasures. Increases overall ship evasion, requires a hybrid slot.	200		'1754358032:ECM 04 spideraa.prefab
+'description	'Hybrid integrity technology with electronic countermeasures. Increases overall ship evasion, requires a hybrid slot.	'Hybrid integrity technology with electronic countermeasures. Increases overall ship evasion, requires a hybrid slot.	200		'1754358032:ECM 04 spideraa.prefab
 
 'engine 0 diy.prefab
 'displayName	'DIY engine	'DIY engine	40		'1284816050:engine 0 diy.prefab
@@ -10576,14 +10576,14 @@
 'Perk module DIY cryodream recorder.prefab
 'displayName	'The cryodream recorder	'The cryodream recorder	40		'209451390:Perk module DIY cryodream recorder.prefab
 'description	'A self-made cryosleep dream recorder. Sleepers do not consume organics & may heal injuries during ship movement. The dream recorder occasionally produces xenodata (credits). Comes with herbal drugs that cause lucid dreaming.	'A self-made cryosleep dream recorder. Sleepers do not consume organics & may heal injuries during ship movement. The dream recorder occasionally produces xenodata (credits). Comes with herbal drugs that cause lucid dreaming.	250		'209451390:Perk module DIY cryodream recorder.prefab
-'unlockAnnouncementText	'During our travels, we met an individual specializing in cryosleep technology. After hearing our story, they promised to build us one for free, next time we go out adventuring.	'During our travels, we met an individual specializing in cryosleep technology. After hearing our story, they promised to build us one for free, next time we go out adventuring.	100		'209451390:Perk module DIY cryodream recorder.prefab
+'unlockAnnouncementText	'During our travels, we met an individual specializing in cryosleep technology. After hearing our story, he promised to build us one for free, next time we go out adventuring.	'During our travels, we met an individual specializing in cryosleep technology. After hearing our story, he promised to build us one for free, next time we go out adventuring.	100		'209451390:Perk module DIY cryodream recorder.prefab
 'randomizerMenuStrings[i]	'+1 cryodream recorder (generates credits)	'+1 cryodream recorder (generates credits)	30		'209451390:Perk module DIY cryodream recorder.prefab
 'randomizerMenuStrings[i]	'+33 organics	'+33 organics	30		'209451390:Perk module DIY cryodream recorder.prefab
 
 'Perk module DIY cryosleep.prefab
 'displayName	'DIY cryosleep pod	'DIY cryosleep pod	40		'872216984:Perk module DIY cryosleep.prefab
 'description	'A self-assembled cryosleep pod, together with a sortiment of junk usable as spare parts.	'A self-assembled cryosleep pod, together with a sortiment of junk usable as spare parts.	250		'872216984:Perk module DIY cryosleep.prefab
-'unlockAnnouncementText	'During our travels, we managed to inspire an old engineering teacher with our limitless idealism. They promised to build us a really good cryosleep pod next time we go for a run like this.	'During our travels, we managed to inspire an old engineering teacher with our limitless idealism. They promised to build us a really good cryosleep pod next time we go for a run like this.	100		'872216984:Perk module DIY cryosleep.prefab
+'unlockAnnouncementText	'During our travels, we managed to inspire an old engineering teacher with our limitless idealism. She promised to build us a really good cryosleep pod next time we go for a run like this.	'During our travels, we managed to inspire an old engineering teacher with our limitless idealism. She promised to build us a really good cryosleep pod next time we go for a run like this.	100		'872216984:Perk module DIY cryosleep.prefab
 'randomizerMenuStrings[i]	'+1 cryosleep module for one	'+1 cryosleep module for one	30		'872216984:Perk module DIY cryosleep.prefab
 'randomizerMenuStrings[i]	'+40 synthetics	'+40 synthetics	30		'872216984:Perk module DIY cryosleep.prefab; 1886509521:Perk module DIY exotic EMP sniper.prefab
 
@@ -10724,7 +10724,7 @@
 
 'Perk module medbay 202.prefab
 'displayName	'Medbay 202	'Medbay 202	40		'411849296:Perk module medbay 202.prefab
-'description	'Send crew into installed medbay to heal injuries.\nDespite our ability to craft DIY medbays aboard the ship, this one is much more efficient and can heal multiple crew in the same time0.	'Send crew into installed medbay to heal injuries.\nDespite our ability to craft DIY medbays aboard the ship, this one is much more efficient and can heal multiple crew in the same time0.	250		'411849296:Perk module medbay 202.prefab
+'description	'Send crew into installed medbay to heal injuries.\nDespite our ability to craft DIY medbays aboard the ship, this one is much more efficient and can heal multiple crew in the same time.	'Send crew into installed medbay to heal injuries.\nDespite our ability to craft DIY medbays aboard the ship, this one is much more efficient and can heal multiple crew in the same time.	250		'411849296:Perk module medbay 202.prefab
 
 'Perk module minigrowery.prefab
 'description	'A small accelerated growth garden module. Gardens remove operator food consumption and generate additional organics during ship movement. This growery can be used to by two operators.	'A small accelerated growth garden module. Gardens remove operator food consumption and generate additional organics during ship movement. This growery can be used to by two operators.	250		'1610304684:Perk module minigrowery.prefab
@@ -11117,7 +11117,7 @@
 'title	'The Ship AI	'The Ship AI	35		'1729493260:Main quest FSM.prefab; 642783897:Main quest FSM.prefab; 642783898:Main quest FSM.prefab
 'text	'The ship AI wanted a long vacation for itself and left, after delivering me to Mars. It was generous to leave me a super tasty sandwitch plus a photo of its pleasurebot-avatar (as a reminder of our great times spent together, apparently). I suspect it gave something like that to most of the crew.	'The ship AI wanted a long vacation for itself and left, after delivering me to Mars. It was generous to leave me a super tasty sandwitch plus a photo of its pleasurebot-avatar (as a reminder of our great times spent together, apparently). I suspect it gave something like that to most of the crew.	600		'1729493260:Main quest FSM.prefab
 'title	'The crew	'The crew	35		'833118331:Main quest FSM.prefab; 1414518038:Main quest FSM.prefab; 1995917745:Main quest FSM.prefab
-'text	'Most of the crew onboard {0} split after we had completed the salvage & rescue operations or Earth remains. Some settled down in the Tree Friend or anarchist colonies, but most joined the Freetravellers, and kept adventuring further.	'Most of the crew onboard {0} split after we had completed the salvage & rescue operations or Earth remains. Some settled down in the Tree Friend or anarchist colonies, but most joined the Freetravellers, and kept adventuring further.	600		'833118331:Main quest FSM.prefab
+'text	'Most of the crew onboard {0} split after we had completed the salvage & rescue operations of Earth remains. Some settled down in the Tree Friend or anarchist colonies, but most joined the Freetravellers, and kept adventuring further.	'Most of the crew onboard {0} split after we had completed the salvage & rescue operations of Earth remains. Some settled down in the Tree Friend or anarchist colonies, but most joined the Freetravellers, and kept adventuring further.	600		'833118331:Main quest FSM.prefab
 'title	'The struggle continues	'The struggle continues	35		'1587414111:Main quest FSM.prefab
 'text	'The Squid Dominion collapsed after death of their emperor, but destruction of Earth was too much for Earth military generals and they started a new, bloody war against the Insectoid Alliance.\n\nI took some time to contemplate the scale of the destruction that had happened around me. The number of lives lost and severity of sufferings made it feel unreal. Could it be that the Solipisist are right that all this is some kind of cruel illusion?\n\nHowever, I never had much time to think about these things, because the war against Insectoid Alliance caught up with me. Good captains were desperately needed once again.\n..	'The Squid Dominion collapsed after death of their emperor, but destruction of Earth was too much for Earth military generals and they started a new, bloody war against the Insectoid Alliance.\n\nI took some time to contemplate the scale of the destruction that had happened around me. The number of lives lost and severity of sufferings made it feel unreal. Could it be that the Solipisist are right that all this is some kind of cruel illusion?\n\nHowever, I never had much time to think about these things, because the war against Insectoid Alliance caught up with me. Good captains were desperately needed once again.\n..	600		'1587414111:Main quest FSM.prefab
 'text	'{0} AI needed to meet some important Earth Alliance military command elements and left us after landing. It was kind to leave me a data core with credits, a very tasty sandwich plus an erotic painting, painted by the AI itself, personally to me (as a reminder of great times spent together, apparently). I suspect it gave something like that to most of the crew.	'{0} AI needed to meet some important Earth Alliance military command elements and left us after landing. It was kind to leave me a data core with credits, a very tasty sandwich plus an erotic painting, painted by the AI itself, personally to me (as a reminder of great times spent together, apparently). I suspect it gave something like that to most of the crew.	600		'642783898:Main quest FSM.prefab
