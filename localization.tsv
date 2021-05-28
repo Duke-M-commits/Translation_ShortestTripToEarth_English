@@ -618,7 +618,7 @@
 'altText	'You are running low on fuel. Would you like to see how you can get more?	'You are running low on fuel. Would you like to see how you can get more?	240		'1728261180:Comchannel tip.prefab
 'altText	'The ship has very low HP left! Consider <color=red>repairing</color> damage tokens on my hull or <color=red>escaping</color> by using the warpdrive! If you have any <color=red>nukes</color>, consider using them.	'The ship has very low HP left! Consider <color=red>repairing</color> damage tokens on my hull or <color=red>escaping</color> by using the warpdrive! If you have any <color=red>nukes</color>, consider using them.	240		'406919508:Comchannel tip.prefab
 'choiceTexts	'OK, will consider it!	'OK, will consider it!	15		'406919508:Comchannel tip.prefab; 474078495:Comchannel tip.prefab; 902375949:Comchannel tip.prefab; 1306209260:Comchannel tip.prefab
-'altText	'We've run out resources for repairing. Repairing requires metal or synthethics. Want to see my database entry about ship hull repairing?	'We've run out resources for repairing. Repairing requires metal or synthethics. Want to see my database entry about ship hull repairing?	240		'314789423:Comchannel tip.prefab
+'altText	'We've run out resources for repairing. Repairing requires metal or synthetics. Want to see my database entry about ship hull repairing?	'We've run out resources for repairing. Repairing requires metal or synthetics. Want to see my database entry about ship hull repairing?	240		'314789423:Comchannel tip.prefab
 'altText	'Modules received from perks are currently inside storage. Open storage panel?	'Modules received from perks are currently inside storage. Open storage panel?	240		'2140529864:Comchannel tip.prefab
 'altText	'We're out of fuel. If we cannot use the SOS, we should consider scrapping modules with fuel value, such as nukes or reactors. SOS signal is jammed (unusable) during battles.	'We're out of fuel. If we cannot use the SOS, we should consider scrapping modules with fuel value, such as nukes or reactors. SOS signal is jammed (unusable) during battles.	240		'474078495:Comchannel tip.prefab
 'altText	'We're out of organics. Hungry crew will get a penalty to all stats and will eventually\r start slowly losing hitpoints. Crew in cryosleep requires no resources.	'We're out of organics. Hungry crew will get a penalty to all stats and will eventually\r start slowly losing hitpoints. Crew in cryosleep requires no resources.	240		'902375949:Comchannel tip.prefab
@@ -1007,7 +1007,7 @@
 	'Deflection: chance to completely negate incoming shots by deflecting them. Works both against projectile & ray weapons.	'Deflection: chance to completely negate incoming shots by deflecting them. Works both against projectile & ray weapons.	0		'2090011259:Help panel.prefab
 	'Evasion: increases the total size of shot landing area of all attack weapons, making it harder to aim individual modules or hit the target ship.	'Evasion: increases the total size of shot landing area of all attack weapons, making it harder to aim individual modules or hit the target ship.	0		'2015158107:Help panel.prefab
 	'Ship and module repairs are essential for survival. \nHaving many repair officers during battle can make a difference \nbetween life and death, because repairing takes a fair bit of time.\nShip damage tokens cannot be currently repaired by multiple crew simultaneously.	'Ship and module repairs are essential for survival. \nHaving many repair officers during battle can make a difference \nbetween life and death, because repairing takes a fair bit of time.\nShip damage tokens cannot be currently repaired by multiple crew simultaneously.	0		'844599729:Help panel.prefab
-	'Repairing ship or modules takes metal & synthetics. Make sure your resources are ready for emergency repairs, and be ready to scrap modules if you need more metal or synthethics.	'Repairing ship or modules takes metal & synthetics. Make sure your resources are ready for emergency repairs, and be ready to scrap modules if you need more metal or synthethics.	0		'749694654:Help panel.prefab
+	'Repairing ship or modules takes metal & synthetics. Make sure your resources are ready for emergency repairs, and be ready to scrap modules if you need more metal or synthetics.	'Repairing ship or modules takes metal & synthetics. Make sure your resources are ready for emergency repairs, and be ready to scrap modules if you need more metal or synthetics.	0		'749694654:Help panel.prefab
 	'Have capital missiles ready in launch tubes in case you need to use them fast.	'Have capital missiles ready in launch tubes in case you need to use them fast.	0		'1690975462:Help panel.prefab
 	'When feeling overwhelmed by enemies, consider escaping. Send a crew member to operate the warpdrive to reduce the time it needs to charge up and warp your ship away from combat.	'When feeling overwhelmed by enemies, consider escaping. Send a crew member to operate the warpdrive to reduce the time it needs to charge up and warp your ship away from combat.	0		'1746152424:Help panel.prefab
 	'How to survive battles	'How to survive battles	0		'1715535175:Help panel.prefab
@@ -1066,7 +1066,7 @@
 	'5.\nFight hostile fleets to gain fuel as loot.	'5.\nFight hostile fleets to gain fuel as loot.	0		'1014129770:Help panel.prefab
 	'6.\nActivate the SOS signal and hope for a trade ship that sells fuel.	'6.\nActivate the SOS signal and hope for a trade ship that sells fuel.	0		'366062944:Help panel.prefab
 	'Metals are the most common resource, and used mostly for repairing ship hull.\n\nMetals are also used when building planetary structures, such as mining or harvesting equipment.	'Metals are the most common resource, and used mostly for repairing ship hull.\n\nMetals are also used when building planetary structures, such as mining or harvesting equipment.	0		'303780876:Help panel.prefab
-	'Synthethics is a general category for all kinds of ceramics, composite alloys, plastics and valuable artificial substances, including recreational consumables.\n\nSynthetics are mostly used for repairing modules. \nRepairing 1 module hitpoint costs 10 synthetics.\n\nSynthetics are also used when building temporary structures, such as planetary harvesting technology or utility bots.	'Synthethics is a general category for all kinds of ceramics, composite alloys, plastics and valuable artificial substances, including recreational consumables.\n\nSynthetics are mostly used for repairing modules. \nRepairing 1 module hitpoint costs 10 synthetics.\n\nSynthetics are also used when building temporary structures, such as planetary harvesting technology or utility bots.	0		'1727929282:Help panel.prefab
+	'Synthetics is a general category for all kinds of ceramics, composite alloys, plastics and valuable artificial substances, including recreational consumables.\n\nSynthetics are mostly used for repairing modules. \nRepairing 1 module hitpoint costs 10 synthetics.\n\nSynthetics are also used when building temporary structures, such as planetary harvesting technology or utility bots.	'Synthetics is a general category for all kinds of ceramics, composite alloys, plastics and valuable artificial substances, including recreational consumables.\n\nSynthetics are mostly used for repairing modules. \nRepairing 1 module hitpoint costs 10 synthetics.\n\nSynthetics are also used when building temporary structures, such as planetary harvesting technology or utility bots.	0		'1727929282:Help panel.prefab
 	'Explosives are used as ammo for most projectile and missile weapons.\n\nThe Mothership AI also uses explosives automatically to print mines, cheap missiles and bombs during conflict events that happen off-screen.	'Explosives are used as ammo for most projectile and missile weapons.\n\nThe Mothership AI also uses explosives automatically to print mines, cheap missiles and bombs during conflict events that happen off-screen.	0		'917389737:Help panel.prefab
 	'Exotics are most useful for crafting and bartering, functioning as critical module components or as an alternative currency to xenodata credits.\n\nAll exotic substances are rare elements that seem to slightly defy the laws of known physics.\nThey are mostly found in warp animal remains and often used as recreational consumables.	'Exotics are most useful for crafting and bartering, functioning as critical module components or as an alternative currency to xenodata credits.\n\nAll exotic substances are rare elements that seem to slightly defy the laws of known physics.\nThey are mostly found in warp animal remains and often used as recreational consumables.	0		'1773128392:Help panel.prefab
 	'Xenodata credits, usually called just xenodata or creds, is the most respected form of intergalactic currency.\n\nIt uses a semi-intelligent digital algorithm to convert any data with knowledge value into a universally priced form.	'Xenodata credits, usually called just xenodata or creds, is the most respected form of intergalactic currency.\n\nIt uses a semi-intelligent digital algorithm to convert any data with knowledge value into a universally priced form.	0		'1011856740:Help panel.prefab
@@ -1537,7 +1537,7 @@
 	'Toggle module ON/OFF	'Toggle module ON/OFF	0		'2121731082:Module actions panel.prefab
 
 'Module data subpanel.prefab
-	'Module hitpoints, repairing 1hp consumes 10 synthethics	'Module hitpoints, repairing 1hp consumes 10 synthethics	0		'1697177267:Module data subpanel.prefab
+	'Module hitpoints, repairing 1hp consumes 10 synthetics	'Module hitpoints, repairing 1hp consumes 10 synthetics	0		'1697177267:Module data subpanel.prefab
 'module requirements	'REQUIREMENTS	'REQUIREMENTS	0		'1609416340:Module data subpanel.prefab
 	'This module requires operators with bridge skill	'This module requires operators with bridge skill	0		'698256304:Module data subpanel.prefab
 	'This module requires operators with sensor skill	'This module requires operators with sensor skill	0		'182455669:Module data subpanel.prefab
@@ -1633,7 +1633,7 @@
 	'Metals gained if scrapped	'Metals gained if scrapped	0		'1291892020:Module data subpanel.prefab; 992824028:Module data subpanel.prefab
 	'Fuel gained if scrapped	'Fuel gained if scrapped	0		'1829466502:Module data subpanel.prefab; 1935899546:Module data subpanel.prefab
 	'Organics gained if scrapped	'Organics gained if scrapped	0		'575249597:Module data subpanel.prefab; 1721845561:Module data subpanel.prefab
-	'Synthethics gained if scrapped	'Synthethics gained if scrapped	0		'242636747:Module data subpanel.prefab
+	'Synthetics gained if scrapped	'Synthetics gained if scrapped	0		'242636747:Module data subpanel.prefab
 	'Synthetics gained if scrapped	'Synthetics gained if scrapped	0		'925617220:Module data subpanel.prefab
 	'Explosives gained if scrapped	'Explosives gained if scrapped	0		'1532999014:Module data subpanel.prefab; 602786117:Module data subpanel.prefab
 	'Exotics gained if scrapped	'Exotics gained if scrapped	0		'1246576831:Module data subpanel.prefab; 1350988215:Module data subpanel.prefab
@@ -1722,7 +1722,7 @@
 	'No fuel, cannot move.\nScrap some less valuable fuel-yielding modules/nukes,\nor use the SOS-beacon.	'No fuel, cannot move.\nScrap some less valuable fuel-yielding modules/nukes,\nor use the SOS-beacon.	0		'1631299389:Player panel.prefab
 	'No organics.\nDriving around will risk damaging crew health due to lack of life supplies.	'No organics.\nDriving around will risk damaging crew health due to lack of life supplies.	0		'1101201017:Player panel.prefab
 	'No explosives.\nWeapons that need explosives cannot fire.\nReplace them if possible.	'No explosives.\nWeapons that need explosives cannot fire.\nReplace them if possible.	0		'466463416:Player panel.prefab
-	'No synthetics, module repairs not possible.\nConsider scrapping less useful modules if you need more synthethics.	'No synthetics, module repairs not possible.\nConsider scrapping less useful modules if you need more synthethics.	0		'1475316399:Player panel.prefab
+	'No synthetics, module repairs not possible.\nConsider scrapping less useful modules if you need more synthetics.	'No synthetics, module repairs not possible.\nConsider scrapping less useful modules if you need more synthetics.	0		'1475316399:Player panel.prefab
 	'No metals, ship hull repair not possible.\nConsider scrapping less useful modules if you need more metal.\nUse caution with hostile fleets.	'No metals, ship hull repair not possible.\nConsider scrapping less useful modules if you need more metal.\nUse caution with hostile fleets.	0		'1808921887:Player panel.prefab
 	'Excess cargo, cannot move!\nIt is sometimes possible to convert excess cargo to small amounts of fuel.	'Excess cargo, cannot move!\nIt is sometimes possible to convert excess cargo to small amounts of fuel.	0		'1037473571:Player panel.prefab
 	'EXCESS	'EXCESS	10		'1261967934:Player panel.prefab
@@ -1732,7 +1732,7 @@
 	'Sensor not functional, minimal vision range only!\nWe're driving practically blind.	'Sensor not functional, minimal vision range only!\nWe're driving practically blind.	0		'749454256:Player panel.prefab
 	'Fuel low!\nConsider re-routing towards closest gas giants or stations.	'Fuel low!\nConsider re-routing towards closest gas giants or stations.	0		'305266896:Player panel.prefab
 	'Organics low!\nConsider cryofreezing some crew or seek planets with biosphere.	'Organics low!\nConsider cryofreezing some crew or seek planets with biosphere.	0		'1624037116:Player panel.prefab
-	'Synthetics low!\nSynthethics are necessary to repair modules.\nRecycling almost any module will provide more synthetics.	'Synthetics low!\nSynthethics are necessary to repair modules.\nRecycling almost any module will provide more synthetics.	0		'2106581677:Player panel.prefab
+	'Synthetics low!\nSynthetics are necessary to repair modules.\nRecycling almost any module will provide more synthetics.	'Synthetics low!\nSynthetics are necessary to repair modules.\nRecycling almost any module will provide more synthetics.	0		'2106581677:Player panel.prefab
 	'Metals low!\nMetals are necessary when repairing ship hull with crew.\nRecycling tech modules will usually provide some metals.	'Metals low!\nMetals are necessary when repairing ship hull with crew.\nRecycling tech modules will usually provide some metals.	0		'803467721:Player panel.prefab
 	'Explosives low.\nWeapons that need explosives will soon run out of ammo!	'Explosives low.\nWeapons that need explosives will soon run out of ammo!	0		'528451596:Player panel.prefab
 	'Exotics low.	'Exotics low.	0		'1919526967:Player panel.prefab
@@ -1867,7 +1867,7 @@
 	'EXPLOSIVES	'EXPLOSIVES	0		'1317031195:Shop panel tabbed.prefab
 	'Average price when sold by stations: 50 credits.\nExotics are an alternative currency to xenodata. Most automated trader stations accept exotics even if they don't buy any other resources.	'Average price when sold by stations: 50 credits.\nExotics are an alternative currency to xenodata. Most automated trader stations accept exotics even if they don't buy any other resources.	0		'1742609507:Shop panel tabbed.prefab; 188087373:Shop panel tabbed.prefab
 	'EXOTICS	'EXOTICS	0		'99009998:Shop panel tabbed.prefab
-	'Average price when sold by stations: 2 credits.\nSynthethics are consumed when repairing broken ship modules.	'Average price when sold by stations: 2 credits.\nSynthethics are consumed when repairing broken ship modules.	0		'16580397:Shop panel tabbed.prefab; 320220067:Shop panel tabbed.prefab
+	'Average price when sold by stations: 2 credits.\nSynthetics are consumed when repairing broken ship modules.	'Average price when sold by stations: 2 credits.\nSynthetics are consumed when repairing broken ship modules.	0		'16580397:Shop panel tabbed.prefab; 320220067:Shop panel tabbed.prefab
 	'SYNTHETICS	'SYNTHETICS	0		'76370436:Shop panel tabbed.prefab
 	'Average price when sold by stations: 1 credits.\nSMetals are mostly used for creating temporary planetary structures during exploration events.	'Average price when sold by stations: 1 credits.\nSMetals are mostly used for creating temporary planetary structures during exploration events.	0		'545498322:Shop panel tabbed.prefab; 885320077:Shop panel tabbed.prefab
 	'METALS	'METALS	0		'490851218:Shop panel tabbed.prefab
@@ -2269,7 +2269,7 @@
 'text	'We've detected even greater accessible fuel elements deeper near the gas giant core. However, venturing this deep is incredibly dangerous. We should attempt this only in an emergency.	'We've detected even greater accessible fuel elements deeper near the gas giant core. However, venturing this deep is incredibly dangerous. We should attempt this only in an emergency.	400		'659760531:123456 P Gas giants revisitable.prefab
 'choiceText	'Print heavy harvester bots [-100 synthetics]	'Print heavy harvester bots [-100 synthetics]	100		'659760531:123456 P Gas giants revisitable.prefab
 'choiceText	'Harvest with our ship	'Harvest with our ship	100		'659760531:123456 P Gas giants revisitable.prefab
-'choiceText	'Let's see if we can scrap anything for synthethics	'Let's see if we can scrap anything for synthethics	100		'659760531:123456 P Gas giants revisitable.prefab
+'choiceText	'Let's see if we can scrap anything for synthetics	'Let's see if we can scrap anything for synthetics	100		'659760531:123456 P Gas giants revisitable.prefab
 'text2	'Fuel harvested until it was no longer safely accessible. We were able to recover some of the materials used to print the harvesting equipment.	'Fuel harvested until it was no longer safely accessible. We were able to recover some of the materials used to print the harvesting equipment.	400		'437482201:123456 P Gas giants revisitable.prefab
 'newName3	'no accessible fuel left	'no accessible fuel left	25		'437482201:123456 P Gas giants revisitable.prefab; 325657004:123456 P Gas giants revisitable.prefab; 1103113376:123456 P Gas giants revisitable.prefab; 2011080194:123456 P Gas giants revisitable.prefab
 'text2	'Despite taking critical damage from the ravaging atmosphere, our ship was able to gather large amounts of fuel.	'Despite taking critical damage from the ravaging atmosphere, our ship was able to gather large amounts of fuel.	400		'2011080194:123456 P Gas giants revisitable.prefab
@@ -2635,7 +2635,7 @@
 'text2	'Its a cloud of half-digested plastics. Probably expelled by warp animals.	'Its a cloud of half-digested plastics. Probably expelled by warp animals.	400		'1909258193:123456 Exo garbage x10.prefab; 1179873276:8 spideraa awesome garbage x10.prefab
 'title	'Gold bars collected	'Gold bars collected	35		'1909258192:123456 Exo garbage x10.prefab
 'text2	'Among other bits of metal, we discovered a load of precious metal bars. Perhaps somebody dumped them as excess to carry something more valuable?	'Among other bits of metal, we discovered a load of precious metal bars. Perhaps somebody dumped them as excess to carry something more valuable?	400		'1909258192:123456 Exo garbage x10.prefab
-'title	'Synthethics collected	'Synthethics collected	35		'1909258195:123456 Exo garbage x10.prefab; 1179873278:8 spideraa awesome garbage x10.prefab
+'title	'Synthetics collected	'Synthetics collected	35		'1909258195:123456 Exo garbage x10.prefab; 1179873278:8 spideraa awesome garbage x10.prefab
 'text2	'Somebody has left behind a load of high-quality synthetics. Perhaps it was dumped as excess to carry something more valuable.	'Somebody has left behind a load of high-quality synthetics. Perhaps it was dumped as excess to carry something more valuable.	400		'1909258195:123456 Exo garbage x10.prefab; 1179873278:8 spideraa awesome garbage x10.prefab
 'title	'Ceramic armor plates found	'Ceramic armor plates found	35		'1909258194:123456 Exo garbage x10.prefab
 'text2	'We discovered numerous high-quality pieces of ceramic ship armor among the less valuable metal bits.	'We discovered numerous high-quality pieces of ceramic ship armor among the less valuable metal bits.	400		'1909258194:123456 Exo garbage x10.prefab
@@ -2815,7 +2815,7 @@
 'title	'Metal debris	'Metal debris	35		'453931684:25 Exo debris, capmissile attack or artifact.prefab
 'text	'Scans have picked up a faint signal of active (potentially dangerous) technology within this field of debris. Commence scavenging operation?	'Scans have picked up a faint signal of active (potentially dangerous) technology within this field of debris. Commence scavenging operation?	400		'453931684:25 Exo debris, capmissile attack or artifact.prefab
 'choiceText	'Scavenge with Mothership	'Scavenge with Mothership	100		'453931684:25 Exo debris, capmissile attack or artifact.prefab
-'choiceText	'Scavenge with printed bots & equipment [-50 synthethics]	'Scavenge with printed bots & equipment [-50 synthethics]	100		'453931684:25 Exo debris, capmissile attack or artifact.prefab
+'choiceText	'Scavenge with printed bots & equipment [-50 synthetics]	'Scavenge with printed bots & equipment [-50 synthetics]	100		'453931684:25 Exo debris, capmissile attack or artifact.prefab
 'text2	'An intact artifact with partially active subsystems was discovered floating among the debris.	'An intact artifact with partially active subsystems was discovered floating among the debris.	400		'1003084108:25 Exo debris, capmissile attack or artifact.prefab
 'reasonToDisplay	'materials salvaged	'materials salvaged	30		'25 Exo debris, capmissile attack or artifact.prefab; P ocean wasteland, salvageable selfdestruct sys.prefab; P ocean wasteland, salvageable selfdestruct sys.prefab
 'title	'Capital missile ambush!	'Capital missile ambush!	35		'1070289182:25 Exo debris, capmissile attack or artifact.prefab; 1070289184:25 Exo debris, capmissile attack or artifact.prefab
@@ -2914,7 +2914,7 @@
 'title	'Wreckage	'Wreckage	35		'1486481263:3 Exo wreck warp ambush.prefab; 531419731:1 P shipwreck in sand 2mt orbital mines.prefab; 1010208271:3 P shipwreck 4mt, maybe defsattelites.prefab; 1383228907:5 P shipwreck squid mo orbital mines.prefab; 1511451396:3 P shipwreck 4mt, maybe defsattelites.prefab; 1997063137:3 Exo wreck warp ambush.prefab
 'text	'Our sensors detect a strong warp charge coming from within the wreckage. Could it be some kind of advanced tech? The ship itself seems to be in a very bad shape. No life detected.	'Our sensors detect a strong warp charge coming from within the wreckage. Could it be some kind of advanced tech? The ship itself seems to be in a very bad shape. No life detected.	400		'1486481263:3 Exo wreck warp ambush.prefab
 'choiceText	'Investigate with Mothership	'Investigate with Mothership	100		'1486481263:3 Exo wreck warp ambush.prefab; 475376652:3 P wilderness reserve, O, moonMf and LRsensors.prefab; 627483606:1 P nuclear war ruins MFt, moonTm.prefab; 1122654916:2 P insectoid war ruins FME, moonFE and good nonweapons.prefab; 1947747478:2 P green forest OR, moon ET good nonweapons.prefab
-'choiceText	'Print long-range scouting bots and stay at a safe distance [-40 synthethics]	'Print long-range scouting bots and stay at a safe distance [-40 synthethics]	100		'1486481263:3 Exo wreck warp ambush.prefab
+'choiceText	'Print long-range scouting bots and stay at a safe distance [-40 synthetics]	'Print long-range scouting bots and stay at a safe distance [-40 synthetics]	100		'1486481263:3 Exo wreck warp ambush.prefab
 'text	'The herd keeps following and shooting at us with their invisible deathrays. Orders?	'The herd keeps following and shooting at us with their invisible deathrays. Orders?	400		'1997063137:3 Exo wreck warp ambush.prefab
 'choiceText	'Leave printed mines in our trail! [-30 explosives]	'Leave printed mines in our trail! [-30 explosives]	100		'1997063137:3 Exo wreck warp ambush.prefab
 'choiceText	'Overcharge the engines! [-40 fuel]	'Overcharge the engines! [-40 fuel]	100		'1997063137:3 Exo wreck warp ambush.prefab
@@ -3186,7 +3186,7 @@
 'choiceText	'We can help you [-200 synthetics]	'We can help you [-200 synthetics]	100		'394340510:SOS5 exo, spare parts and explos.prefab
 'newName3	'needs 200 synthetics	'needs 200 synthetics	25		'394340510:SOS5 exo, spare parts and explos.prefab
 'text2	'After repairing his ship, the captain sends us a giant natural artifact as expression of gratitude, along with some fine exotic consumables.	'After repairing his ship, the captain sends us a giant natural artifact as expression of gratitude, along with some fine exotic consumables.	400		'334019281:SOS5 exo, spare parts and explos.prefab
-'text	'We do not have enough synthethics. We may return later if we have more.	'We do not have enough synthethics. We may return later if we have more.	600		'1022744480:SOS5 exo, spare parts and explos.prefab; 433373080:SOS6 exo, reactor or explos.prefab
+'text	'We do not have enough synthetics. We may return later if we have more.	'We do not have enough synthetics. We may return later if we have more.	600		'1022744480:SOS5 exo, spare parts and explos.prefab; 433373080:SOS6 exo, reactor or explos.prefab
 'text2	'Only the SOS signal was still active, everything else had broken down long ago. We salvaged everything.	'Only the SOS signal was still active, everything else had broken down long ago. We salvaged everything.	400		'1775706121:SOS5 exo, spare parts and explos.prefab
 'text2	'After repairing his ship, the captain expresses his gratitude by sending us a pair of capital missiles!	'After repairing his ship, the captain expresses his gratitude by sending us a pair of capital missiles!	400		'399627857:SOS5 exo, spare parts and explos.prefab
 
@@ -3841,7 +3841,7 @@
 '1 wr. online ship, turrets PD terran3, PD G1, combatsensor2.prefab
 'name2	'active technology	'active technology	25		'481226189:1 wr. online ship, turrets PD terran3, PD G1, combatsensor2.prefab
 'text	'Our sensors detect active technology within the wreckage but no life. The active systems could be automated defences.	'Our sensors detect active technology within the wreckage but no life. The active systems could be automated defences.	400		'1447900597:1 wr. online ship, turrets PD terran3, PD G1, combatsensor2.prefab
-'choiceText	'Print disposable bots for a closer look [-20 synthethics]	'Print disposable bots for a closer look [-20 synthethics]	100		'1447900597:1 wr. online ship, turrets PD terran3, PD G1, combatsensor2.prefab
+'choiceText	'Print disposable bots for a closer look [-20 synthetics]	'Print disposable bots for a closer look [-20 synthetics]	100		'1447900597:1 wr. online ship, turrets PD terran3, PD G1, combatsensor2.prefab
 'choiceText	'Investigate with ship	'Investigate with ship	100		'1447900597:1 wr. online ship, turrets PD terran3, PD G1, combatsensor2.prefab
 'title	'Success!	'Success!	35		'908559599:1 wr. online ship, turrets PD terran3, PD G1, combatsensor2.prefab; 821887474:4 P precursor tech cave MoT, good weaponsx3.prefab; 975764675:1 wr. online ship, turrets PD terran3, PD G1, combatsensor2.prefab
 'text2	'Our hackers were launched at the ship aboard heavily armoured boarding shuttles and survived the point defence crossfire while approaching. Once inside, they discovered the ship was rather primitive and were able to disable it with little effort.	'Our hackers were launched at the ship aboard heavily armoured boarding shuttles and survived the point defence crossfire while approaching. Once inside, they discovered the ship was rather primitive and were able to disable it with little effort.	400		'908559599:1 wr. online ship, turrets PD terran3, PD G1, combatsensor2.prefab
@@ -4427,7 +4427,7 @@
 'reasonToDisplay	'ship repairs finished	'ship repairs finished	30		'2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab; 2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab
 'title	'Gift from the community	'Gift from the community	35		'325874457:2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab
 'text2	'Before we leave, the local representatives bring us a minor gift from their community.	'Before we leave, the local representatives bring us a minor gift from their community.	400		'325874457:2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab
-'text	'We are approached by a pair of local asteroid miners. Hearing of our quest, they ask if we are interested in buying a set of 3 mining lasers. One of their mining ships crashed recently and will be decommissioned, but all of its weapons should be still functional. The weapons should also provide much synthethics if scrapped, they explain.	'We are approached by a pair of local asteroid miners. Hearing of our quest, they ask if we are interested in buying a set of 3 mining lasers. One of their mining ships crashed recently and will be decommissioned, but all of its weapons should be still functional. The weapons should also provide much synthethics if scrapped, they explain.	400		'1303414747:2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab
+'text	'We are approached by a pair of local asteroid miners. Hearing of our quest, they ask if we are interested in buying a set of 3 mining lasers. One of their mining ships crashed recently and will be decommissioned, but all of its weapons should be still functional. The weapons should also provide much synthetics if scrapped, they explain.	'We are approached by a pair of local asteroid miners. Hearing of our quest, they ask if we are interested in buying a set of 3 mining lasers. One of their mining ships crashed recently and will be decommissioned, but all of its weapons should be still functional. The weapons should also provide much synthetics if scrapped, they explain.	400		'1303414747:2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab
 'choiceText	'Buy the weapon set [-260 creds]	'Buy the weapon set [-260 creds]	100		'1303414747:2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab
 'choiceText	'Politely decline	'Politely decline	100		'1303414747:2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab; 520326627:2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab; 569151455:5 P precursor robot wants gift.prefab; 802086112:2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab; 994152602:4 Pi Yu-Ee colony, FO,Repair,trade Shield4,Warp4.prefab; 1386535704:2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab; 1444491296:4 Pi Yu-Ee colony, FO,Repair,trade Shield4,Warp4.prefab
 'text	'"Sorry, not enough credits for this operation."	'"Sorry, not enough credits for this operation."	600		'1388316479:2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab
@@ -4436,7 +4436,7 @@
 'reasonToDisplay	'donation provided	'donation provided	30		'2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab; 2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab
 'text	'One of the locals requests a formal audience. She explains that she is from a planet ruled by violent tyrants, not much better than the slavers. She is raising a fund to create an army of bots that would liberate the planet and guard the population from violence. She asks if you can support her noble cause.	'One of the locals requests a formal audience. She explains that she is from a planet ruled by violent tyrants, not much better than the slavers. She is raising a fund to create an army of bots that would liberate the planet and guard the population from violence. She asks if you can support her noble cause.	400		'520326627:2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab
 'choiceText	'Donate 100 metals to the anti-tyranny fund	'Donate 100 metals to the anti-tyranny fund	100		'520326627:2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab
-'choiceText	'Donate 100 synthethics to the anti-tyranny fund	'Donate 100 synthethics to the anti-tyranny fund	100		'520326627:2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab
+'choiceText	'Donate 100 synthetics to the anti-tyranny fund	'Donate 100 synthetics to the anti-tyranny fund	100		'520326627:2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab
 'text	'This is a multispecies refugee colony. Visitor info suggests that an alliance of benevolent advanced civilizations rescued many individuals from various violence-ruled planets, and donated this desert planet as a new home, so that they may live in peace.	'This is a multispecies refugee colony. Visitor info suggests that an alliance of benevolent advanced civilizations rescued many individuals from various violence-ruled planets, and donated this desert planet as a new home, so that they may live in peace.	400		'1174481380:2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab
 'choiceText	'Meet the locals [send crew]	'Meet the locals [send crew]	100		'1174481380:2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab; 1231417571:4 Pi Yu-Ee colony, FO,Repair,trade Shield4,Warp4.prefab
 'newName3	'refugee colony	'refugee colony	25		'1174481380:2 Pi pyramid refugee colony FOC trade mlaser4, stinger2.prefab
@@ -4934,7 +4934,7 @@
 '4 P fuel lake Fo.prefab
 'name2	'Chemically active planet	'Chemically active planet	25		'1891593572:4 P fuel lake Fo.prefab
 'text	'The planet is covered with lakes of superheavy water, a potent radioactive fuel chemical. We could set up extraction facilities here and probably get a good load of the raw stuff, easily convertible into starfuel.	'The planet is covered with lakes of superheavy water, a potent radioactive fuel chemical. We could set up extraction facilities here and probably get a good load of the raw stuff, easily convertible into starfuel.	400		'672686459:4 P fuel lake Fo.prefab
-'choiceText	'Set up fuel extraction facilities [-50 synthethics]	'Set up fuel extraction facilities [-50 synthethics]	100		'672686459:4 P fuel lake Fo.prefab
+'choiceText	'Set up fuel extraction facilities [-50 synthetics]	'Set up fuel extraction facilities [-50 synthetics]	100		'672686459:4 P fuel lake Fo.prefab
 'text2	'Extraction and processing completed successfully, no accidents reported.	'Extraction and processing completed successfully, no accidents reported.	400		'171443334:4 P fuel lake Fo.prefab
 'reasonToDisplay	'starfuel elements extracted	'starfuel elements extracted	30		'4 P fuel lake Fo.prefab; 4 P fuel lake Fo.prefab
 'title	'Noncarbon life	'Noncarbon life	35		'238648407:4 P fuel lake Fo.prefab
@@ -5136,7 +5136,7 @@
 'reasonToDisplay	'ruined temple looted	'ruined temple looted	30		'4 Pi cactibugs, steal T.prefab
 
 '4 Pi Collector trade gone bad F plus nuke.prefab
-'text	'We've discovered and contacted a primitive civilization, the Collectors. It is a species of mammals who are in the middle of the industrial age. The personal freedom in their society is very inequal, they still need to learn a lot. After a private conversation with our AI, the primitives' representatives come to terms of possible trade. They desire our advanced synthethics.	'We've discovered and contacted a primitive civilization, the Collectors. It is a species of mammals who are in the middle of the industrial age. The personal freedom in their society is very inequal, they still need to learn a lot. After a private conversation with our AI, the primitives' representatives come to terms of possible trade. They desire our advanced synthethics.	400		'1886907309:4 Pi Collector trade gone bad F plus nuke.prefab
+'text	'We've discovered and contacted a primitive civilization, the Collectors. It is a species of mammals who are in the middle of the industrial age. The personal freedom in their society is very inequal, they still need to learn a lot. After a private conversation with our AI, the primitives' representatives come to terms of possible trade. They desire our advanced synthetics.	'We've discovered and contacted a primitive civilization, the Collectors. It is a species of mammals who are in the middle of the industrial age. The personal freedom in their society is very inequal, they still need to learn a lot. After a private conversation with our AI, the primitives' representatives come to terms of possible trade. They desire our advanced synthetics.	400		'1886907309:4 Pi Collector trade gone bad F plus nuke.prefab
 'choiceText	'Trade [-100 synthetics + 100 fuel]	'Trade [-100 synthetics + 100 fuel]	100		'1886907309:4 Pi Collector trade gone bad F plus nuke.prefab
 'newName3	'Collector civilization, industrial era	'Collector civilization, industrial era	25		'1886907309:4 Pi Collector trade gone bad F plus nuke.prefab
 'text2	'After completing the exchange and a bit of testing, it turns out we have been delivered a much lower quality fuel than promised. When we point out the mistake, the locals tell us that their previous representatives were criminals and have already been executed. We are given some kind of poor local food as remuneration. The incident has created a large political conflict between the planet's ruling factions...	'After completing the exchange and a bit of testing, it turns out we have been delivered a much lower quality fuel than promised. When we point out the mistake, the locals tell us that their previous representatives were criminals and have already been executed. We are given some kind of poor local food as remuneration. The incident has created a large political conflict between the planet's ruling factions...	400		'1204319945:4 Pi Collector trade gone bad F plus nuke.prefab
@@ -5414,7 +5414,7 @@
 
 '5 P nanobot atmosphere R.prefab
 'text	'This planet has conflicting data on possibility of life or other conditions. Something in the atmosphere creates a strong interference with our sensors. We could print reconaissance bots or investigate with our ship.	'This planet has conflicting data on possibility of life or other conditions. Something in the atmosphere creates a strong interference with our sensors. We could print reconaissance bots or investigate with our ship.	400		'2027603741:5 P nanobot atmosphere R.prefab
-'choiceText	'Send bots to investigate [-20 synthethics]	'Send bots to investigate [-20 synthethics]	100		'2027603741:5 P nanobot atmosphere R.prefab; 252360366:5 P nanobot atmosphere R.prefab
+'choiceText	'Send bots to investigate [-20 synthetics]	'Send bots to investigate [-20 synthetics]	100		'2027603741:5 P nanobot atmosphere R.prefab; 252360366:5 P nanobot atmosphere R.prefab
 'choiceText	'Investigate with our ship	'Investigate with our ship	100		'2027603741:5 P nanobot atmosphere R.prefab; 252360366:5 P nanobot atmosphere R.prefab
 'text2	'Scouting reveals this planet is home to advanced nanobot swarms in the atmosphere, capable of disrupting technology by emitting synchronized electromagnetic waves. The nanobots have consumed all other resources on the planet. Recordings on the phenomenon has scientific value.	'Scouting reveals this planet is home to advanced nanobot swarms in the atmosphere, capable of disrupting technology by emitting synchronized electromagnetic waves. The nanobots have consumed all other resources on the planet. Recordings on the phenomenon has scientific value.	400		'1526360616:5 P nanobot atmosphere R.prefab; 1593565689:5 P nanobot atmosphere R.prefab
 'text2	'Scouting bots were printed and entered the atmosphere. We suddenly lost contact with them before they reported anything interesting.	'Scouting bots were printed and entered the atmosphere. We suddenly lost contact with them before they reported anything interesting.	400		'1593565690:5 P nanobot atmosphere R.prefab
@@ -5456,7 +5456,7 @@
 'text2	'Planetwide mining operations completed. Our activities have created a planet-wide extinction event. Our improved estimations show over half of the species on this planet might be gone in a year.	'Planetwide mining operations completed. Our activities have created a planet-wide extinction event. Our improved estimations show over half of the species on this planet might be gone in a year.	400		'170156621:5 P primcyanide life, E.prefab
 'text	'Prospecting the planet revealed the planet surface layers contain trace amounts of exotic elements. Ecology-preserving mining operations need extra resources. However, easy strip mining would destroy about 50% of the local ecosystem. Orders?	'Prospecting the planet revealed the planet surface layers contain trace amounts of exotic elements. Ecology-preserving mining operations need extra resources. However, easy strip mining would destroy about 50% of the local ecosystem. Orders?	400		'3998550:5 P primcyanide life, E.prefab
 'choiceText	'Research & strip-mine [-10 fuel]	'Research & strip-mine [-10 fuel]	100		'3998550:5 P primcyanide life, E.prefab
-'choiceText	'Research & eco-mine [-50 fuel, -50 synthethics]	'Research & eco-mine [-50 fuel, -50 synthethics]	100		'3998550:5 P primcyanide life, E.prefab
+'choiceText	'Research & eco-mine [-50 fuel, -50 synthetics]	'Research & eco-mine [-50 fuel, -50 synthetics]	100		'3998550:5 P primcyanide life, E.prefab
 'choiceText	'Let's take a moment to see if we can scrap anything	'Let's take a moment to see if we can scrap anything	100		'3998550:5 P primcyanide life, E.prefab
 'newName3	'cyanide ecosystem	'cyanide ecosystem	25		'3998550:5 P primcyanide life, E.prefab
 'text	'Strip-mining... %	'Strip-mining... %	50		'106779821:5 P primcyanide life, E.prefab
@@ -5492,7 +5492,7 @@
 '5 P treestump with hostile nanobots.prefab
 'title	'Site of interest found	'Site of interest found	35		'252574882:5 P treestump with hostile nanobots.prefab
 'text	'The entire planet is a desolate ball of dirt, except for a giant fossilized tree trunk, along with a few smaller ones. Some kind of exotic moss colony seems to be living on the tree remains. We detect it's emitting trace amounts of warp enegy.	'The entire planet is a desolate ball of dirt, except for a giant fossilized tree trunk, along with a few smaller ones. Some kind of exotic moss colony seems to be living on the tree remains. We detect it's emitting trace amounts of warp enegy.	400		'252574882:5 P treestump with hostile nanobots.prefab
-'choiceText	'Print bots to harvest the moss for resources & research [-30 synthethics]	'Print bots to harvest the moss for resources & research [-30 synthethics]	100		'252574882:5 P treestump with hostile nanobots.prefab
+'choiceText	'Print bots to harvest the moss for resources & research [-30 synthetics]	'Print bots to harvest the moss for resources & research [-30 synthetics]	100		'252574882:5 P treestump with hostile nanobots.prefab
 'choiceText	'Carry out closer analysis on the spot [send crew]	'Carry out closer analysis on the spot [send crew]	100		'252574882:5 P treestump with hostile nanobots.prefab
 'choiceText	'Research only. Leave the moss untouched.	'Research only. Leave the moss untouched.	100		'252574882:5 P treestump with hostile nanobots.prefab
 'text	'printing bots... %	'printing bots... %	50		'1224390314:5 P treestump with hostile nanobots.prefab
@@ -5535,7 +5535,7 @@
 'text2	'The atmospheric conditions around the mining site intensified several times but we were able to complete the operations without significant accidents.	'The atmospheric conditions around the mining site intensified several times but we were able to complete the operations without significant accidents.	400		'984435613:5 P volcanic EF.prefab
 'title	'Operation not possible	'Operation not possible	35		'2046877635:5 P volcanic EF.prefab; 128405819:36 P volcanic M.prefab
 'text	'Unexpected atmospheric activity destroyed our prospector bots before they could complete evaluation of the mining prospects.	'Unexpected atmospheric activity destroyed our prospector bots before they could complete evaluation of the mining prospects.	400		'1833042540:5 P volcanic EF.prefab
-'choiceText	'Print more bots [-20 synthethics]	'Print more bots [-20 synthethics]	100		'1833042540:5 P volcanic EF.prefab
+'choiceText	'Print more bots [-20 synthetics]	'Print more bots [-20 synthetics]	100		'1833042540:5 P volcanic EF.prefab
 
 '5 Pi carniplants Rom.prefab
 'name2	'Jungle planet	'Jungle planet	25		'2121532324:5 Pi carniplants Rom.prefab
@@ -5684,7 +5684,7 @@
 'newName3	'warp worm nest	'warp worm nest	25		'43650717:P precursor tech MT, possibly dysfunctional visited icon.prefab
 'title	'Crysid beacon	'Crysid beacon	35		'849929042:P precursor tech MT, possibly dysfunctional visited icon.prefab
 'text	'The warp energy source is a cheap beacon left behind by a precursor species called the Chrysid. We are not completely sure, but the beacon seems to signify some kind of value storage underground.	'The warp energy source is a cheap beacon left behind by a precursor species called the Chrysid. We are not completely sure, but the beacon seems to signify some kind of value storage underground.	400		'849929042:P precursor tech MT, possibly dysfunctional visited icon.prefab
-'choiceText	'Extended excavating operation [-40 fuel, -40 synthethics]	'Extended excavating operation [-40 fuel, -40 synthethics]	100		'849929042:P precursor tech MT, possibly dysfunctional visited icon.prefab
+'choiceText	'Extended excavating operation [-40 fuel, -40 synthetics]	'Extended excavating operation [-40 fuel, -40 synthetics]	100		'849929042:P precursor tech MT, possibly dysfunctional visited icon.prefab
 'newName3	'Chrysid beacon	'Chrysid beacon	25		'849929042:P precursor tech MT, possibly dysfunctional visited icon.prefab
 'title	'Advanced guardbot	'Advanced guardbot	35		'43650716:P precursor tech MT, possibly dysfunctional visited icon.prefab
 'text2	'A huge robot seemingly appeared out of nowhere and vaporized our bots. It also shot at our ship in orbit, scorching the hull with rays that effortlessly penetrated energy shields, suggesting some kind of precursor technology. We left as quickly as possible.	'A huge robot seemingly appeared out of nowhere and vaporized our bots. It also shot at our ship in orbit, scorching the hull with rays that effortlessly penetrated energy shields, suggesting some kind of precursor technology. We left as quickly as possible.	400		'43650716:P precursor tech MT, possibly dysfunctional visited icon.prefab
@@ -5940,7 +5940,7 @@
 'text	'To our relief, the place does not have any obvious connections to sentient slavery. We don't find anything useful for our ship, except a bulk offer of explosives.	'To our relief, the place does not have any obvious connections to sentient slavery. We don't find anything useful for our ship, except a bulk offer of explosives.	400		'1422470346:3 Pi Shop Dark Market mlaser3,medbay,combat sensors3,jammer3, automaticPD2.prefab
 'choiceText	'Buy the 200 explosives [-4 exotics]	'Buy the 200 explosives [-4 exotics]	100		'1422470346:3 Pi Shop Dark Market mlaser3,medbay,combat sensors3,jammer3, automaticPD2.prefab
 'newName3	'explosives for sale	'explosives for sale	25		'1422470346:3 Pi Shop Dark Market mlaser3,medbay,combat sensors3,jammer3, automaticPD2.prefab; 1698349101:3 Pi Shop Dark Market mlaser3,medbay,combat sensors3,jammer3, automaticPD2.prefab
-'text2	'Inspection after purchase reveals some of the explosives to have dangerously low quality. About half of them will have to be discarded and used as synthethics. Too late to complain now, the salesman has vanished from the market.	'Inspection after purchase reveals some of the explosives to have dangerously low quality. About half of them will have to be discarded and used as synthethics. Too late to complain now, the salesman has vanished from the market.	400		'1587738215:3 Pi Shop Dark Market mlaser3,medbay,combat sensors3,jammer3, automaticPD2.prefab
+'text2	'Inspection after purchase reveals some of the explosives to have dangerously low quality. About half of them will have to be discarded and used as synthetics. Too late to complain now, the salesman has vanished from the market.	'Inspection after purchase reveals some of the explosives to have dangerously low quality. About half of them will have to be discarded and used as synthetics. Too late to complain now, the salesman has vanished from the market.	400		'1587738215:3 Pi Shop Dark Market mlaser3,medbay,combat sensors3,jammer3, automaticPD2.prefab
 'newName3	'shady market, no offers	'shady market, no offers	25		'1587738215:3 Pi Shop Dark Market mlaser3,medbay,combat sensors3,jammer3, automaticPD2.prefab
 'text2	'Operation completed without problems. We may repeat the transaction.	'Operation completed without problems. We may repeat the transaction.	400		'1698349101:3 Pi Shop Dark Market mlaser3,medbay,combat sensors3,jammer3, automaticPD2.prefab
 
@@ -5950,7 +5950,7 @@
 'text	'This is one of the ancient Intergalactic Public Matter Processors. These famous facilities were built by older races for public use centuries ago. They are still working after hundreds of years of service. We may convert some of our resources to others.	'This is one of the ancient Intergalactic Public Matter Processors. These famous facilities were built by older races for public use centuries ago. They are still working after hundreds of years of service. We may convert some of our resources to others.	400		'1571635869:34 P Public convertor x3 MFO.prefab; 1789483211:34 P Public convertor x3 MFO.prefab
 'choiceText	'Use facilities [convert 100 synthetics to 100 fuel]	'Use facilities [convert 100 synthetics to 100 fuel]	100		'1571635869:34 P Public convertor x3 MFO.prefab
 'newName3	'synthetics to fuel conversion	'synthetics to fuel conversion	25		'1571635869:34 P Public convertor x3 MFO.prefab
-'title	'Not enough synthethics	'Not enough synthethics	35		'1951490523:34 P Public convertor x3 MFO.prefab
+'title	'Not enough synthetics	'Not enough synthetics	35		'1951490523:34 P Public convertor x3 MFO.prefab
 'choiceText	'Use facilities [convert 50 explosives to 52 fuel]	'Use facilities [convert 50 explosives to 52 fuel]	100		'1789483211:34 P Public convertor x3 MFO.prefab
 'newName3	'explosives to fuel conversion	'explosives to fuel conversion	25		'1789483211:34 P Public convertor x3 MFO.prefab
 'text	'This is one of the ancient Intergalactic Public Matter Processors. These facilities were built by older civilizations for public use centuries ago. They are still working after hundreds of years of service. We may convert some of our resources to others.	'This is one of the ancient Intergalactic Public Matter Processors. These facilities were built by older civilizations for public use centuries ago. They are still working after hundreds of years of service. We may convert some of our resources to others.	400		'1156255720:34 P Public convertor x3 MFO.prefab
@@ -5958,7 +5958,7 @@
 'newName3	'organics to fuel conversion	'organics to fuel conversion	25		'1156255720:34 P Public convertor x3 MFO.prefab
 'title	'Conversion complete	'Conversion complete	35		'1878132518:34 P Public convertor x3 MFO.prefab; 684490835:34 P Public convertor x3 MFO.prefab; 684490836:34 P Public convertor x3 MFO.prefab
 'text2	'Time has degraded efficiency of the facility, as it was able to generate less fuel than expected. We may repeat the process any time.	'Time has degraded efficiency of the facility, as it was able to generate less fuel than expected. We may repeat the process any time.	400		'1878132518:34 P Public convertor x3 MFO.prefab
-'choiceTexts	'Convert another 100 synthethics to fuel	'Convert another 100 synthethics to fuel	100		'1878132518:34 P Public convertor x3 MFO.prefab
+'choiceTexts	'Convert another 100 synthetics to fuel	'Convert another 100 synthetics to fuel	100		'1878132518:34 P Public convertor x3 MFO.prefab
 'text2	'After being loaded with the correct amount of explosives, the facilities start to make terrible noises and release large clouds of steam into the atmosphere. After a few hours, a container full of fuel emerges from the factory. We may repeat the process any time.	'After being loaded with the correct amount of explosives, the facilities start to make terrible noises and release large clouds of steam into the atmosphere. After a few hours, a container full of fuel emerges from the factory. We may repeat the process any time.	400		'684490836:34 P Public convertor x3 MFO.prefab
 'reasonToDisplay	'explosives converted	'explosives converted	30		'34 P Public convertor x3 MFO.prefab
 'choiceTexts	'Convert another 30 explosives to fuel	'Convert another 30 explosives to fuel	100		'684490836:34 P Public convertor x3 MFO.prefab
@@ -5981,7 +5981,7 @@
 'text	'This planet features extreme temperatures and intense volcanic activity. Initial scans suggest possibility of precious metals. Prospect for mining opportunities?	'This planet features extreme temperatures and intense volcanic activity. Initial scans suggest possibility of precious metals. Prospect for mining opportunities?	400		'1647485497:36 P volcanic M.prefab
 'text2	'Mining operation completed without incidents. We were able to recover most of the materials used to print the mining facilities & equipment.	'Mining operation completed without incidents. We were able to recover most of the materials used to print the mining facilities & equipment.	400		'1146242372:36 P volcanic M.prefab
 'text	'Prospecting shows the planet surface layers contain abundant metallic elements. Operations on this planet requires printing of dedicated heat-resistant equipment. Mining from here is risky.	'Prospecting shows the planet surface layers contain abundant metallic elements. Operations on this planet requires printing of dedicated heat-resistant equipment. Mining from here is risky.	400		'1059983736:36 P volcanic M.prefab
-'choiceText	'Print suitable mining equipment [-35 synthethics]	'Print suitable mining equipment [-35 synthethics]	100		'1059983736:36 P volcanic M.prefab
+'choiceText	'Print suitable mining equipment [-35 synthetics]	'Print suitable mining equipment [-35 synthetics]	100		'1059983736:36 P volcanic M.prefab
 'newName3	'acessible metal seams	'acessible metal seams	25		'1059983736:36 P volcanic M.prefab
 'text	'installing mining tech... %	'installing mining tech... %	50		'1663423855:36 P volcanic M.prefab; 2095352841:36 P volcanic M.prefab
 'text	'Prospecting for mining opportunities... %	'Prospecting for mining opportunities... %	50		'705380624:36 P volcanic M.prefab
@@ -6008,7 +6008,7 @@
 'text2	'You leave the unique ecosystem of this planet untouched. Discovery of such peaceful coexistence with warp animals and carbon nature is a rare one. Careful study might create a scientific breakthrough in understanding warp life.	'You leave the unique ecosystem of this planet untouched. Discovery of such peaceful coexistence with warp animals and carbon nature is a rare one. Careful study might create a scientific breakthrough in understanding warp life.	400		'1035963153:38 P jellyfish colony.prefab
 'title	'Warp animals spotted	'Warp animals spotted	35		'1884570080:38 P jellyfish colony.prefab
 'text	'The planet is a lush garden, full of fruits and greenery ready for harvest. We spot multiple warp animals lazily floating about in the distance, they don't seem too interested in us at the moment. These large creatures are unpredictable and omnivores in the broadest sense though. They might, for example, sometimes hunt and eat spaceships.	'The planet is a lush garden, full of fruits and greenery ready for harvest. We spot multiple warp animals lazily floating about in the distance, they don't seem too interested in us at the moment. These large creatures are unpredictable and omnivores in the broadest sense though. They might, for example, sometimes hunt and eat spaceships.	400		'1884570080:38 P jellyfish colony.prefab
-'choiceText	'Research & eco-harvest organics [-20 fuel, -30 synthethics]	'Research & eco-harvest organics [-20 fuel, -30 synthethics]	100		'1884570080:38 P jellyfish colony.prefab
+'choiceText	'Research & eco-harvest organics [-20 fuel, -30 synthetics]	'Research & eco-harvest organics [-20 fuel, -30 synthetics]	100		'1884570080:38 P jellyfish colony.prefab
 'choiceText	'Resarch & harvest organics [-20 fuel]	'Resarch & harvest organics [-20 fuel]	100		'1884570080:38 P jellyfish colony.prefab
 'choiceText	'Take research samples and get the hell out of here	'Take research samples and get the hell out of here	100		'1884570080:38 P jellyfish colony.prefab
 'newName3	'warp animal colony	'warp animal colony	25		'1884570080:38 P jellyfish colony.prefab
@@ -6204,7 +6204,7 @@
 'text	'Thick forests cover this planet. Looks like a good spot for harvesting some organics.	'Thick forests cover this planet. Looks like a good spot for harvesting some organics.	400		'1387279230:1P FOODx19, sh unique warp mushrooms.prefab
 'text2	'We leave the unique ecosystem of this planet untouched, except for a few small scientific samples.	'We leave the unique ecosystem of this planet untouched, except for a few small scientific samples.	400		'436797707:1P FOODx19, sh unique warp mushrooms.prefab
 'text	'Most of the local organisms produce a noncarbon resin that prevents turning the local vegetation into readily consumable organics. However, we could process it into explosives on the spot.	'Most of the local organisms produce a noncarbon resin that prevents turning the local vegetation into readily consumable organics. However, we could process it into explosives on the spot.	400		'1094712793:1P FOODx19, sh unique warp mushrooms.prefab
-'choiceText	'Research & process the resin [-60 synthethics]	'Research & process the resin [-60 synthethics]	100		'1094712793:1P FOODx19, sh unique warp mushrooms.prefab
+'choiceText	'Research & process the resin [-60 synthetics]	'Research & process the resin [-60 synthetics]	100		'1094712793:1P FOODx19, sh unique warp mushrooms.prefab
 'newName3	'resinous ecosystem	'resinous ecosystem	25		'1094712793:1P FOODx19, sh unique warp mushrooms.prefab
 'text2	'It could have been a processing malfunction, a wetware error, or anomalous properties of the resin. In any case, the resin didn't turn volatile as expected, but became a worthless chewing-gum like substance. At least we generated some research data in the process.	'It could have been a processing malfunction, a wetware error, or anomalous properties of the resin. In any case, the resin didn't turn volatile as expected, but became a worthless chewing-gum like substance. At least we generated some research data in the process.	400		'1196312594:1P FOODx19, sh unique warp mushrooms.prefab
 'text2	'The walking fungi dispersed and tried to protect smaller beings with their bodies when our bots started killing them. The scene was so disturbing due to signs of their advanced behaviour that we aborted the operation halfway-through.	'The walking fungi dispersed and tried to protect smaller beings with their bodies when our bots started killing them. The scene was so disturbing due to signs of their advanced behaviour that we aborted the operation halfway-through.	400		'1777712301:1P FOODx19, sh unique warp mushrooms.prefab
@@ -6355,8 +6355,8 @@
 'choiceText	'Order organics/fuel multi-container [-140 credits]	'Order organics/fuel multi-container [-140 credits]	100		'236559479:2345 shopless P Kustom junkyard Container.prefab
 'choiceText	'Order a medium metal container [-75 credits]	'Order a medium metal container [-75 credits]	100		'236559479:2345 shopless P Kustom junkyard Container.prefab
 'choiceText	'Order a medium organics container [-100 credits]	'Order a medium organics container [-100 credits]	100		'236559479:2345 shopless P Kustom junkyard Container.prefab
-'choiceText	'Order metal/synthethics dual container [-140 credits]	'Order metal/synthethics dual container [-140 credits]	100		'236559479:2345 shopless P Kustom junkyard Container.prefab
-'choiceText	'Order large metal/synthethics/explosives multi-container [-240 credits]	'Order large metal/synthethics/explosives multi-container [-240 credits]	100		'236559479:2345 shopless P Kustom junkyard Container.prefab
+'choiceText	'Order metal/synthetics dual container [-140 credits]	'Order metal/synthetics dual container [-140 credits]	100		'236559479:2345 shopless P Kustom junkyard Container.prefab
+'choiceText	'Order large metal/synthetics/explosives multi-container [-240 credits]	'Order large metal/synthetics/explosives multi-container [-240 credits]	100		'236559479:2345 shopless P Kustom junkyard Container.prefab
 'text2	'The workers representative takes a look at your standard module blueprints. They take time to scutter through various junk found in their yard, and bit by bit, start to assemble something that looks like a container module. Few bots are used and most of the works are carried out manually. Finally, after several days work, the module is finished. It looks robust.	'The workers representative takes a look at your standard module blueprints. They take time to scutter through various junk found in their yard, and bit by bit, start to assemble something that looks like a container module. Few bots are used and most of the works are carried out manually. Finally, after several days work, the module is finished. It looks robust.	400		'1451739894:2345 shopless P Kustom junkyard Container.prefab; 1451739879:2345 shopless P Kustom junkyard Container.prefab; 1451739880:2345 shopless P Kustom junkyard Container.prefab
 'text2	'The workers representative takes a look at your standard module blueprints. They take time to scutter through various junk found in their yard, and bit by bit, start to assemble something that looks like a container module. Few bots are used and most of the works are carried out manually. Finally, after several days of work, the module is finished. It looks robust.	'The workers representative takes a look at your standard module blueprints. They take time to scutter through various junk found in their yard, and bit by bit, start to assemble something that looks like a container module. Few bots are used and most of the works are carried out manually. Finally, after several days of work, the module is finished. It looks robust.	400		'1451739893:2345 shopless P Kustom junkyard Container.prefab
 
@@ -6501,15 +6501,15 @@
 'altText	'The most valuable keyboard shortcuts during battle are <b>F5</b> (for toggling weapon quick selection UI) and <b>numbers 1..9</b> (for selecting weapons). And use <b>k</b> for switching on/off modules.	'The most valuable keyboard shortcuts during battle are <b>F5</b> (for toggling weapon quick selection UI) and <b>numbers 1..9</b> (for selecting weapons). And use <b>k</b> for switching on/off modules.	240		'373249443:Tutorial Battle.prefab
 'choiceTexts	'I will try to remember	'I will try to remember	15		'373249443:Tutorial Battle.prefab
 'altText	'For starters, please check out the Help summary about aiming with weapons. It is essential to understand this, if you are to survive any real battles.	'For starters, please check out the Help summary about aiming with weapons. It is essential to understand this, if you are to survive any real battles.	240		'486298594:Tutorial Battle.prefab
-'altText	'Module damaged. Damaged modules stop working and are colored red until repaired. Modules can be repaired only by your crew and <b>if you have enough synthethics...</b>	'Module damaged. Damaged modules stop working and are colored red until repaired. Modules can be repaired only by your crew and <b>if you have enough synthethics...</b>	240		'798589780:Tutorial Battle.prefab
+'altText	'Module damaged. Damaged modules stop working and are colored red until repaired. Modules can be repaired only by your crew and <b>if you have enough synthetics...</b>	'Module damaged. Damaged modules stop working and are colored red until repaired. Modules can be repaired only by your crew and <b>if you have enough synthetics...</b>	240		'798589780:Tutorial Battle.prefab
 'choiceTexts	'Tell me more	'Tell me more	15		'798589780:Tutorial Battle.prefab; 1265163325:Tutorial quest FSM.prefab; 1715107405:Tutorial quest FSM.prefab; 1965140516:Tutorial quest FSM.prefab
-'altText	'...repairing each module hitpoint needs 10 synthethics. <b>Scrap the synthethics packages</b> from your module storage to get repair materials.	'...repairing each module hitpoint needs 10 synthethics. <b>Scrap the synthethics packages</b> from your module storage to get repair materials.	240		'1911404527:Tutorial Battle.prefab
+'altText	'...repairing each module hitpoint needs 10 synthetics. <b>Scrap the synthetics packages</b> from your module storage to get repair materials.	'...repairing each module hitpoint needs 10 synthetics. <b>Scrap the synthetics packages</b> from your module storage to get repair materials.	240		'1911404527:Tutorial Battle.prefab
 'altText	'All weapons should now have enough resources for ammo. You can turn them on by selecting the weapon and using default shortkey (which is <b>K</b>) or clicking on the <b>power button</b> in weapon info panel. Make sure all our modules are online before we start the combat tutorial.	'All weapons should now have enough resources for ammo. You can turn them on by selecting the weapon and using default shortkey (which is <b>K</b>) or clicking on the <b>power button</b> in weapon info panel. Make sure all our modules are online before we start the combat tutorial.	240		'637713125:Tutorial Battle.prefab
 'choiceTexts	'Skip this step	'Skip this step	15		'637713125:Tutorial Battle.prefab; 1071972902:Tutorial Exit warpgate.prefab; 1266226718:Tutorial quest FSM.prefab
 'altText	'For starters, check out this overview about basic weapon types.	'For starters, check out this overview about basic weapon types.	240		'399630528:Tutorial Battle.prefab
 'choiceTexts	'OK, show me	'OK, show me	15		'399630528:Tutorial Battle.prefab
-'altText	'Module repairs are possible if you have obtained necessary resources by <b>scrapping the synthethics packages</b> from the module storage.	'Module repairs are possible if you have obtained necessary resources by <b>scrapping the synthethics packages</b> from the module storage.	240		'1835056541:Tutorial Battle.prefab
-'choiceTexts	'Yeah, I have synthethics for repairs	'Yeah, I have synthethics for repairs	15		'1835056541:Tutorial Battle.prefab
+'altText	'Module repairs are possible if you have obtained necessary resources by <b>scrapping the synthetics packages</b> from the module storage.	'Module repairs are possible if you have obtained necessary resources by <b>scrapping the synthetics packages</b> from the module storage.	240		'1835056541:Tutorial Battle.prefab
+'choiceTexts	'Yeah, I have synthetics for repairs	'Yeah, I have synthetics for repairs	15		'1835056541:Tutorial Battle.prefab
 'altText	'To start repairing a module, select crew and <b>R-click</b> on the broken module. Doing it via crew roles panel automatically sends the best unoccupied crew or drones to fix things.	'To start repairing a module, select crew and <b>R-click</b> on the broken module. Doing it via crew roles panel automatically sends the best unoccupied crew or drones to fix things.	240		'410665546:Tutorial Battle.prefab
 'altText	'If your weapons run out of <b>ammo</b>, always check if you have something in <b>module storage</b> that might help. Currently, we should still have metal and explosives packages in storage.	'If your weapons run out of <b>ammo</b>, always check if you have something in <b>module storage</b> that might help. Currently, we should still have metal and explosives packages in storage.	240		'807483356:Tutorial Battle.prefab
 'choiceTexts	'Got it - scrapping stuff for ammo	'Got it - scrapping stuff for ammo	15		'807483356:Tutorial Battle.prefab
@@ -8542,7 +8542,7 @@
 
 'multicontainer ESM-1.prefab
 'displayName	'Multi-container ESM-1	'Multi-container ESM-1	40		'1008150789:multicontainer ESM-1.prefab
-'description	'Increases storage capacity of metal, synthethics & explosives.	'Increases storage capacity of metal, synthethics & explosives.	200		'1008150789:multicontainer ESM-1.prefab; 426751082:multicontainer ESM-2.prefab
+'description	'Increases storage capacity of metal, synthetics & explosives.	'Increases storage capacity of metal, synthetics & explosives.	200		'1008150789:multicontainer ESM-1.prefab; 426751082:multicontainer ESM-2.prefab
 
 'multicontainer ESM-2.prefab
 'displayName	'Multi-container ESM-2	'Multi-container ESM-2	40		'426751082:multicontainer ESM-2.prefab
@@ -8584,7 +8584,7 @@
 
 'multicontainer MS-1.prefab
 'displayName	'Multi-container MS-I	'Multi-container MS-I	40		'1380487708:multicontainer MS-1.prefab
-'description	'Increases storage capacity of metal & synthethics.	'Increases storage capacity of metal & synthethics.	200		'1380487708:multicontainer MS-1.prefab
+'description	'Increases storage capacity of metal & synthetics.	'Increases storage capacity of metal & synthetics.	200		'1380487708:multicontainer MS-1.prefab
 
 'multicontainer OME mechanical.prefab
 'displayName	'Multi-container OME	'Multi-container OME	40		'920367928:multicontainer OME mechanical.prefab
@@ -8619,7 +8619,7 @@
 
 'synthetics container 0 diy.prefab
 'displayName	'Synthetics container (DIY)	'Synthetics container (DIY)	40		'165493307:synthetics container 0 diy.prefab
-'description	'Increases synthethics storage capacity.	'Increases synthethics storage capacity.	200		'165493307:synthetics container 0 diy.prefab; 376986556:synthetics container2 medium.prefab; 620471997:synthetics container1 small.prefab; 637430109:synthetics container3 large.prefab
+'description	'Increases synthetics storage capacity.	'Increases synthetics storage capacity.	200		'165493307:synthetics container 0 diy.prefab; 376986556:synthetics container2 medium.prefab; 620471997:synthetics container1 small.prefab; 637430109:synthetics container3 large.prefab
 
 'synthetics container1 small.prefab
 'displayName	'Synthetics container (small)	'Synthetics container (small)	40		'620471997:synthetics container1 small.prefab
@@ -8792,7 +8792,7 @@
 
 'garden 6 synthethics.prefab
 'displayName	'Artificial life garden	'Artificial life garden	40		'737359377:garden 6 synthethics.prefab
-'description	'A module that supports fully synthetic non-carbon life. Uses excess heat generated with ship movement to rapidly produce synthethics.	'A module that supports fully synthetic non-carbon life. Uses excess heat generated with ship movement to rapidly produce synthethics.	200		'737359377:garden 6 synthethics.prefab
+'description	'A module that supports fully synthetic non-carbon life. Uses excess heat generated with ship movement to rapidly produce synthetics.	'A module that supports fully synthetic non-carbon life. Uses excess heat generated with ship movement to rapidly produce synthetics.	200		'737359377:garden 6 synthethics.prefab
 
 'integrity 0 ancient.prefab
 'displayName	'Integrity hardpoint [ancient]	'Integrity hardpoint [ancient]	40		'786297541:integrity 0 ancient.prefab
@@ -8870,13 +8870,13 @@
 
 'fuel combinator 1A old.prefab
 'displayName	'Fuel combinator, grade I-A (old)	'Fuel combinator, grade I-A (old)	40		'1531409027:fuel combinator 1A old.prefab
-'description	'Instantly combines organics & synthethics into starfuel. Minor chance of malfunctions. Robust structure improves ship HP.	'Instantly combines organics & synthethics into starfuel. Minor chance of malfunctions. Robust structure improves ship HP.	200		'1531409027:fuel combinator 1A old.prefab
+'description	'Instantly combines organics & synthetics into starfuel. Minor chance of malfunctions. Robust structure improves ship HP.	'Instantly combines organics & synthetics into starfuel. Minor chance of malfunctions. Robust structure improves ship HP.	200		'1531409027:fuel combinator 1A old.prefab
 'MaterialsConverter.resourceConsumptionReason	'converted to fuel	'converted to fuel	30		'1531409027:fuel combinator 1A old.prefab; 194638103:fuel processor 1B.prefab; 1482294420:fuel processor 2.prefab
 'MaterialsConverter.resourceProductionReason	'produced by fuel combinator	'produced by fuel combinator	30		'1531409027:fuel combinator 1A old.prefab; 194638103:fuel processor 1B.prefab
 
 'fuel processor 1B.prefab
 'displayName	'Fuel combinator, grade I-B	'Fuel combinator, grade I-B	40		'194638103:fuel processor 1B.prefab
-'description	'Instantly combines organics & synthethics into starfuel. Robust structure improves ship HP.	'Instantly combines organics & synthethics into starfuel. Robust structure improves ship HP.	200		'194638103:fuel processor 1B.prefab
+'description	'Instantly combines organics & synthetics into starfuel. Robust structure improves ship HP.	'Instantly combines organics & synthetics into starfuel. Robust structure improves ship HP.	200		'194638103:fuel processor 1B.prefab
 
 'fuel processor 2.prefab
 'displayName	'Explosives recycler, grade II	'Explosives recycler, grade II	40		'1482294420:fuel processor 2.prefab
@@ -8888,10 +8888,10 @@
 'MaterialsConverter.resourceProductionReason	'produced by oilcake converter	'produced by oilcake converter	30		'166404798:oilcake converter.prefab
 
 'synthetics cooker 1.prefab
-'displayName	'Synthethics cooker, grade I	'Synthethics cooker, grade I	40		'373200662:synthetics cooker 1.prefab
+'displayName	'Synthetics cooker, grade I	'Synthetics cooker, grade I	40		'373200662:synthetics cooker 1.prefab
 'description	'"Cooks" organics to produce synthetics. Has recipes for tens of thousands of different substances. Robust structure improves ship HP.	'"Cooks" organics to produce synthetics. Has recipes for tens of thousands of different substances. Robust structure improves ship HP.	200		'373200662:synthetics cooker 1.prefab
 'MaterialsConverter.resourceConsumptionReason	'converted to synthetics	'converted to synthetics	30		'373200662:synthetics cooker 1.prefab
-'MaterialsConverter.resourceProductionReason	'produced by synthethics cooker	'produced by synthethics cooker	30		'373200662:synthetics cooker 1.prefab
+'MaterialsConverter.resourceProductionReason	'produced by synthetics cooker	'produced by synthetics cooker	30		'373200662:synthetics cooker 1.prefab
 
 'dronebay 0 diy.prefab
 'displayName	'Drone repair DIY	'Drone repair DIY	40		'241738085:dronebay 0 diy.prefab
@@ -8900,7 +8900,7 @@
 
 'dronebay 1 basic.prefab
 'displayName	'Drone repair station	'Drone repair station	40		'383658151:dronebay 1 basic.prefab
-'description	'Repair station for drones. Repairing each drone hitpoint costs synthethics, The station can repair several drones in the same time.	'Repair station for drones. Repairing each drone hitpoint costs synthethics, The station can repair several drones in the same time.	200		'383658151:dronebay 1 basic.prefab
+'description	'Repair station for drones. Repairing each drone hitpoint costs synthetics, The station can repair several drones in the same time.	'Repair station for drones. Repairing each drone hitpoint costs synthetics, The station can repair several drones in the same time.	200		'383658151:dronebay 1 basic.prefab
 
 'medbay0 diy.prefab
 'displayName	'Medbay (DIY)	'Medbay (DIY)	40		'1219429018:medbay0 diy.prefab
@@ -9069,7 +9069,7 @@
 
 'general pack organics, synth, metal.prefab
 'displayName	'Resource pack (o-s-m)	'Resource pack (o-s-m)	40		'2025144458:general pack organics, synth, metal.prefab
-'description	'Selection of various substances prepared for printing everyday items. Provides organics, synthethics and metal when scrapped.	'Selection of various substances prepared for printing everyday items. Provides organics, synthethics and metal when scrapped.	200		'2025144458:general pack organics, synth, metal.prefab
+'description	'Selection of various substances prepared for printing everyday items. Provides organics, synthetics and metal when scrapped.	'Selection of various substances prepared for printing everyday items. Provides organics, synthetics and metal when scrapped.	200		'2025144458:general pack organics, synth, metal.prefab
 
 'medical pack organics, synth.prefab
 'displayName	'Resource pack (org/syn)	'Resource pack (org/syn)	40		'89687050:medical pack organics, synth.prefab
@@ -10124,7 +10124,7 @@
 'description	'Somebody is trying to sell us this dead biotech brain of a broken stealth decryptor, says it's still perfectly edible.	'Somebody is trying to sell us this dead biotech brain of a broken stealth decryptor, says it's still perfectly edible.	250		'1672628016:Perk add organics 3, braindead.prefab
 'unlockAnnouncementText	'During our travels, we've met an honest individual who is trying to sell us some kind of broken equipment because "It's still perfectly edible".	'During our travels, we've met an honest individual who is trying to sell us some kind of broken equipment because "It's still perfectly edible".	100		'1672628016:Perk add organics 3, braindead.prefab
 'randomizerMenuStrings[i]	'+40 organics	'+40 organics	30		'1672628016:Perk add organics 3, braindead.prefab; 584291632:Perk crew rat cook.prefab; 1581853207:Perk crew grippy gunner.prefab
-'randomizerMenuStrings[i]	'+10 synthethics	'+10 synthethics	30		'1672628016:Perk add organics 3, braindead.prefab
+'randomizerMenuStrings[i]	'+10 synthetics	'+10 synthetics	30		'1672628016:Perk add organics 3, braindead.prefab
 'randomizerMenuStrings[i]	'-10 credits	'-10 credits	30		'1672628016:Perk add organics 3, braindead.prefab
 
 'Perk add organics 4, dead insectoids.prefab
@@ -10155,18 +10155,18 @@
 'displayName	'Exotics container remains	'Exotics container remains	40		'986856836:Perk add synthetics 3, ex container.prefab
 'description	'This used to be a container for holding exotics, but with years, the anomalous energies of exotics warped the molecular structure of the container, eventually turning it into a lump of synthetic scrap. It's still better than nothing.	'This used to be a container for holding exotics, but with years, the anomalous energies of exotics warped the molecular structure of the container, eventually turning it into a lump of synthetic scrap. It's still better than nothing.	250		'986856836:Perk add synthetics 3, ex container.prefab
 'unlockAnnouncementText	'During our travels, we've located this object. It is almost worthless, but we can pick it for free if we ever go adventuring again.	'During our travels, we've located this object. It is almost worthless, but we can pick it for free if we ever go adventuring again.	100		'986856836:Perk add synthetics 3, ex container.prefab
-'randomizerMenuStrings[i]	'+70 synthethics	'+70 synthethics	30		'986856836:Perk add synthetics 3, ex container.prefab
+'randomizerMenuStrings[i]	'+70 synthetics	'+70 synthetics	30		'986856836:Perk add synthetics 3, ex container.prefab
 
 'Perk add synthetics and fuel.prefab
 'displayName	'Donated industrial waste	'Donated industrial waste	40		'1312794238:Perk add synthetics and fuel.prefab
 'description	'A donation from industrial-era sentients.	'A donation from industrial-era sentients.	250		'1312794238:Perk add synthetics and fuel.prefab
 'unlockAnnouncementText	'During our travels, we received this official guarantee from a minor civilization of industrial primitives. It guarantees us some of their toxic waste.	'During our travels, we received this official guarantee from a minor civilization of industrial primitives. It guarantees us some of their toxic waste.	100		'1312794238:Perk add synthetics and fuel.prefab
 'randomizerMenuStrings[i]	'+25 fuel	'+25 fuel	30		'1312794238:Perk add synthetics and fuel.prefab
-'randomizerMenuStrings[i]	'+50 synthethics	'+50 synthethics	30		'1312794238:Perk add synthetics and fuel.prefab
+'randomizerMenuStrings[i]	'+50 synthetics	'+50 synthetics	30		'1312794238:Perk add synthetics and fuel.prefab
 
 'Perk add synthetics.prefab
 'displayName	'Assorted synthetics	'Assorted synthetics	40		'1289207917:Perk add synthetics.prefab
-'description	'Repairing modules costs 10 synthetics per module hitpoint. \nSynthethics are also used to build temporary structures on planets.	'Repairing modules costs 10 synthetics per module hitpoint. \nSynthethics are also used to build temporary structures on planets.	250		'1289207917:Perk add synthetics.prefab
+'description	'Repairing modules costs 10 synthetics per module hitpoint. \nSynthetics are also used to build temporary structures on planets.	'Repairing modules costs 10 synthetics per module hitpoint. \nSynthetics are also used to build temporary structures on planets.	250		'1289207917:Perk add synthetics.prefab
 'randomizerMenuStrings[i]	'+125 synthetics	'+125 synthetics	30		'1289207917:Perk add synthetics.prefab
 
 'Perk artifact skull for Weirdship.prefab
@@ -10179,7 +10179,7 @@
 'description	'Increases ship hull integrity by reinforcing ship hardpoints with super-durable elastics, allowing the ship to "bend" a little.	'Increases ship hull integrity by reinforcing ship hardpoints with super-durable elastics, allowing the ship to "bend" a little.	250		'780498261:Perk augment 001a elastic augmentations.prefab
 'unlockAnnouncementText	'Our ship AI has been carrying out miniature experiments with integrity technology during the journey. Her small discoveries have made new options available, next time we go for a run like this.	'Our ship AI has been carrying out miniature experiments with integrity technology during the journey. Her small discoveries have made new options available, next time we go for a run like this.	100		'780498261:Perk augment 001a elastic augmentations.prefab
 'randomizerMenuStrings[i]	'+4 to ship HP	'+4 to ship HP	30		'780498261:Perk augment 001a elastic augmentations.prefab
-'randomizerMenuStrings[i]	'-90 synthethics	'-90 synthethics	30		'780498261:Perk augment 001a elastic augmentations.prefab
+'randomizerMenuStrings[i]	'-90 synthetics	'-90 synthetics	30		'780498261:Perk augment 001a elastic augmentations.prefab
 
 'Perk augment 001b exotic armor.prefab
 'displayName	'Exotic ship armor	'Exotic ship armor	40		'69059130:Perk augment 001b exotic armor.prefab
@@ -10365,13 +10365,13 @@
 'description	'A light walker chassis with fire extinguisher, assembled from spare parts. Do not expect much from its caterpillar-based AI.	'A light walker chassis with fire extinguisher, assembled from spare parts. Do not expect much from its caterpillar-based AI.	250		'1425666963:Perk drone 01 DIY fire safety.prefab
 'unlockAnnouncementText	'Our ship AI has been carrying out miniature experiments with drones during the journey. Her small discoveries have made new options available, next time we go for a run like this.	'Our ship AI has been carrying out miniature experiments with drones during the journey. Her small discoveries have made new options available, next time we go for a run like this.	100		'1425666963:Perk drone 01 DIY fire safety.prefab; 124153277:Perk drone 02 DIY guard.prefab; 1559698830:Perk drone 06 DIY gunnery.prefab; 1599767297:Perk drone 03 DIY repairbot.prefab
 'randomizerMenuStrings[i]	'+1 fire safety drone	'+1 fire safety drone	30		'1425666963:Perk drone 01 DIY fire safety.prefab
-'randomizerMenuStrings[i]	'-25 synthethics	'-25 synthethics	30		'1425666963:Perk drone 01 DIY fire safety.prefab; 1734489161:Perk Replace autogatling with better one, for Nukerunner.prefab
+'randomizerMenuStrings[i]	'-25 synthetics	'-25 synthetics	30		'1425666963:Perk drone 01 DIY fire safety.prefab; 1734489161:Perk Replace autogatling with better one, for Nukerunner.prefab
 
 'Perk drone 02 DIY guard.prefab
 'displayName	'DIY guard drone	'DIY guard drone	40		'124153277:Perk drone 02 DIY guard.prefab
 'description	'A light walker chassis with an improvised laser, assembled from spare parts. limited capabilities. Do not expect much from its scorpion-based AI.	'A light walker chassis with an improvised laser, assembled from spare parts. limited capabilities. Do not expect much from its scorpion-based AI.	250		'124153277:Perk drone 02 DIY guard.prefab
 'randomizerMenuStrings[i]	'+1 security drone	'+1 security drone	30		'124153277:Perk drone 02 DIY guard.prefab; 1504797922:Perk drone 09 light sec.prefab
-'randomizerMenuStrings[i]	'-40 synthethics	'-40 synthethics	30		'124153277:Perk drone 02 DIY guard.prefab
+'randomizerMenuStrings[i]	'-40 synthetics	'-40 synthetics	30		'124153277:Perk drone 02 DIY guard.prefab
 
 'Perk drone 03 DIY repairbot.prefab
 'displayName	'DIY repair drone	'DIY repair drone	40		'1599767297:Perk drone 03 DIY repairbot.prefab
@@ -10398,7 +10398,7 @@
 'displayName	'DIY gunnery drone	'DIY gunnery drone	40		'1559698830:Perk drone 06 DIY gunnery.prefab
 'description	'A light drone modified to allow operating ship weapons. Cannot repair. Do not expect much from its spider-based AI.	'A light drone modified to allow operating ship weapons. Cannot repair. Do not expect much from its spider-based AI.	250		'1559698830:Perk drone 06 DIY gunnery.prefab
 'randomizerMenuStrings[i]	'+1 gun operator drone	'+1 gun operator drone	30		'1559698830:Perk drone 06 DIY gunnery.prefab; 1559119211:Perk drone 07 gunnery and repair.prefab
-'randomizerMenuStrings[i]	'-50 synthethics	'-50 synthethics	30		'1559698830:Perk drone 06 DIY gunnery.prefab
+'randomizerMenuStrings[i]	'-50 synthetics	'-50 synthetics	30		'1559698830:Perk drone 06 DIY gunnery.prefab
 
 'Perk drone 07 gunnery and repair.prefab
 'displayName	'Gunnery drone I	'Gunnery drone I	40		'1559119211:Perk drone 07 gunnery and repair.prefab
@@ -10696,7 +10696,7 @@
 
 'Perk module fuel combinator, to atlas.prefab
 'displayName	'Fuel combinator	'Fuel combinator	40		'81789966:Perk module fuel combinator, to atlas.prefab
-'description	'This module combines organics & synthethics into starfuel. Being able to produce your own fuel is highly recommended for long flights.	'This module combines organics & synthethics into starfuel. Being able to produce your own fuel is highly recommended for long flights.	250		'81789966:Perk module fuel combinator, to atlas.prefab
+'description	'This module combines organics & synthetics into starfuel. Being able to produce your own fuel is highly recommended for long flights.	'This module combines organics & synthetics into starfuel. Being able to produce your own fuel is highly recommended for long flights.	250		'81789966:Perk module fuel combinator, to atlas.prefab
 'randomizerMenuStrings[i]	'+1 sustainability module	'+1 sustainability module	30		'81789966:Perk module fuel combinator, to atlas.prefab
 'randomizerMenuStrings[i]	'-199 credits	'-199 credits	30		'81789966:Perk module fuel combinator, to atlas.prefab
 
@@ -10757,8 +10757,8 @@
 'description	'Adds an aditional module for rapidly growing edible mushrooms. All gardens remove operator food consumption and generate additional organics during ship movement.	'Adds an aditional module for rapidly growing edible mushrooms. All gardens remove operator food consumption and generate additional organics during ship movement.	250		'1304884710:Perk module shroomery for gardenship.prefab
 
 'Perk module synth cooker, to tigerfish.prefab
-'displayName	'Synthethics Cooker 9000	'Synthethics Cooker 9000	40		'1783804007:Perk module synth cooker, to tigerfish.prefab
-'description	'This sustainability module allows converting organics to synthetics. Being able to produce synthethics means you never run out of materials that are necessary for repairing ship modules.	'This sustainability module allows converting organics to synthetics. Being able to produce synthethics means you never run out of materials that are necessary for repairing ship modules.	250		'1783804007:Perk module synth cooker, to tigerfish.prefab
+'displayName	'Synthetics Cooker 9000	'Synthetics Cooker 9000	40		'1783804007:Perk module synth cooker, to tigerfish.prefab
+'description	'This sustainability module allows converting organics to synthetics. Being able to produce synthetics means you never run out of materials that are necessary for repairing ship modules.	'This sustainability module allows converting organics to synthetics. Being able to produce synthetics means you never run out of materials that are necessary for repairing ship modules.	250		'1783804007:Perk module synth cooker, to tigerfish.prefab
 'randomizerMenuStrings[i]	'Convertor module that can turn organics into synthetics	'Convertor module that can turn organics into synthetics	30		'1783804007:Perk module synth cooker, to tigerfish.prefab
 
 'Perk module weapon bank missile x2.prefab
@@ -12426,12 +12426,12 @@
 	'You can only see enemy fleets if they have stealth value lower than stealth detection of your ship.	'You can only see enemy fleets if they have stealth value lower than stealth detection of your ship.	0		'354963362:Tips pool.prefab
 	'Utility drones are not visually represented in Mothership internal view. They are only used automatically during events.	'Utility drones are not visually represented in Mothership internal view. They are only used automatically during events.	0		'354963362:Tips pool.prefab
 	'Your ship always carries a set of cheaply printable utility bots (scouting, mining, research etc) that are used automatically during events.	'Your ship always carries a set of cheaply printable utility bots (scouting, mining, research etc) that are used automatically during events.	0		'354963362:Tips pool.prefab
-	'Losing utility bots during events may result in loss of synthethics and metals.	'Losing utility bots during events may result in loss of synthethics and metals.	0		'354963362:Tips pool.prefab
+	'Losing utility bots during events may result in loss of synthetics and metals.	'Losing utility bots during events may result in loss of synthetics and metals.	0		'354963362:Tips pool.prefab
 	'Sometimes losing utility bots doesn't result in resource loss because their components were recovered.	'Sometimes losing utility bots doesn't result in resource loss because their components were recovered.	0		'354963362:Tips pool.prefab
-	'Your ship uses metals and synthethics to construct utility bots automatically.	'Your ship uses metals and synthethics to construct utility bots automatically.	0		'354963362:Tips pool.prefab
+	'Your ship uses metals and synthetics to construct utility bots automatically.	'Your ship uses metals and synthetics to construct utility bots automatically.	0		'354963362:Tips pool.prefab
 	'Crew will add their skill bonus when operating some modules or ship weapons.	'Crew will add their skill bonus when operating some modules or ship weapons.	0		'354963362:Tips pool.prefab
 	'Material converters allow processing one resource into another. This can make the difference between life and death.	'Material converters allow processing one resource into another. This can make the difference between life and death.	0		'354963362:Tips pool.prefab
-	'Your ship automatically builds & tactically sacrifices utility bots during battles that happen off-screen. This results in loss of metals & synthethics.	'Your ship automatically builds & tactically sacrifices utility bots during battles that happen off-screen. This results in loss of metals & synthethics.	0		'354963362:Tips pool.prefab
+	'Your ship automatically builds & tactically sacrifices utility bots during battles that happen off-screen. This results in loss of metals & synthetics.	'Your ship automatically builds & tactically sacrifices utility bots during battles that happen off-screen. This results in loss of metals & synthetics.	0		'354963362:Tips pool.prefab
 	'Your ship automatically prints cheap missiles, bombs and mines during battles that happen off-screen. This results in loss of explosives.	'Your ship automatically prints cheap missiles, bombs and mines during battles that happen off-screen. This results in loss of explosives.	0		'354963362:Tips pool.prefab
 	'Xenodata functions as a form of intergalactic digital currency. It is generated while researching alien planets, for example.	'Xenodata functions as a form of intergalactic digital currency. It is generated while researching alien planets, for example.	0		'354963362:Tips pool.prefab
 	'Xenodata documented by researching sentient aliens is worth many data credits.	'Xenodata documented by researching sentient aliens is worth many data credits.	0		'354963362:Tips pool.prefab
@@ -12447,7 +12447,7 @@
 	'You can change the game UI color in game options - try it!	'You can change the game UI color in game options - try it!	0		'354963362:Tips pool.prefab
 	'Check out the "?" button in lower right corner to see a list of illustrated help topics.	'Check out the "?" button in lower right corner to see a list of illustrated help topics.	0		'354963362:Tips pool.prefab
 	'Eco-harvesting operations usually do not collect more organics than your ship can carry.	'Eco-harvesting operations usually do not collect more organics than your ship can carry.	0		'354963362:Tips pool.prefab
-	'When you get excess organics or synthethics and have a fuel convertor, convert these resources into fuel instead of dumping them.	'When you get excess organics or synthethics and have a fuel convertor, convert these resources into fuel instead of dumping them.	0		'354963362:Tips pool.prefab
+	'When you get excess organics or synthetics and have a fuel convertor, convert these resources into fuel instead of dumping them.	'When you get excess organics or synthetics and have a fuel convertor, convert these resources into fuel instead of dumping them.	0		'354963362:Tips pool.prefab
 	'Selecting crew is a lot easier if you drag a selection box around the crew instead of clicking.	'Selecting crew is a lot easier if you drag a selection box around the crew instead of clicking.	0		'354963362:Tips pool.prefab
 	'You can reposition module info window at any time by holding & dragging it on the game screen.	'You can reposition module info window at any time by holding & dragging it on the game screen.	0		'354963362:Tips pool.prefab
 	'If the game is too hard, change your tactics.	'If the game is too hard, change your tactics.	0		'354963362:Tips pool.prefab
