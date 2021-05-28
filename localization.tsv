@@ -143,7 +143,7 @@
 	'Ship was hit by an asteroid. HP -{0}	'Ship was hit by an asteroid. HP -{0}	0		'PlayerFleet.cs
 
 'CheckBattleStatus.cs
-	'--- BATTLE WITH INDRUDERS END ---	'--- BATTLE WITH INDRUDERS END ---	0		'CheckBattleStatus.cs
+	'--- BATTLE WITH INTRUDERS END ---	'--- BATTLE WITH INTRUDERS END ---	0		'CheckBattleStatus.cs
 	'--- ESCAPED BATTLE ---	'--- ESCAPED BATTLE ---	0		'CheckBattleStatus.cs
 	'--- ALL ENEMY SHIPS ESCAPED ---	'--- ALL ENEMY SHIPS ESCAPED ---	0		'CheckBattleStatus.cs
 	'--- BATTLE END ---	'--- BATTLE END ---	0		'CheckBattleStatus.cs
@@ -227,7 +227,7 @@
 	'Analysing data...	'Analysing data...	0		'POI.cs
 
 'PointDefDamageDealer.cs
-	'Enemy defences have nutralized one of our {0}s	'Enemy defences have nutralized one of our {0}s	0		'PointDefDamageDealer.cs
+	'Enemy defences have neutralized one of our {0}s	'Enemy defences have neutralized one of our {0}s	0		'PointDefDamageDealer.cs
 	'Incoming {0} neutralized	'Incoming {0} neutralized	0		'PointDefDamageDealer.cs
 
 'PointDefenceModule.cs
