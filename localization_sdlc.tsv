@@ -31,7 +31,7 @@ Rabbit.prefab
 appearance[i].description	A genetically modified and trained combat animal.	A genetically modified and trained combat animal.	250		1820607702:sdlc/Rabbit.prefab
 
 Tortoise.prefab
-appearance[i].description	A large tortoise with natural firebreathing ability. The creature has learned gardening in the Univeristy for Presentiments.	A large tortoise with natural firebreathing ability. The creature has learned gardening in the Univeristy for Presentiments.	250		93253305:sdlc/Tortoise.prefab
+appearance[i].description	A large tortoise with natural firebreathing ability. The creature has learned gardening in the Univeristy for Presentients.	A large tortoise with natural firebreathing ability. The creature has learned gardening in the Univeristy for Presentiments.	250		93253305:sdlc/Tortoise.prefab
 
 bridge 2crew tiger.prefab
 displayName	Command bridge, Tiger	Command bridge, Tiger	40		171768739:sdlc/bridge 2crew tiger.prefab
