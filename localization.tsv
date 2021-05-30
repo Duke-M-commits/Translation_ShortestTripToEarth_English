@@ -8682,11 +8682,11 @@ description	Hybrid platform for electronic countermeasures. Increases overall sh
 
 ECM 0 terran old.prefab
 displayName	Armored ECM Turret I [old]	Armored ECM Turret I [old]	40		1717910481:ECM 0 terran old.prefab
-description	Hybrid integrity technology with electronic countermeasures. Increases overall ship evasion, improves ship HP, requires a hybrid slot.	Hybrid integrity technology with electronic countermeasures. Increases overall ship evasion, improves ship HP, requires a hybrid slot.	200		1717910481:ECM 0 terran old.prefab; 178792571:ECM 03 insectoid.prefab; 738383845:ECM 02 terran.prefab; 738383846:ECM 03 terran.prefab; 738383848:ECM 01 terran.prefab
+description	Hybrid integrity technology with electronic countermeasures. Increases overall ship evasion, improves ship HP, requires a hybrid slot.	Hybrid integrity technology with electronic countermeasures. Increases overall ship evasion, improves ship HP, requires a hybrid slot.	200		1717910481:ECM 0 terran old.prefab
 
 ECM 01 terran.prefab
 displayName	Armored ECM Turret I	Armored ECM Turret I	40		738383848:ECM 01 terran.prefab
-description	Hybrid integrity technolgy with electronic countermeasures. Increases overall ship evasion, improves ship HP, requires a hybrid slot.
+description	Hybrid integrity technolgy with electronic countermeasures. Increases overall ship evasion, improves ship HP, requires a hybrid slot.	Hybrid integrity technolgy with electronic countermeasures. Increases overall ship evasion, improves ship HP, requires a hybrid slot.	200		738383848:ECM 01 terran.prefab; 178792571:ECM 03 insectoid.prefab; 738383845:ECM 02 terran.prefab; 738383846:ECM 03 terran.prefab
 ECM 02 terran.prefab
 displayName	Armored ECM Turret II	Armored ECM Turret II	40		738383845:ECM 02 terran.prefab
 
@@ -10047,7 +10047,7 @@ description	This broken alien sex toy is being sold on a junk market on Marrakis
 unlockAnnouncementText	During our travels, we've spotted a curiosity being sold in one of the local junk markets. The seller does not know that breaking it could yield considerable salvage value.	During our travels, we've spotted a curiosity being sold in one of the local junk markets. The seller does not know that breaking it could yield considerable salvage value.	100		1246169320:Perk add exotics 2, broken sex toy.prefab
 randomizerMenuStrings[i]	-50 credits	-50 credits	30		1246169320:Perk add exotics 2, broken sex toy.prefab; 3870557:Perk Replace sensor with new for bluestar.prefab; 28078182:Perk module old triple cannon.prefab; 161683945:Perk drone 09b tactical sec.prefab; 305450922:Perk nuke thinspeeder for atlas.prefab; 335666066:Perk Replace ECM of warpshell.prefab; 656830655:Perk nuke fueltank for atlas.prefab; 873280599:Perk Endurance extra hitpoints and deflection.prefab; 1138940531:Perk crew top cadet.prefab; 1461582440:Perk maggot pet.prefab; 1524517897:Perk Replace combat sensor old with new.prefab; 1559119211:Perk drone 07 gunnery and repair.prefab; 1666507194:Perk Replace terran smallreactor oldx2.prefab; 2032285499:Perk Replace organics containers with betters for gardenship.prefab; 2073380488:Perk module DIY shield battery.prefab
 randomizerMenuStrings[i]	+1 exotics	+1 exotics	30		1246169320:Perk add exotics 2, broken sex toy.prefab; 136575048:Perk barter get exotics for credits.prefab; 1101108011:Perk crew warrior queen.prefab; 1585922370:Perk add exotics.prefab; 1983487017:Perk module DIY lab.prefab
-randomizerMenuStrings[i]	+10 synthetics	+10 synthetics	30		1246169320:Perk add exotics 2, broken sex toy.prefab; 411849296:Perk module medbay 202.prefab; 2075504578:Perk augment 00a full checkup.prefab
+randomizerMenuStrings[i]	+10 synthetics	+10 synthetics	30		1246169320:Perk add exotics 2, broken sex toy.prefab; 411849296:Perk module medbay 202.prefab; 1672628016:Perk add organics 3, braindead.prefab; 2075504578:Perk augment 00a full checkup.prefab
 
 Perk add exotics.prefab
 displayName	Exotic crystal from UrQuani-2	Exotic crystal from UrQuani-2	40		1585922370:Perk add exotics.prefab
@@ -10082,7 +10082,7 @@ displayName	A passing tanker	A passing tanker	40		1636676425:Perk add fuel 3, pa
 description	A passing GuGurkian fuel tanker captain is willing to barter some of his starfuel for a small list of spare parts.	A passing GuGurkian fuel tanker captain is willing to barter some of his starfuel for a small list of spare parts.	250		1636676425:Perk add fuel 3, passing ship.prefab
 unlockAnnouncementText	During our travels, we've met a GuGurkian fuel tanker and enjoyed exchanging pleasantries. Perhaps we might meet again in the future.	During our travels, we've met a GuGurkian fuel tanker and enjoyed exchanging pleasantries. Perhaps we might meet again in the future.	100		1636676425:Perk add fuel 3, passing ship.prefab
 randomizerMenuStrings[i]	+75 fuel	+75 fuel	30		1636676425:Perk add fuel 3, passing ship.prefab
-randomizerMenuStrings[i]	-25 synthetics	-25 synthetics	30		1636676425:Perk add fuel 3, passing ship.prefab; 889458515:Perk Replace ATK old with ATK new for Endurance.prefab; 996292804:Perk module DIY random nonweapon.prefab
+randomizerMenuStrings[i]	-25 synthetics	-25 synthetics	30		1636676425:Perk add fuel 3, passing ship.prefab; 889458515:Perk Replace ATK old with ATK new for Endurance.prefab; 996292804:Perk module DIY random nonweapon.prefab; 1425666963:Perk drone 01 DIY fire safety.prefab; 1734489161:Perk Replace autogatling with better one, for Nukerunner.prefab
 randomizerMenuStrings[i]	-25 metals	-25 metals	30		1636676425:Perk add fuel 3, passing ship.prefab; 996292804:Perk module DIY random nonweapon.prefab
 
 Perk add fuel.prefab
@@ -10124,7 +10124,6 @@ description	Somebody is trying to sell us this dead biotech brain of a broken st
 unlockAnnouncementText	During our travels, we've met an honest individual who is trying to sell us some kind of broken equipment because "It's still perfectly edible".	During our travels, we've met an honest individual who is trying to sell us some kind of broken equipment because "It's still perfectly edible".	100		1672628016:Perk add organics 3, braindead.prefab
 randomizerMenuStrings[i]	+40 organics	+40 organics	30		1672628016:Perk add organics 3, braindead.prefab; 584291632:Perk crew rat cook.prefab; 1581853207:Perk crew grippy gunner.prefab
 randomizerMenuStrings[i]	-10 credits	+10 synthetics	30		1672628016:Perk add organics 3, braindead.prefab
-		-10 credits	30		1672628016:Perk add organics 3, braindead.prefab
 
 Perk add organics 4, dead insectoids.prefab
 displayName	Donated insectoid remains	Donated insectoid remains	40		75978646:Perk add organics 4, dead insectoids.prefab
@@ -10364,13 +10363,12 @@ displayName	DIY fire safety drone	DIY fire safety drone	40		1425666963:Perk dron
 description	A light walker chassis with fire extinguisher, assembled from spare parts. Do not expect much from its caterpillar-based AI.	A light walker chassis with fire extinguisher, assembled from spare parts. Do not expect much from its caterpillar-based AI.	250		1425666963:Perk drone 01 DIY fire safety.prefab
 unlockAnnouncementText	Our ship AI has been carrying out miniature experiments with drones during the journey. Her small discoveries have made new options available, next time we go for a run like this.	Our ship AI has been carrying out miniature experiments with drones during the journey. Her small discoveries have made new options available, next time we go for a run like this.	100		1425666963:Perk drone 01 DIY fire safety.prefab; 124153277:Perk drone 02 DIY guard.prefab; 1559698830:Perk drone 06 DIY gunnery.prefab; 1599767297:Perk drone 03 DIY repairbot.prefab
 randomizerMenuStrings[i]	+1 fire safety drone	+1 fire safety drone	30		1425666963:Perk drone 01 DIY fire safety.prefab
-		-25 synthetics	30		1425666963:Perk drone 01 DIY fire safety.prefab; 1734489161:Perk Replace autogatling with better one, for Nukerunner.prefab
 
 Perk drone 02 DIY guard.prefab
 displayName	DIY guard drone	DIY guard drone	40		124153277:Perk drone 02 DIY guard.prefab
 description	A light walker chassis with an improvised laser, assembled from spare parts. limited capabilities. Do not expect much from its scorpion-based AI.	A light walker chassis with an improvised laser, assembled from spare parts. limited capabilities. Do not expect much from its scorpion-based AI.	250		124153277:Perk drone 02 DIY guard.prefab
 randomizerMenuStrings[i]	+1 security drone	+1 security drone	30		124153277:Perk drone 02 DIY guard.prefab; 1504797922:Perk drone 09 light sec.prefab
-randomizerMenuStrings[i]	-40 synthetics	-40 synthetics	30		124153277:Perk drone 02 DIY guard.prefab
+randomizerMenuStrings[i]	-40 synthetics	-40 synthetics	30		124153277:Perk drone 02 DIY guard.prefab; 566836399:Perk Replace Industrial lasers with MK2.prefab; 1794605234:Perk Replace Rat gatling cannon.prefab
 
 Perk drone 03 DIY repairbot.prefab
 displayName	DIY repair drone	DIY repair drone	40		1599767297:Perk drone 03 DIY repairbot.prefab
@@ -10397,7 +10395,7 @@ Perk drone 06 DIY gunnery.prefab
 displayName	DIY gunnery drone	DIY gunnery drone	40		1559698830:Perk drone 06 DIY gunnery.prefab
 description	A light drone modified to allow operating ship weapons. Cannot repair. Do not expect much from its spider-based AI.	A light drone modified to allow operating ship weapons. Cannot repair. Do not expect much from its spider-based AI.	250		1559698830:Perk drone 06 DIY gunnery.prefab
 randomizerMenuStrings[i]	+1 gun operator drone	+1 gun operator drone	30		1559698830:Perk drone 06 DIY gunnery.prefab; 1559119211:Perk drone 07 gunnery and repair.prefab
-randomizerMenuStrings[i]	-50 synthetics	-50 synthetics	30		1559698830:Perk drone 06 DIY gunnery.prefab
+randomizerMenuStrings[i]	-50 synthetics	-50 synthetics	30		1559698830:Perk drone 06 DIY gunnery.prefab; 136621601:Perk drone 08 DIY sentry tank.prefab; 174917737:Perk module DIY point-defence.prefab; 225180168:Perk module DIY weapon.prefab; 1447363940:Perk nuke DIY random.prefab; 1763651597:Perk warpshell extra deflection.prefab
 
 Perk drone 07 gunnery and repair.prefab
 displayName	Gunnery drone I	Gunnery drone I	40		1559119211:Perk drone 07 gunnery and repair.prefab
@@ -10407,7 +10405,6 @@ Perk drone 08 DIY sentry tank.prefab
 displayName	DIY tank	DIY tank	40		136621601:Perk drone 08 DIY sentry tank.prefab
 description	Armored drone, assembled from spare parts. Turtle-based AI.	Armored drone, assembled from spare parts. Turtle-based AI.	250		136621601:Perk drone 08 DIY sentry tank.prefab
 randomizerMenuStrings[i]	+1 combat drone	+1 combat drone	30		136621601:Perk drone 08 DIY sentry tank.prefab
-		-50 synthetics	30		136621601:Perk drone 08 DIY sentry tank.prefab; 174917737:Perk module DIY point-defence.prefab; 225180168:Perk module DIY weapon.prefab; 1447363940:Perk nuke DIY random.prefab; 1763651597:Perk warpshell extra deflection.prefab
 
 Perk drone 09 light sec.prefab
 displayName	Light security drone	Light security drone	40		1504797922:Perk drone 09 light sec.prefab
@@ -10960,7 +10957,6 @@ Perk Replace Industrial lasers with MK2.prefab
 displayName	Industrial lasers upgrade (x3)	Industrial lasers upgrade (x3)	40		566836399:Perk Replace Industrial lasers with MK2.prefab
 description	The upgraded lasers need more power but are twice as powerful.	The upgraded lasers need more power but are twice as powerful.	250		566836399:Perk Replace Industrial lasers with MK2.prefab
 randomizerMenuStrings[i]	Improves ship's main lasers	Improves ship's main lasers	30		566836399:Perk Replace Industrial lasers with MK2.prefab
-		-40 synthetics	30		566836399:Perk Replace Industrial lasers with MK2.prefab; 1794605234:Perk Replace Rat gatling cannon.prefab
 
 Perk Replace lasers for Nuke Runner.prefab
 displayName	Combat laser upgrade	Combat laser upgrade	40		1819699687:Perk Replace lasers for Nuke Runner.prefab
