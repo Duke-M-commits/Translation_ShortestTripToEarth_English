@@ -1595,7 +1595,7 @@ Module effects/stats	EFFECTS	EFFECTS	0		1665000636:Module data subpanel.prefab
 	Damage to modules. Number of shots x damage value of shot	Damage to modules. Number of shots x damage value of shot	0		1146138217:Module data subpanel.prefab; 962514603:Module data subpanel.prefab
 	Damage against doors in hit area	Damage against doors in hit area	0		245487372:Module data subpanel.prefab
 	Causes EMP overload to modules in hit area	Causes EMP overload to modules in hit area	0		1142560297:Module data subpanel.prefab
-	Bridge will automatically operate modules without crew remotely.\nExcept automatically (A) self operating modules (for example Reactor)	Bridge will automatically operate modules without crew remotely.\nExcept automatically (A) self operating modules (for example Reactor)	0		150949308:Module data subpanel.prefab
+	Bridge will automatically operate modules without crew remotely.\nExcept automatically (A) self operating modules (for example Reactors)	Bridge will automatically operate modules without crew remotely.\nExcept automatically (A) self operating modules (for example Reactor)	0		150949308:Module data subpanel.prefab
 	remote ops.	remote ops.	23		596453060:Module data subpanel.prefab
 	Organics currently stored in this container	Organics currently stored in this container	0		1305817936:Module data subpanel.prefab
 	Fuel currently stored in this container	Fuel currently stored in this container	0		1059711864:Module data subpanel.prefab
