@@ -9583,7 +9583,7 @@ description	A sniper cannon for damaging crucial modules of enemy ships. Project
 
 weapon Sniper cannon 2 insectoid.prefab
 displayName	Insectoidian sniper railgun	Insectoidian sniper railgun	40		1240034396:weapon Sniper cannon 2 insectoid.prefab
-description	Sniper rail cannon for damaging crucial modules of enemy ships. It's poison-tipped projectiles penetrate shields & never deflect. Rail cannon shells are not easily destroyed by point-defences.	Sniper rail cannon for damaging crucial modules of enemy ships. It's poison-tipped projectiles penetrate shields & never deflect. Rail cannon shells are not easily destroyed by point-defences.	200		1240034396:weapon Sniper cannon 2 insectoid.prefab
+description	Sniper rail cannon for damaging crucial modules of enemy ships. It's poison-tipped projectiles penetrate shields & never deflect. Rail cannon shells are not easily destroyed by point-defences.	Sniper rail cannon for damaging crucial modules of enemy ships. It's poison-tipped projectiles penetrate shields & never deflect. Rail cannon shells are not easily destroyed by point-defences. Projectiles have 5hp each.	200		1240034396:weapon Sniper cannon 2 insectoid.prefab
 
 weapon Sniper cannon 2.prefab
 displayName	Sniper cannon II	Sniper cannon II	40		1499937036:weapon Sniper cannon 2.prefab
