@@ -9517,7 +9517,7 @@ description	These cannons rely on abundant use of explosives to print & propel m
 
 weapon emperorbanks cannon1x.prefab
 displayName	Intelligent BankTM cannon IA	Intelligent BankTM cannon IA	40		865561327:weapon emperorbanks cannon1x.prefab
-description	Imperial cannons rely on abundant use of explosives to achive high velocity of the projectile. Robust structure improves ship HP. Projectiles have 5hp each.	Imperial cannons rely on abundant use of explosives to achive high velocity of the projectile. Robust structure improves ship HP. Projectiles have 5hp each.	200		865561327:weapon emperorbanks cannon1x.prefab; 865561324:weapon emperorbanks cannon2x.prefab
+description	Imperial cannons rely on abundant use of explosives to achive high velocity of the projectile. Robust structure improves ship HP. Projectiles have 5hp each.	Imperial cannons rely on abundant use of explosives to achive high velocity of the projectile. Robust structure improves ship HP. Projectiles have 6hp each.	200		865561327:weapon emperorbanks cannon1x.prefab; 865561324:weapon emperorbanks cannon2x.prefab
 
 weapon emperorbanks cannon2x.prefab
 displayName	Intelligent BankTM cannon IIA	Intelligent BankTM cannon IIA	40		865561324:weapon emperorbanks cannon2x.prefab
