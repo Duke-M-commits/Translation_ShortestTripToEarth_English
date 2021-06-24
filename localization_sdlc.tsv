@@ -1,4 +1,4 @@
-﻿:displayName English (updated)
+﻿:displayName English (fixed)
 
 Dog.prefab
 appearance[i].description	A trained dog, with brain implants. Has been taught to operate ship sensors, although does not completely understand what he is doing.	A trained dog, with brain implants. Has been taught to operate ship sensors, although does not completely understand what he is doing.	250		1502599448:sdlc/Dog.prefab
@@ -31,7 +31,7 @@ Rabbit.prefab
 appearance[i].description	A genetically modified and trained combat animal.	A genetically modified and trained combat animal.	250		1820607702:sdlc/Rabbit.prefab
 
 Tortoise.prefab
-appearance[i].description	A large tortoise with natural firebreathing ability. The creature has learned gardening in the Univeristy for Presentients.	A large tortoise with natural firebreathing ability. The creature has learned gardening in the Univeristy for Presentiments.	250		93253305:sdlc/Tortoise.prefab
+appearance[i].description	A large tortoise with natural firebreathing ability. The creature has learned gardening in the Univeristy for Presentients.	A large tortoise with natural firebreathing ability. The creature has learned gardening in the University for Presentiments.	250		93253305:sdlc/Tortoise.prefab
 
 bridge 2crew tiger.prefab
 displayName	Command bridge, Tiger	Command bridge, Tiger	40		171768739:sdlc/bridge 2crew tiger.prefab
@@ -67,7 +67,7 @@ displayName	Tiger monolith nuke	Tiger monolith nuke	40		2070090696:sdlc/Tiger Mo
 description	A capital missile that rams enemy ships with incredible kinetic force. It's mostly made of solid metal.	A capital missile that rams enemy ships with incredible kinetic force. It's mostly made of solid metal.	200		2070090696:sdlc/Tiger Monolith nuke launcher.prefab
 
 Tiger sharpnel nuke launcher.prefab
-displayName	Tigerclaw, sharpnel nuke	Tigerclaw, sharpnel nuke	40		1711403825:sdlc/Tiger sharpnel nuke launcher.prefab
+displayName	Tigerclaw, shrapnel nuke	Tigerclaw, shrapnel nuke	40		1711403825:sdlc/Tiger sharpnel nuke launcher.prefab
 description	An experimental capital missile that releases nanoshrapnel that destroys modules & crew, but not ship HP.	An experimental capital missile that releases nanoshrapnel that destroys modules & crew, but not ship HP.	200		1711403825:sdlc/Tiger sharpnel nuke launcher.prefab
 
 weapon tigermissile large.prefab
@@ -92,7 +92,7 @@ description	This intruderbot nuke releases an aggressive tiger spider drone on i
 randomizerMenuStrings[i]	+1 intruderbot missile	+1 intruderbot missile	30		1273038811:sdlc/Perk nuke Tiger intruderbot nuke.prefab
 
 Perk nuke Tiger sharpnel.prefab
-displayName	Tiger shrapnel nuke	Tiger shrapnel nuke	40		1494259635:sdlc/Perk nuke Tiger sharpnel.prefab
+displayName	Tiger shrapnel nuke	Tiger shrapnel nuke	40		1494259635:sdlc/Perk nuke Tiger sharpnel.prefab; 1258798551:sdlc/Tiger sharpnel nuke.prefab
 description	An experimental capital missile that releases nanoshrapnel over a wide area.	An experimental capital missile that releases nanoshrapnel over a wide area.	250		1494259635:sdlc/Perk nuke Tiger sharpnel.prefab
 
 Perk pet DLC combat rabbit.prefab
@@ -134,7 +134,7 @@ Tiger Monolith nuke.prefab
 displayName	Tiger Monolith nuke	Tiger Monolith nuke	35		1865480560:sdlc/Tiger Monolith nuke.prefab
 
 Tiger sharpnel nuke.prefab
-displayName	Tiger sharpnel nuke	Tiger sharpnel nuke	35		1258798551:sdlc/Tiger sharpnel nuke.prefab
+
 
 BattleTiger.prefab
 description	Battle Tiger is is the military variant of the popular Tigerfish series. It was designed for long-range transport of VIP personnel in hostile space and is equipped with explosives combinator. It comes with intruderbot nukes that release armed drones inside enemy ships.	Battle Tiger is is the military variant of the popular Tigerfish series. It was designed for long-range transport of VIP personnel in hostile space and is equipped with explosives combinator. It comes with intruderbot nukes that release armed drones inside enemy ships.	400		1452660923:sdlc/BattleTiger.prefab
