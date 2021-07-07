@@ -1,17 +1,22 @@
 ﻿:displayName English (fixed)
 
 Dog.prefab
+appearance[i].name	Bad Bitty	Bad Bitty	30		1502599448:sdlc/Dog.prefab
 appearance[i].description	A trained dog, with brain implants. Has been taught to operate ship sensors, although does not completely understand what he is doing.	A trained dog, with brain implants. Has been taught to operate ship sensors, although does not completely understand what he is doing.	250		1502599448:sdlc/Dog.prefab
 
 Drone tigerdog.prefab
+appearance[i].name	Tiger Dog 9000	Tiger Dog 9000	30		1727276051:sdlc/Drone tigerdog.prefab; 1137508603:sdlc/Perk pet Tiger dog drone.prefab
 
 Drone tigerspider assaulter.prefab
+appearance[i].name	Tiger Assault Spider	Tiger Assault Spider	30		1800714178:sdlc/Drone tigerspider assaulter.prefab
 appearance[i].description	Heavy-duty drone modded for boarding operations. Upgraded software allows unhindered destructive behaviour. Almost fireproof.	Heavy-duty drone modded for boarding operations. Upgraded software allows unhindered destructive behaviour. Almost fireproof.	250		1800714178:sdlc/Drone tigerspider assaulter.prefab
 
 Female cyborg crew.prefab
+appearance[i].name	Scully	Scully	30		2094501679:sdlc/Female cyborg crew.prefab
 appearance[i].description	A codehacker who wants to become fully android one day.	A codehacker who wants to become fully android one day.	250		2094501679:sdlc/Female cyborg crew.prefab
 
 Floater.prefab
+appearance[i].name	Pinky	Pinky	30		185113131:sdlc/Floater.prefab
 appearance[i].description	This social warp presentient is an extreme rarity. It is quite intelligent and likes staring into human eyes.	This social warp presentient is an extreme rarity. It is quite intelligent and likes staring into human eyes.	250		185113131:sdlc/Floater.prefab
 
 Human sunglasses crew.prefab
@@ -22,16 +27,20 @@ appearance[i].description	A professional ambassador. Wears powerful eye-augmenta
 appearance[i].description	A professional ambassador. Always protects his eyes because he lost them once to molecular acid attack.	A professional ambassador. Always protects his eyes because he lost them once to molecular acid attack.	250		1696290198:sdlc/Human sunglasses crew.prefab
 
 Lizard.prefab
+appearance[i].name	Shocky	Shocky	30		301730638:sdlc/Lizard.prefab
 appearance[i].description	A large lizard capable of producing electrical energy from its eyes.	A large lizard capable of producing electrical energy from its eyes.	250		301730638:sdlc/Lizard.prefab
 
 Male cyborg crew.prefab
+appearance[i].name	Grum	Grum	30		1732412902:sdlc/Male cyborg crew.prefab
 appearance[i].description	An ex-diplomat who lost half of his face because of an accident in some kind of "friendship" ceremony.	An ex-diplomat who lost half of his face because of an accident in some kind of "friendship" ceremony.	250		1732412902:sdlc/Male cyborg crew.prefab
 
 Rabbit.prefab
+appearance[i].name	Killy	Killy	30		1820607702:sdlc/Rabbit.prefab
 appearance[i].description	A genetically modified and trained combat animal.	A genetically modified and trained combat animal.	250		1820607702:sdlc/Rabbit.prefab
 
 Tortoise.prefab
-appearance[i].description	A large tortoise with natural firebreathing ability. The creature has learned gardening in the Univeristy for Presentients.	A large tortoise with natural firebreathing ability. The creature has learned gardening in the University for Presentiments.	250		93253305:sdlc/Tortoise.prefab
+appearance[i].name	Atuine	Atuine	30		93253305:sdlc/Tortoise.prefab
+appearance[i].description	A large tortoise with natural firebreathing ability. The creature has learned gardening in the Univeristy for Presentients.	A large tortoise with natural firebreathing ability. The creature has learned gardening in the Univeristy for Presentients.	250		93253305:sdlc/Tortoise.prefab
 
 bridge 2crew tiger.prefab
 displayName	Command bridge, Tiger	Command bridge, Tiger	40		171768739:sdlc/bridge 2crew tiger.prefab
@@ -116,7 +125,6 @@ description	This warp creature is an extreme rarity due to being able to effecti
 randomizerMenuStrings[i]	+1 pet (warp animal)	+1 pet (warp animal)	30		1491901717:sdlc/Perk pet DLC warp floater.prefab
 
 Perk pet Tiger dog drone.prefab
-displayName	Tiger Dog 9000	Tiger Dog 9000	40		1137508603:sdlc/Perk pet Tiger dog drone.prefab
 description	This robot was built to provide assistance in construction and maintenance operations. Modded software allows unlimited aggression towards hostiles.	This robot was built to provide assistance in construction and maintenance operations. Modded software allows unlimited aggression towards hostiles.	250		1137508603:sdlc/Perk pet Tiger dog drone.prefab
 randomizerMenuStrings[i]	+1 drone (repair drone)	+1 drone (repair drone)	30		1137508603:sdlc/Perk pet Tiger dog drone.prefab
 
@@ -134,7 +142,6 @@ Tiger Monolith nuke.prefab
 displayName	Tiger Monolith nuke	Tiger Monolith nuke	35		1865480560:sdlc/Tiger Monolith nuke.prefab
 
 Tiger sharpnel nuke.prefab
-
 
 BattleTiger.prefab
 description	Battle Tiger is is the military variant of the popular Tigerfish series. It was designed for long-range transport of VIP personnel in hostile space and is equipped with explosives combinator. It comes with intruderbot nukes that release armed drones inside enemy ships.	Battle Tiger is is the military variant of the popular Tigerfish series. It was designed for long-range transport of VIP personnel in hostile space and is equipped with explosives combinator. It comes with intruderbot nukes that release armed drones inside enemy ships.	400		1452660923:sdlc/BattleTiger.prefab
