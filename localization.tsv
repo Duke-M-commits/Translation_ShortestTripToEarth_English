@@ -7731,7 +7731,7 @@ appearance[i].name	Converted drone	Converted drone	30		486815100:Drone DIY fire 
 appearance[i].description	A firefighter drone converted into its opposite. Armed with flamer.	A firefighter drone converted into its opposite. Armed with flamer.	250		486815100:Drone DIY fire safety clawed.prefab
 
 Drone DIY firesafety.prefab
-appearance[i].name	DIY Firefigter drone	DIY Firefigter drone	30		791329320:Drone DIY firesafety.prefab
+appearance[i].name	DIY Firefigter drone	DIY Firefighter drone	30		791329320:Drone DIY firesafety.prefab
 appearance[i].description	Essentially a walking fire extinguisher. Extremely limited capabilities. Fire-resistant body.	Essentially a walking fire extinguisher. Extremely limited capabilities. Fire-resistant body.	250		791329320:Drone DIY firesafety.prefab
 
 Drone DIY guard.prefab
