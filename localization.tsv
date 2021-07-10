@@ -1394,7 +1394,7 @@ Abbrevation for Blue	B:	B:	0		183165484:Menu panel.prefab
 	Language:	Language:	0		1992623942:Menu panel.prefab
 Button in main menu, sets game difficulty	Apply & restart game	Apply & restart game	0		1143930951:Menu panel.prefab
 	Help on translations	Help on translations	0		1599063391:Menu panel.prefab
-Button in main menu, sets game difficulty	?	?	0		1675547602:Menu panel.prefab
+	?	?	0		1675547602:Menu panel.prefab
 	For adding a translation, see translations guide in Steam.\nTranslation template file can be found in Steam Workshop.	For adding a translation, see translations guide in Steam. \nTranslation template file can be found in Steam Workshop.	0		61463613:Menu panel.prefab
 	Reputation bonus on game start	Reputation bonus on game start	0		253777400:Menu panel.prefab
 	Sector info:	Sector info:	0		851871729:Menu panel.prefab
