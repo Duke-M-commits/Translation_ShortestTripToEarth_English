@@ -89,7 +89,7 @@ description	A heavily armored single-shot missile that rams the target with forc
 
 Perk nuke Tiger battery 8.prefab
 description	A single-use battery that shoots 8 missiles.	A single-use battery that shoots 8 missiles.	250		850100445:sdlc/Perk nuke Tiger battery 8.prefab
-randomizerMenuStrings[i]	+1 single-use missile battery	+1 single-use missile battery	30		850100445:sdlc/Perk nuke Tiger battery 8.prefab
+randomizerMenuStrings[i]	+1 single-use nuke battery	+1 single-use missile battery	30		850100445:sdlc/Perk nuke Tiger battery 8.prefab
 
 Perk nuke Tiger dual EMP.prefab
 displayName	Tiger EMP double nuke	Tiger EMP double nuke	40		655868932:sdlc/Perk nuke Tiger dual EMP.prefab
