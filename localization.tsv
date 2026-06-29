@@ -122,7 +122,8 @@ HoverPanel.cs
 	n/a	n/a	0		HoverPanel.cs
 	Distance {0}ru	Distance {0}ru	0		HoverPanel.cs
 	CAN'T MOVE	CAN'T MOVE	0		HoverPanel.cs
-	Credits	Credits	0		HoverPanel.cs; ResourceValueGroup.cs; ResourceValueGroup.cs; PlayerPanel.cs; 2035575234:Menu panel.prefab
+	Credits	Credits:	0		HoverPanel.cs; ResourceValueGroup.cs; ResourceValueGroup.cs; PlayerPanel.cs; 2035575234:Menu panel.prefab
+	Credits	About us	0	2035575234:Menu panel.prefab	HoverPanel.cs; ResourceValueGroup.cs; ResourceValueGroup.cs; PlayerPanel.cs; 2035575234:Menu panel.prefab
 
 MainQuest.cs
 	tutorial	tutorial	0		MainQuest.cs
