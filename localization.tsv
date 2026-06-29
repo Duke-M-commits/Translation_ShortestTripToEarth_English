@@ -1461,7 +1461,7 @@ Button in main menu, sets game difficulty	?	?	0		1675547602:Menu panel.prefab
 	SHIP SPECIFIC	SHIP SPECIFIC	0		335695275:Menu panel.prefab
 	This is a permanent perk. It locks on "Start game".	This is a permanent perk. It locks on "Start game".	0		1078577254:Menu panel.prefab
 	This is a permanent perk you've purchased earlier.	This is a permanent perk you've purchased earlier.	0		1726791673:Menu panel.prefab
-	This is ship specific perk. Each ship has its own set of these.	This is ship specific perk. Each ship has its own set of these.	0		1366941313:Menu panel.prefab
+	This is ship specific perk. Each ship has its own set of these.	This is a ship specific perk. Each ship has its own set of these.	0		1366941313:Menu panel.prefab
 	You haven't found this perk yet. Each perk can be discovered by completing a specific sector.	You haven't found this perk yet. Each perk can be discovered by completing a specific sector.	0		730174500:Menu panel.prefab
 	Fate Points:	Fate Points:	0		629242839:Menu panel.prefab
 	Selection cost:	Selection cost:	0		657719300:Menu panel.prefab
