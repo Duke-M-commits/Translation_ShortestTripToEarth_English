@@ -120,7 +120,7 @@ HoverPanel.cs
 	EMP	EMP	0		HoverPanel.cs
 	CAN'T SHOOT	CAN'T SHOOT	0		HoverPanel.cs
 	n/a	n/a	0		HoverPanel.cs
-	Distance {0}ru	Distance {0}ru	0		HoverPanel.cs
+	Distance {0}ru	Distance {0}au	0		HoverPanel.cs
 	CAN'T MOVE	CAN'T MOVE	0		HoverPanel.cs
 	Credits	Credits:	0		HoverPanel.cs; ResourceValueGroup.cs; ResourceValueGroup.cs; PlayerPanel.cs; 2035575234:Menu panel.prefab
 	Credits	About us	0	2035575234:Menu panel.prefab	HoverPanel.cs; ResourceValueGroup.cs; ResourceValueGroup.cs; PlayerPanel.cs; 2035575234:Menu panel.prefab
@@ -291,8 +291,8 @@ Ship.cs
 	Enemy ship:	Enemy ship:	0		Ship.cs
 	Self destructs in {0}s	Self destructs in {0}s	0		Ship.cs; ShipStatusVisualizers.cs
 	SP	SP	0		Ship.cs; 243907515:Ship status visualizers.prefab
-	Sector radar range bonus: +{0}ru	Sector radar range bonus: +{0}ru	0		Ship.cs
-	Starmap radar range bonus: +{0}ru	Starmap radar range bonus: +{0}ru	0		Ship.cs
+	Sector radar range bonus: +{0}ru	Sector radar range bonus: +{0}au	0		Ship.cs
+	Starmap radar range bonus: +{0}ru	Starmap radar range bonus: +{0}au	0		Ship.cs
 	(radar bonuses have no effect, because there is no working Sensor module)	(radar bonuses have no effect, because there is no working Sensor module)	0		Ship.cs
 
 ShipModule.cs
@@ -377,7 +377,7 @@ CrewDataSubpanel.cs
 	Click to level up this skill	Click to level up this skill	0		CrewDataSubpanel.cs
 	Click to assign crew	Click to assign crew	0		CrewDataSubpanel.cs
 	Can't assign crew because there is no room in modules using this skill	Can't assign crew because there is no room in modules using this skill	0		CrewDataSubpanel.cs
-	ru	ru	0		CrewDataSubpanel.cs; ModuleDataSubpanel.cs; PlayerStatsPanel.cs
+	ru	au	0		CrewDataSubpanel.cs; ModuleDataSubpanel.cs; PlayerStatsPanel.cs
 
 CrewPanel.cs
 	Click to remove {0} from this role	Click to remove {0} from this role	0		CrewPanel.cs
@@ -440,7 +440,7 @@ ModuleDataSubpanel.cs
 	Ship evasion bonus ({0} per operator bridge skill point)	Ship evasion bonus ({0} per operator bridge skill point)	0		ModuleDataSubpanel.cs
 	Shield reload time.\nReduced by shield skill({0}% per operator shield skill point)	Shield reload time.\nReduced by shield skill({0}% per operator shield skill point)	0		ModuleDataSubpanel.cs
 	Warp reload time.\nReduced by warp skill({0}% per operator shield skill point)	Warp reload time.\nReduced by warp skill({0}% per operator shield skill point)	0		ModuleDataSubpanel.cs
-	1 gardening skill point gives {0} {1} per 100ru	1 gardening skill point gives {0} {1} per 100ru	0		ModuleDataSubpanel.cs; ModuleDataSubpanel.cs
+	1 gardening skill point gives {0} {1} per 100ru	1 gardening skill point gives {0} {1} per 100au	0		ModuleDataSubpanel.cs; ModuleDataSubpanel.cs
 	(if multiple operators work in garden, their skill points are added together)	(if multiple operators work in garden, their skill points are added together)	0		ModuleDataSubpanel.cs; ModuleDataSubpanel.cs
 
 ModuleSlotActionsPanel.cs
@@ -673,7 +673,7 @@ In multiple crew selection/overview panel. Shows module that the crew is operati
 	Gardening skill.\nClick to sort.	Gardening skill.\nClick to sort.	0		2108118891:Crew actions panel.prefab
 	Science skill.\nClick to sort.	Science skill.\nClick to sort.	0		504697630:Crew actions panel.prefab
 	Warp skill.\nClick to sort.	Warp skill.\nClick to sort.	0		600374220:Crew actions panel.prefab
-	Consumption per 100ru (range units).\nClick to sort by organics consumption.	Consumption per 100ru (range units).\nClick to sort by organics consumption.	0		394514646:Crew actions panel.prefab
+	Consumption per 100ru (range units).\nClick to sort by organics consumption.	Consumption per 100au (range units).\nClick to sort by organics consumption.	0		394514646:Crew actions panel.prefab
 	Movement speed.\nClick to sort.	Movement speed.\nClick to sort.	0		1347995997:Crew actions panel.prefab
 	Role.\nClick to sort.	Role.\nClick to sort.	0		1717810612:Crew actions panel.prefab
 	Health	Health	0		1714199526:Crew actions panel.prefab; 400419124:Crew data subpanel.prefab; 1045190865:Crew actions panel.prefab; 1266907857:Module actions panel.prefab; 1875044548:Quickselect panel.prefab
@@ -686,13 +686,13 @@ In multiple crew selection/overview panel. Shows module that the crew is operati
 	Handweapon skill	Handweapon skill	0		662543048:Crew actions panel.prefab
 	Science skill	Science skill	0		625104183:Crew actions panel.prefab
 	Warp skill	Warp skill	0		126886667:Crew actions panel.prefab
-	Organics consumed per 100ru	Organics consumed per 100ru	0		1285481776:Crew actions panel.prefab
-	Fuel consumed per 100ru	Fuel consumed per 100ru	0		1264679113:Crew actions panel.prefab
-	Explosives consumed per 100ru	Explosives consumed per 100ru	0		484965686:Crew actions panel.prefab
-	Exotics consumed per 100ru	Exotics consumed per 100ru	0		1838035349:Crew actions panel.prefab
-	Synthetics consumed per 100ru	Synthetics consumed per 100ru	0		933893803:Crew actions panel.prefab
-	Metals consumed per 100ru	Metals consumed per 100ru	0		1214471812:Crew actions panel.prefab
-	Credits consumed per 100ru	Credits consumed per 100ru	0		21553249:Crew actions panel.prefab
+	Organics consumed per 100ru	Organics consumed per 100au	0		1285481776:Crew actions panel.prefab
+	Fuel consumed per 100ru	Fuel consumed per 100au	0		1264679113:Crew actions panel.prefab
+	Explosives consumed per 100ru	Explosives consumed per 100au	0		484965686:Crew actions panel.prefab
+	Exotics consumed per 100ru	Exotics consumed per 100au	0		1838035349:Crew actions panel.prefab
+	Synthetics consumed per 100ru	Synthetics consumed per 100au	0		933893803:Crew actions panel.prefab
+	Metals consumed per 100ru	Metals consumed per 100au	0		1214471812:Crew actions panel.prefab
+	Credits consumed per 100ru	Credits consumed per 100au	0		21553249:Crew actions panel.prefab
 	Currently not consuming organics	Currently not consuming organics	0		1752329579:Crew actions panel.prefab; 185307098:Crew actions panel.prefab
 	not consuming	not consuming	0		1292248377:Crew actions panel.prefab; 788897143:Crew data subpanel.prefab
 	Move speed	Move speed	0		1256797973:Crew actions panel.prefab
@@ -946,7 +946,7 @@ Second line needs to be translated	Yuo\n<b>EXIT</b>	Yuo\n<b>EXIT</b>	0		12183782
 	SAMPLE	SAMPLE	0		813517668:Help panel.prefab; 599711808:Help panel.prefab; 611774392:Help panel.prefab; 1575574159:Help panel.prefab
 	Warp drive 101	Warp drive 101	0		525261172:Help panel.prefab; 697607571:Help panel.prefab
 	View system	View system	0		553431682:Help panel.prefab; 902327321:Help panel.prefab; 1024677373:Sector map panel.prefab
-	300ru	300ru	0		2046870449:Help panel.prefab; 585268486:Help panel.prefab
+	300ru	300au	0		2046870449:Help panel.prefab; 585268486:Help panel.prefab
 	Time left: 12.5s	Time left: 12.5s	0		490375973:Help panel.prefab; 1683731713:Help panel.prefab
 Example text in helpfile	Fuel cost: 100 (max 3 jumps)	Fuel cost: 100 (max 3 jumps)	0		1486314171:Help panel.prefab; 310754624:Help panel.prefab
 	We detect fleets in systems\nif their stealth level is same\nor lesser than our detection level.	We detect fleets in systems\nif their stealth level is same\nor lesser than our detection level.	0		1462745488:Help panel.prefab
@@ -1765,7 +1765,7 @@ Maximum letters on one row: 10, possible 2 rows	SENSOR\nREDUCED	SENSOR\nREDUCED	
 	RESOURCES	RESOURCES	22		1171776774:Player panel.prefab
 	Open materials convertors	Open materials convertors	0		988705823:Player panel.prefab
 	OPEN MATERIALS CONVERTORS	OPEN MATERIALS CONVERTORS	0		1882657867:Player panel.prefab
-	/ 100ru	/ 100ru	0		147442660:Player panel.prefab; 335117788:Player panel.prefab; 855919772:Player panel.prefab; 1894949713:Player panel.prefab
+	/ 100ru	/ 100au	0		147442660:Player panel.prefab; 335117788:Player panel.prefab; 855919772:Player panel.prefab; 1894949713:Player panel.prefab
 	Power consumed / capacity	Power consumed / capacity	0		109188029:Player panel.prefab
 	CREW/MODULES/POWER	CREW/MODULES/POWER	22		596320088:Player panel.prefab
 	Save all current crew positions, roles and module power on/off profile	Save all current crew positions, roles and module power on/off profile	0		1029515040:Player panel.prefab; 619719614:Player panel.prefab; 707606701:Player panel.prefab; 763850742:Player panel.prefab; 1275541649:Player panel.prefab; 1301079697:Player panel.prefab; 1370273252:Player panel.prefab; 1537934019:Player panel.prefab
