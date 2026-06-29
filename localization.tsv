@@ -1626,10 +1626,10 @@ Module effects/stats	EFFECTS	EFFECTS	0		1665000636:Module data subpanel.prefab
 	Synthetics consumed per minute	Synthetics consumed per minute	0		343862080:Module data subpanel.prefab
 	Explosives consumed per minute	Explosives consumed per minute	0		1849113183:Module data subpanel.prefab
 	Exotics consumption per minute	Exotics consumption per minute	0		759903347:Module data subpanel.prefab
-	Current organics production per 100ru travelled.	Current organics production per 100ru travelled.	0		819956268:Module data subpanel.prefab
-	Current synthetics production per 100ru travelled.	Current synthetics production per 100ru travelled.	0		1742087446:Module data subpanel.prefab
-	Current credits production per 100ru travelled.	Current credits production per 100ru travelled.	0		269241749:Module data subpanel.prefab
-	1 research skill point gives 1 credit per 100ru.\n(if multiple operators work in research lab, their skill points are added together)	1 research skill point gives 1 credit per 100ru.\n(if multiple operators work in research lab, their skill points are added together)	0		742305663:Module data subpanel.prefab
+	Current organics production per 100ru travelled.	Current organics production per 100au travelled.	0		819956268:Module data subpanel.prefab
+	Current synthetics production per 100ru travelled.	Current synthetics production per 100au travelled.	0		1742087446:Module data subpanel.prefab
+	Current credits production per 100ru travelled.	Current credits production per 100au travelled.	0		269241749:Module data subpanel.prefab
+	1 research skill point gives 1 credit per 100ru.\n(if multiple operators work in research lab, their skill points are added together)	1 research skill point gives 1 credit per 100au.\n(if multiple operators work in research lab, their skill points are added together)	0		742305663:Module data subpanel.prefab
 	Crew resource consumption is removed when it operates/uses this module.	Crew resource consumption is removed when it operates/uses this module.	0		721411677:Module data subpanel.prefab
 	no need	no need	23		1944305977:Module data subpanel.prefab
 	Current / maximum operators in module	Current / maximum operators in module	0		329170324:Module data subpanel.prefab
