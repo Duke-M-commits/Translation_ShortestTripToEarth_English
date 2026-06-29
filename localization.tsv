@@ -1044,7 +1044,7 @@ Help file title about messages appearing in logpanel	Log messages	Log messages	0
 	11. Crew Hit points	11. Crew Hit points	0		456592857:Help panel.prefab
 	Remaining capacity to absorb damage.\nA red cross on crewmember indicates the crew is wounded.	Remaining capacity to absorb damage.\nA red cross on crewmember indicates the crew is wounded.	0		258724750:Help panel.prefab
 	12. Crew consumption	12. Crew consumption	0		1500029094:Help panel.prefab
-	Amount of resources crewmember consumes when ship is travelling (per 100ru).	Amount of resources crewmember consumes when ship is travelling (per 100ru).	0		2147181560:Help panel.prefab
+	Amount of resources crewmember consumes when ship is travelling (per 100ru).	Amount of resources crewmember consumes when ship is travelling (per 100au).	0		2147181560:Help panel.prefab
 	13. Crew speed	13. Crew speed	0		1543628832:Help panel.prefab
 	Speed of moving around inside the ship.	Speed of moving around inside the ship.	0		220700578:Help panel.prefab
 	14. Current hand weapon	14. Current hand weapon	0		299260705:Help panel.prefab
