@@ -662,20 +662,20 @@ Crew actions panel.prefab
 Shows crew skill levels and other attributes such as weapons, health etc. Under are buttons for each attribute that can be clicked to sort attributes in descending order.	CREW ATTRIBUTES, CLICK TO SORT:	CREW ATTRIBUTES, CLICK TO SORT:	0		886090418:Crew actions panel.prefab
 	Health.\nClick to sort by max health	Health.\nClick to sort by max health	0		1131576644:Crew actions panel.prefab
 In multiple crew selection/overview panel. Shows module that the crew is operating, nothing is shown when crew is not operating anything.	Activity.	Activity.	0		631443414:Crew actions panel.prefab
-	Bridge skill.\nClick to sort.	Bridge skill.\nClick to sort.	0		299248206:Crew actions panel.prefab
-	Sensor skill.\nClick to sort.	Sensor skill.\nClick to sort.	0		551722979:Crew actions panel.prefab
-	Gunnery skill.\nClick to sort.	Gunnery skill.\nClick to sort.	0		1881831115:Crew actions panel.prefab
-	Shield skill.\nClick to sort.	Shield skill.\nClick to sort.	0		1296708238:Crew actions panel.prefab
-	Repair skill.\nClick to sort.	Repair skill.\nClick to sort.	0		1844370718:Crew actions panel.prefab
-	Firefight skill.\nClick to sort.	Firefight skill.\nClick to sort.	0		1506235086:Crew actions panel.prefab
-	Handweapon.\nClick to sort by range.	Handweapon.\nClick to sort by range.	0		2054746914:Crew actions panel.prefab
-	Handweapon skill.\nClick to sort.	Handweapon skill.\nClick to sort.	0		1715099826:Crew actions panel.prefab
-	Gardening skill.\nClick to sort.	Gardening skill.\nClick to sort.	0		2108118891:Crew actions panel.prefab
-	Science skill.\nClick to sort.	Science skill.\nClick to sort.	0		504697630:Crew actions panel.prefab
-	Warp skill.\nClick to sort.	Warp skill.\nClick to sort.	0		600374220:Crew actions panel.prefab
-	Consumption per 100ru (range units).\nClick to sort by organics consumption.	Consumption per 100au (range units).\nClick to sort by organics consumption.	0		394514646:Crew actions panel.prefab
-	Movement speed.\nClick to sort.	Movement speed.\nClick to sort.	0		1347995997:Crew actions panel.prefab
-	Role.\nClick to sort.	Role.\nClick to sort.	0		1717810612:Crew actions panel.prefab
+	Bridge skill.\nClick to sort.	Bridge skill\nClick to sort	0		299248206:Crew actions panel.prefab
+	Sensor skill.\nClick to sort.	Sensor skill\nClick to sort	0		551722979:Crew actions panel.prefab
+	Gunnery skill.\nClick to sort.	Gunnery skill\nClick to sort	0		1881831115:Crew actions panel.prefab
+	Shield skill.\nClick to sort.	Shield skill\nClick to sort	0		1296708238:Crew actions panel.prefab
+	Repair skill.\nClick to sort.	Repair skill\nClick to sort	0		1844370718:Crew actions panel.prefab
+	Firefight skill.\nClick to sort.	Firefight skill\nClick to sort	0		1506235086:Crew actions panel.prefab
+	Handweapon.\nClick to sort by range.	Handweapon\nClick to sort by range	0		2054746914:Crew actions panel.prefab
+	Handweapon skill.\nClick to sort.	Handweapon skill\nClick to sort	0		1715099826:Crew actions panel.prefab
+	Gardening skill.\nClick to sort.	Gardening skill\nClick to sort	0		2108118891:Crew actions panel.prefab
+	Science skill.\nClick to sort.	Science skill\nClick to sort	0		504697630:Crew actions panel.prefab
+	Warp skill.\nClick to sort.	Warp skill\nClick to sort	0		600374220:Crew actions panel.prefab
+	Consumption per 100ru (range units).\nClick to sort by organics consumption.	Consumption per 100au (range units)\nClick to sort by organics consumption	0		394514646:Crew actions panel.prefab
+	Movement speed.\nClick to sort.	Movement speed\nClick to sort	0		1347995997:Crew actions panel.prefab
+	Role.\nClick to sort.	Role\nClick to sort	0		1717810612:Crew actions panel.prefab
 	Health	Health	0		1714199526:Crew actions panel.prefab; 400419124:Crew data subpanel.prefab; 1045190865:Crew actions panel.prefab; 1266907857:Module actions panel.prefab; 1875044548:Quickselect panel.prefab
 	Activity	Activity	0		1506134934:Crew actions panel.prefab; 190073329:Crew actions panel.prefab
 	Bridge skill	Bridge skill	0		758669236:Crew actions panel.prefab
