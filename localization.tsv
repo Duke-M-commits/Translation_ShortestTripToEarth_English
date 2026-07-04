@@ -8257,13 +8257,13 @@ description	Accepts only engine modules, cannot be upgraded.	Accepts only engine
 
 Hybrid slot.prefab
 displayName	Hybrid module slot	Hybrid module slot	35		1229851820:Hybrid slot.prefab
-description	Accepts Point-Defences and internal modules, can be upgraded.	Accepts Point-Defences and internal modules, can be upgraded.	250		1229851820:Hybrid slot.prefab
+description	Accepts Point-Defences and internal modules, can be upgraded.	Accepts Point-Defences and internal modules, can be upgraded.\n<color=red>CAN'T BE DOWNGRADED!</color>	250		1229851820:Hybrid slot.prefab
 upgrades[i].text	Upgrade to weapon slot	Upgrade to weapon slot	35		1229851820:Hybrid slot.prefab
 
 Internal core slot.prefab
 displayName	Internal core module slot	Internal core module slot	35		1582226742:Internal core slot.prefab
 description	Gives the ship +1 max HP	Gives the ship +1 max HP	250		1582226742:Internal core slot.prefab
-upgrades[i].text	Upgrade to hybrid slot	Upgrade to hybrid slot	35		1582226742:Internal core slot.prefab
+upgrades[i].text	Upgrade to hybrid slot	Upgrade to hybrid slot <color=red>[!]</color>	35		1582226742:Internal core slot.prefab
 upgrades[i].text	Downgrade to internal slot	Downgrade to internal slot	35		1582226742:Internal core slot.prefab
 
 Internal slot.prefab
@@ -8318,12 +8318,12 @@ description	Accepts only warpdrive modules, cannot be upgraded.	Accepts only war
 
 Weapon core slot.prefab
 displayName	Reinforced weapon slot	Reinforced weapon slot	35		1972530845:Weapon core slot.prefab
-description	Accepts weapons and other modules, adds +2 HP to ship	Accepts weapons and other modules, adds +2 HP to ship	250		1972530845:Weapon core slot.prefab
+description	Accepts weapons and other modules, adds +2 HP to ship	Accepts weapons and other modules, adds +2 HP to ship.\n<color=red>CAN'T BE DOWNGRADED!</color>	250		1972530845:Weapon core slot.prefab
 
 Weapon slot.prefab
 displayName	Weapon slot	Weapon slot	35		1837849614:Weapon slot.prefab
 description	Accepts weapons and other modules, can be downgraded to point-defence slot.	Accepts weapons and other modules, can be downgraded to point-defence slot.	250		1837849614:Weapon slot.prefab
-upgrades[i].text	Upgrade to core weapon slot	Upgrade to core weapon slot	35		1837849614:Weapon slot.prefab
+upgrades[i].text	Upgrade to core weapon slot	Upgrade to core weapon slot <color=red>[!]</color>	35		1837849614:Weapon slot.prefab
 upgrades[i].text	Downgrade to hybrid slot	Downgrade to hybrid slot	35		1837849614:Weapon slot.prefab
 
 artifactmodule10 rahn tutorial.prefab
