@@ -8566,11 +8566,11 @@ displayName	Metals container X-large	Metals container X-large	40		350762646:meta
 
 multicontainer biotec-scaled FO.prefab
 displayName	Biotech Multi-container FO	Biotech Multi-container FO	40		1384130728:multicontainer biotec-scaled FO.prefab
-description	Increases storage capacity of organics & fuel. Advanced biotech materials increase ship HP.	Increases storage capacity of organics & fuel. Advanced biotech materials increase ship HP.	200		1384130728:multicontainer biotec-scaled FO.prefab
+description	Increases storage capacity of organics & fuel. Advanced biotech materials increase ship HP.	Increases storage capacity of fuel & organics. Advanced biotech materials increase ship HP.	200		1384130728:multicontainer biotec-scaled FO.prefab
 
 multicontainer DIY EE.prefab
 displayName	Exotics & Explosives storage (DIY)	Exotics & Explosives storage (DIY)	40		825891570:multicontainer DIY EE.prefab
-description	Increases storage capacity of explosives & exotics.	Increases storage capacity of explosives & exotics.	200		825891570:multicontainer DIY EE.prefab
+description	Increases storage capacity of explosives & exotics.	Increases storage capacity of exotics & explosives.	200		825891570:multicontainer DIY EE.prefab
 
 multicontainer DIY FO.prefab
 displayName	DIY Multi-container FO	DIY Multi-container FO	40		1404265275:multicontainer DIY FO.prefab
@@ -8582,7 +8582,7 @@ description	Increases storage capacity of explosives, organics, metal & exotics.
 
 multicontainer ESM-1.prefab
 displayName	Multi-container ESM-1	Multi-container ESM-1	40		1008150789:multicontainer ESM-1.prefab
-description	Increases storage capacity of metal, synthetics & explosives.	Increases storage capacity of metal, synthetics & explosives.	200		1008150789:multicontainer ESM-1.prefab; 426751082:multicontainer ESM-2.prefab
+description	Increases storage capacity of metal, synthetics & explosives.	Increases storage capacity of explosives, synthetics & metal.	200		1008150789:multicontainer ESM-1.prefab; 426751082:multicontainer ESM-2.prefab
 
 multicontainer ESM-2.prefab
 displayName	Multi-container ESM-2	Multi-container ESM-2	40		426751082:multicontainer ESM-2.prefab
