@@ -1905,7 +1905,7 @@ Starmap log panel.prefab
 	Expand/shrink log window	Expand/shrink log window	0		963243546:Starmap log panel.prefab
 
 Storage panel.prefab
-	Storage for modules only	Storage for modules only	0		975806872:Storage panel.prefab
+	Storage for modules only	Storage for modules	0		975806872:Storage panel.prefab
 	RIGHT-CLICK ON SHIP MODULE SLOT TO INSTALL	RIGHT-CLICK ON SHIP MODULE SLOT TO INSTALL	0		206688735:Storage panel.prefab
 	Times module has lost 50% of remaining max health	Times module has lost 50% of remaining max health	0		1344369212:Storage panel.prefab
 	Add 1 cargo slot	Add 1 cargo slot	0		415428371:Storage panel.prefab
@@ -13159,23 +13159,23 @@ Tips pool.prefab
 	Older modules can sometimes malfunction and cause fires.	Older modules can sometimes malfunction and cause fires	0		354963362:Tips pool.prefab
 	The circle around your ship in star system view is sensor range.	The circle around your ship in star system view is sensor range	0		354963362:Tips pool.prefab
 	The circle around your ship in sector view is long-distance sensor range.	The circle around your ship in sector view is long-distance sensor range	0		354963362:Tips pool.prefab
-	You can only see enemy fleets if they have stealth value lower than stealth detection of your ship.	You can only see enemy fleets if they have stealth value lower than stealth detection of your ship.	0		354963362:Tips pool.prefab
-	Utility drones are not visually represented in Mothership internal view. They are only used automatically during events.	Utility drones are not visually represented in Mothership internal view. They are only used automatically during events.	0		354963362:Tips pool.prefab
-	Your ship always carries a set of cheaply printable utility bots (scouting, mining, research etc) that are used automatically during events.	Your ship always carries a set of cheaply printable utility bots (scouting, mining, research etc) that are used automatically during events	0		354963362:Tips pool.prefab
+	You can only see enemy fleets if they have stealth value lower than stealth detection of your ship.	You can only see enemy fleets if they have stealth value lower than stealth detection of your ship	0		354963362:Tips pool.prefab
+	Utility drones are not visually represented in Mothership internal view. They are only used automatically during events.	Utility drones are not visually represented in Mothership internal view. They are only used automatically during events	0		354963362:Tips pool.prefab
+	Your ship always carries a set of cheaply printable utility bots (scouting, mining, research etc) that are used automatically during events.	You always carry cheaply printable utility bots (scouting, mining, research etc) that are used automatically during events	0		354963362:Tips pool.prefab
 	Losing utility bots during events may result in loss of synthetics and metals.	Losing utility bots during events may result in loss of synthetics and metals	0		354963362:Tips pool.prefab
 	Sometimes losing utility bots doesn't result in resource loss because their components were recovered.	Sometimes losing utility bots doesn't result in resource loss because their components were recovered	0		354963362:Tips pool.prefab
 	Your ship uses metals and synthetics to construct utility bots automatically.	Your ship uses metals and synthetics to construct utility bots automatically	0		354963362:Tips pool.prefab
 	Crew will add their skill bonus when operating some modules or ship weapons.	Crew will add their skill bonus when operating some modules or ship weapons	0		354963362:Tips pool.prefab
 	Material converters allow processing one resource into another. This can make the difference between life and death.	Material convertors allow processing one resource into another. This can make the difference between life and death.	0		354963362:Tips pool.prefab
 	Your ship automatically builds & tactically sacrifices utility bots during battles that happen off-screen. This results in loss of metals & synthetics.	Your ship automatically builds & tactically sacrifices utility bots during battles that happen off-screen.\nThis results in loss of metals & synthetics.	0		354963362:Tips pool.prefab
-	Your ship automatically prints cheap missiles, bombs and mines during battles that happen off-screen. This results in loss of explosives.	Your ship automatically prints cheap missiles, bombs and mines during battles that happen off-screen.\nThis results in loss of explosives.	0		354963362:Tips pool.prefab
+	Your ship automatically prints cheap missiles, bombs and mines during battles that happen off-screen. This results in loss of explosives.	Your ship automatically prints cheap missiles, bombs and mines during battles that happen off-screen.\nThis results in loss of explosives	0		354963362:Tips pool.prefab
 	Xenodata functions as a form of intergalactic digital currency. It is generated while researching alien planets, for example.	Xenodata functions as a form of intergalactic digital currency. It is generated while researching alien planets, for example.	0		354963362:Tips pool.prefab
 	Xenodata documented by researching sentient aliens is worth many data credits.	Xenodata documented by researching sentient aliens is worth many data credits	0		354963362:Tips pool.prefab
 	Xenodata documented by researching warplife is worth many data credits.	Xenodata documented by researching warplife is worth many data credits	0		354963362:Tips pool.prefab
 	Xenodata documented by researching anomalies is worth many data credits.	Xenodata documented by researching anomalies is worth many data credits	0		354963362:Tips pool.prefab
 	Xenodata documented by researching alien nature is usually worth some data credits.	Xenodata documented by researching alien nature is usually worth some data credits	0		354963362:Tips pool.prefab
 	Life support modules contain biological nanobots that process or recycle all suitable organics into various substances required by crew. Mostly food & drugs.	Life support modules contain biological nanobots that process or recycle all suitable organics into various substances required by crew. Mostly food & drugs.	0		354963362:Tips pool.prefab
-	Desperate captains can scrap reactors, nukes or other modules as an emergency source of fuel.	Desperate captains can scrap reactors, nukes or other modules as an emergency source of fuel.	0		354963362:Tips pool.prefab
+	Desperate captains can scrap reactors, nukes or other modules as an emergency source of fuel.	Desperate captains can scrap reactors, nukes or other modules as an emergency source of fuel	0		354963362:Tips pool.prefab
 	Check out the help screen (button in lower right screen) for useful details about game mechanics.	Check out the help screen (button in lower right screen) for useful details about game mechanics	0		354963362:Tips pool.prefab
 	Almost all game elements have hover texts with useful info.	Almost all game elements have hover texts with useful info	0		354963362:Tips pool.prefab
 	Almost all game elements have hover texts with valuable info.	Almost all game elements have hover texts with valuable info	0		354963362:Tips pool.prefab
@@ -13183,10 +13183,10 @@ Tips pool.prefab
 	You can change the game UI color in game options - try it!	You can change the game UI color in game options - try it!	0		354963362:Tips pool.prefab
 	Check out the "?" button in lower right corner to see a list of illustrated help topics.	Check out the "?" button in lower right corner to see a list of illustrated help topics	0		354963362:Tips pool.prefab
 	Eco-harvesting operations usually do not collect more organics than your ship can carry.	Eco-harvesting operations usually do not collect more organics than your ship can carry	0		354963362:Tips pool.prefab
-	When you get excess organics or synthetics and have a fuel convertor, convert these resources into fuel instead of dumping them.	When you get excess organics or synthetics and have a fuel convertor, convert these resources into fuel instead of dumping them.	0		354963362:Tips pool.prefab
+	When you get excess organics or synthetics and have a fuel convertor, convert these resources into fuel instead of dumping them.	When you get excess organics or synthetics and have a fuel convertor, convert these resources into fuel instead of dumping them	0		354963362:Tips pool.prefab
 	Selecting crew is a lot easier if you drag a selection box around the crew instead of clicking.	Selecting crew is a lot easier if you drag a selection box around the crew instead of clicking	0		354963362:Tips pool.prefab
 	You can reposition module info window at any time by holding & dragging it on the game screen.	You can reposition module info window at any time by holding & dragging it on the game screen	0		354963362:Tips pool.prefab
 	If the game is too hard, change your tactics.	If the game is too hard, change your tactics.	0		354963362:Tips pool.prefab
 	If the game is too difficult, change your approach.	If the game is too difficult, change your approach.	0		354963362:Tips pool.prefab
 	Targeting key enemy modules during battle can make the difference between life and death.	Targeting key enemy modules during battle can make the difference between life and death	0		354963362:Tips pool.prefab
-	If you keep dying, then consider escaping battles with negative outlook earlier.	If you keep dying, then consider escaping battles with negative outlook earlier.	0		354963362:Tips pool.prefab
+	If you keep dying, then consider escaping battles with negative outlook earlier.	If you keep dying, then consider escaping battles with negative outlook earlier	0		354963362:Tips pool.prefab
