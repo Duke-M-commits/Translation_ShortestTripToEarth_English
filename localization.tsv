@@ -8318,7 +8318,7 @@ description	Accepts only warpdrive modules, cannot be upgraded.	Accepts only war
 
 Weapon core slot.prefab
 displayName	Reinforced weapon slot	Reinforced weapon slot	35		1972530845:Weapon core slot.prefab
-description	Accepts weapons and other modules, adds +2 HP to ship	Accepts weapons and other modules, adds +2 HP to ship.\n<color=red>CAN'T BE DOWNGRADED!</color>	250		1972530845:Weapon core slot.prefab
+description	Accepts weapons and other modules, adds +2 HP to ship	Accepts weapons and other modules, adds +2 HP to ship.\n<color=red>CAN'T BE DOWNGRADED!\nDOESN'T ACCEPT POINT DEFENSES!</color>	250		1972530845:Weapon core slot.prefab
 
 Weapon slot.prefab
 displayName	Weapon slot	Weapon slot	35		1837849614:Weapon slot.prefab
