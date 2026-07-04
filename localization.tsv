@@ -382,7 +382,7 @@ CrewDataSubpanel.cs
 CrewPanel.cs
 	Click to remove {0} from this role	Click to remove {0} from this role	0		CrewPanel.cs
 	Click to add {0} to this role	Click to add {0} to this role	0		CrewPanel.cs
-	SELECT ALL CREW	SELECT ALL CREW	0		CrewPanel.cs
+	SELECT ALL CREW	ALL	0		CrewPanel.cs
 	DESELECT CREW	DESELECT CREW	0		CrewPanel.cs
 	Commemorate lost crew	Commemorate lost crew	0		CrewPanel.cs
 	Cannot commemorate crew during red alerts	Cannot commemorate crew during red alerts	0		CrewPanel.cs
@@ -402,7 +402,7 @@ MaterialsConverterPanel.cs
 	materials conversion	materials conversion	0		MaterialsConverterPanel.cs; MaterialsConverterPanel.cs
 
 MenuPanel.cs
-	Retire\n(starts a new game)	Retire\n(starts a new game)	0		MenuPanel.cs
+	Retire\n(starts a new game)	New game	0		MenuPanel.cs
 	New game	New game	0		MenuPanel.cs
 
 MenuProgressPanel.cs
@@ -1098,7 +1098,7 @@ While loading game	LOADING...	LOADING...	0		1602259273:Load game indicator.prefa
 	Loading the savegame failed.\n\nThis may be due to multiple reasons, but most likely cause is critical missing content like player ship. More details are in the game log. Perhaps you have uninstalled content such as a DLC?	Loading the savegame failed.\n\nThis may be due to multiple reasons, but most likely cause is critical missing content like player ship. More details are in the game log. Perhaps you have uninstalled content such as a DLC?	0		15318726:Load game indicator.prefab
 
 Materials converter panel.prefab
-	Materials converters	Materials converters	0		1908241480:Materials converter panel.prefab
+	Materials converters	Material convertors	0		1908241480:Materials converter panel.prefab
 	Built in fuel converter	Built in fuel converter	0		1353160719:Materials converter panel.prefab
 	Amount of organics left	Amount of organics left	0		2050888506:Materials converter panel.prefab; 240854202:Materials converter panel.prefab
 	Amount of organics consumed per 1 conversion	Amount of organics consumed per 1 conversion	0		1353297307:Materials converter panel.prefab; 323661855:Materials converter panel.prefab; 459906599:Module data subpanel.prefab
@@ -1203,7 +1203,7 @@ lockedSectorDescription	This sector is where we landed, it's unexplored.	This se
 	Your game is saved.	Your game is saved.	0		1431468377:Menu panel.prefab
 	Something went wrong while saving your game.	Something went wrong while saving your game.	0		1525243159:Menu panel.prefab; 450912336:Menu panel.prefab
 	Saving game...	Saving game...	0		1095782014:Menu panel.prefab
-Some code in text needs to be as is	Retire?	Retire?	0		1723618371:Menu panel.prefab
+Some code in text needs to be as is	Retire?	Retirement?	0		1723618371:Menu panel.prefab
 Button, goes back to previous menu	Back	Back	0		551713143:Menu panel.prefab; 7559895:Menu panel.prefab; 188287613:Menu panel.prefab; 1042264830:Menu panel.prefab; 1344975291:Menu panel.prefab; 1648042296:Menu panel.prefab
 Button	Yes	Yes	0		821264790:Menu panel.prefab; 383721855:Level 4 exit, insectoid bossfight.prefab; 1526175258:dlc2/Level 1b exit, capitaalo.prefab; 1599183549:Warpgate worm.prefab; 1754232678:Menu panel.prefab; 1855220932:Level 1 exit.prefab; 1997882561:Generic level exit.prefab; 2060235996:Level 2 exit, pirate sekvoia bossfight.prefab; 2060236860:Level 3 exit no fight.prefab; 2060238844:Level 5 exit, lair bossfight.prefab; 2060239964:Level 6 exit, slaver boarders.prefab
 Some code in text needs to be as is	Are you sure? Starting a new run will overwrite your unfinished game.\nFate points that you collected in your existing game will be available at new run start.	Are you sure? Starting a new run will overwrite your unfinished game.\nFate points that you collected in your existing game will be available at new run start.	0		1939022435:Menu panel.prefab
@@ -1372,10 +1372,10 @@ Abbrevation for Blue	B:	B:	0		183165484:Menu panel.prefab
 	Resets settings on this tab to defaults,\nexcept resolution and windowed checkbox.	Resets settings on this tab to defaults,\nexcept resolution and windowed checkbox.	0		561515500:Menu panel.prefab
 	Hello, we (developers) promise to keep developing this game after launch for months or years to come. Telling your friends about Shortest Trip is your best way to fuel this development.\n\nPlease be aware that Shortest Trip is a very detailed game and was designed to be played on bigger screens (23" monitor with full HD or better). This means that playing with a big screen ensures a very nice experience (everything has enough space on the screen) while playing on a small screen makes everything more difficult and stressful.\n\nWe've been working on Shortes Trip daily for many good years with a small and dedicated team. Your support is what drives us.\n\nThank you for existing,\ndevelopers of Shortest Trip	Hello, we (developers) promise to keep developing this game after launch for months or years to come. Telling your friends about Shortest Trip is your best way to fuel this development.\n\nPlease be aware that Shortest Trip is a very detailed game and was designed to be played on bigger screens (23" monitor with full HD or better). This means that playing with a big screen ensures a very nice experience (everything has enough space on the screen) while playing on a small screen makes everything more difficult and stressful.\n\nWe've been working on Shortes Trip daily for many good years with a small and dedicated team. Your support is what drives us.\n\nThank you for existing,\ndevelopers of Shortest Trip	0		191317491:Menu panel.prefab
 	Exit game?	Exit game?	0		1455494416:Menu panel.prefab
-	Your game is saved and will be loaded next time the game is started.	Your game is saved and will be loaded next time the game is started.	0		923237230:Menu panel.prefab
+	Your game is saved and will be loaded next time the game is started.	Your game is saved and will be loaded next time the game is started	0		923237230:Menu panel.prefab
 	Exit	Exit	0		723119657:Menu panel.prefab
-	Shortest Trip is actively in long-term continued development.	Shortest Trip is actively in long-term continued development.	0		1619385223:Menu panel.prefab
-	Latest updates:	Updates:	0		76112239:Menu panel.prefab
+	Shortest Trip is actively in long-term continued development.	Shortest Trip is in long-term continued development	0		1619385223:Menu panel.prefab
+	Latest updates:	Updates	0		76112239:Menu panel.prefab
 	<color=lime><b>Build 1.4.3 (11.2025)</b></color>\n\n●\t<color=lime>Quality of Life feature</color> \nfast forward button is now available at all times\n\n●\t<color=lime>New boarding-buff feature</color>\nplayer gets bonus resources if enemy ships self-destruct due to losing all of its crew (offensive internal combat is more viable).\n\n●\t<color=lime>Quality of Life feature</color> scrapping/storing/loading modules is disabled if doing this would destroy the player ship due to module HP bonus loss.\n\n●\t<color=lime>Fixed crew navigation</color> in all cryosleep & garden modules\n\n●\t<color=lime>Ship weapons rebalance</color>\nsome ship guns take less ammo, many energy weapons got buffed\n\n●\t<color=lime>Crew rebalance</color>many crewtypes (like slavers & pirates) got buffs to their hitpoints and speed. Some crew weapons were made better.\n\n●\t<color=lime>Module rebalance</color>increased HP & other stats of many modules\n\n●\t<color=lime>Artifact rebalance</color>increased key bonus & scrapping value	\t<color=lime><b>Patch 28</b> (2025)</color>\n●\tFixed presets\n●\tLowered evasion\n\tof Spideraa ships	0		1804156930:Menu panel.prefab
 	<color=lime><b>Updates 21-25 (~2021-2025)</b></color>\n\n●\tNew playable ship <b>(The Riggy)</b>\n\tadded to <b>Supporters Pack DLC</b>\n\n●\tSupporters Pack DLC ships have\n\tnow more exotic pets\n\n●\tFixed many English typos thanks\n\tto DukeDuke'em on Discord	\t<color=lime><b>Patch 27</b> (2025)</color>\n●\tDLC: The Last Run\n●\tMost player ships:\n\tvarious bonuses,\n\tnew perk prices	0		106754447:Menu panel.prefab
 	<color=lime><b>Update 20 (18.02.2021)</b></color>\n\n<b> For this and all earlier updates \nonly highlights are shown. Full changelogs at the official Shortest Trip page at Steam.</b> \n\n●\tWeapon slots can be now\n\tupgraded to core weapon slots,\n\tgiving +1 ship HP	\t<color=lime><b>Patch 26</b> (2025)</color>\n●\tFast forward button is now\n\tavailable at all times\n●\tScrapping/storing/loading\n\tmodules is disabled if doing this\n\twould destroy the player ship\n●\tBonus resources if enemy ships\n\tself-destruct by losing all\n\tof their crew\n●\tBetter crew navigation in\n\tcryosleep & garden modules\n●\tSome ship guns take less ammo,\n\tmany energy weapons got buffed\n●\tMany crewtypes (like slavers &\n\tpirates) got buffs to their hitpoints\n\t& speed\n●\tSome crew weapons are better\n●\tModule rebalance:\n\tMore HP & other stats\n●\tArtifact rebalance:\n\tMore bonus & scrapping value	0		106754446:Menu panel.prefab
@@ -1389,12 +1389,12 @@ Abbrevation for Blue	B:	B:	0		183165484:Menu panel.prefab
 	<color=lime><b>Update 12 (16.01.2020)</b></color>\n●\tAdded a new easier game mode\n\n●\tIt's now possible to save crew\n\tmembers to empty slots in quick\n\tselection bar, and change the\n\torder of guns\n\n●\tImproved feature: crew combat\n\tweapons can be now loaded\n\tmid-magazine and during walking		0		1985108965:Menu panel.prefab
 	<color=lime><b>Updates 1-10 (10.10.2018- 14.11.2019)</b></color>\nKinldy read the changelogs from official Shortest Trip page at Steam.	Read the full changelog on Steam	0		1698087549:Menu panel.prefab
 	Click for next tip	Click for next tip	0		2135834629:Menu panel.prefab
-	Click for next tip.	Click for next tip	0		423452430:Menu panel.prefab
+	Click for next tip.	Next tip	0		423452430:Menu panel.prefab
 	This game is not yet rated, but is suitable for ages over:	This game is not yet rated, but is suitable for ages over:	0		1049831583:Menu panel.prefab
 	All references to drugs in Shortest Trip refer to legal, safe and/or fictional substances.\nAll references to sex are non-pornographic.\nAll references to violence are non-glorifying.	All references to drugs in Shortest Trip refer to legal, safe and/or fictional substances.\nAll references to sex are non-pornographic.\nAll references to violence are non-glorifying.	0		860893473:Menu panel.prefab
 	You may use any Shortest Trip To Earth material for monetized Youtube/Twitch/etc videos\nor other types of casting or streaming. When doing so, please add a link to\nthe game page with your video description.	You may use any Shortest Trip To Earth material for monetized Youtube/Twitch/etc videos\nor other types of casting or streaming. When doing so, please add a link to\nthe game page with your video description.	0		570672256:Menu panel.prefab
 	Disclaimers	Disclaimers	0		1370817076:Menu panel.prefab
-	Language:	Language:	0		1992623942:Menu panel.prefab
+	Language:	Language	0		1992623942:Menu panel.prefab
 Button in main menu, sets game difficulty	Apply & restart game	Apply	0		1143930951:Menu panel.prefab
 	Help on translations	Help on translations	0		1599063391:Menu panel.prefab
 Button in main menu, sets game difficulty	?	?	0		1675547602:Menu panel.prefab
@@ -1673,9 +1673,9 @@ ModuleSlot actions panel.prefab
 Player panel excess buttons.prefab
 ResourceActionsPanel	Cannot move with resources over cargo capacity.\nClick to convert it into <b>{0} fuel</b>	Cannot move with resources over cargo capacity.\nClick to convert it into <b>{0} fuel</b>	0		223347190:Player panel excess buttons.prefab; 192846504:Player panel excess buttons.prefab; 827933845:Player panel excess buttons.prefab; 1916878194:Player panel excess buttons.prefab; 2048515750:Player panel excess buttons.prefab
 	Cannot move with resources over cargo capacity. We must use up or dump the excess resources!	Cannot move with resources over cargo capacity. We must use up or dump the excess resources!	0		1923437920:Player panel excess buttons.prefab; 255532289:Player panel excess buttons.prefab; 756597298:Player panel excess buttons.prefab; 1631923711:Player panel excess buttons.prefab; 1796518209:Player panel excess buttons.prefab; 1962124254:Player panel excess buttons.prefab
-Dump excess materials	DUMP EXCESS	DUMP EXCESS	0		1444081631:Player panel excess buttons.prefab; 210047468:Player panel excess buttons.prefab; 678592959:Player panel excess buttons.prefab; 904602138:Player panel excess buttons.prefab; 1119500438:Player panel excess buttons.prefab; 2088116946:Player panel excess buttons.prefab
+Dump excess materials	DUMP EXCESS	DUMP  EXCESS	0		1444081631:Player panel excess buttons.prefab; 210047468:Player panel excess buttons.prefab; 678592959:Player panel excess buttons.prefab; 904602138:Player panel excess buttons.prefab; 1119500438:Player panel excess buttons.prefab; 2088116946:Player panel excess buttons.prefab
 Convert to fuel	CONV. TO FUEL	CONV. TO FUEL	0		653736058:Player panel excess buttons.prefab; 955788342:Player panel excess buttons.prefab; 1503803542:Player panel excess buttons.prefab; 1753790609:Player panel excess buttons.prefab; 1839963180:Player panel excess buttons.prefab
-	CRAFT PACK	CRAFT PACK	0		635210491:Player panel excess buttons.prefab; 242563270:Player panel excess buttons.prefab; 386242656:Player panel excess buttons.prefab; 898595686:Player panel excess buttons.prefab; 1102314776:Player panel excess buttons.prefab; 1426772263:Player panel excess buttons.prefab
+	CRAFT PACK	CRAFT  PACK	0		635210491:Player panel excess buttons.prefab; 242563270:Player panel excess buttons.prefab; 386242656:Player panel excess buttons.prefab; 898595686:Player panel excess buttons.prefab; 1102314776:Player panel excess buttons.prefab; 1426772263:Player panel excess buttons.prefab
 ResourceActionsPanel	Get {0} from conversion	Get {0} from conversion	0		1609833039:Player panel excess buttons.prefab
 
 Player panel.prefab
@@ -1691,7 +1691,7 @@ Player panel.prefab
 	Turns SOS beacon ON or OFF.\nDisabled while in battle.	Turns SOS beacon ON or OFF.\nDisabled while in battle.	0		1434607323:Player panel.prefab
 Button, deploys SOS beacon.	SOS	SOS	6		781856674:Player panel.prefab
 	Toggles ship exterior for easier detection of ship damage	Toggles ship exterior for easier detection of ship damage	0		1658807912:Player panel.prefab
-Button, abbrevation for "exterior". Turns on exterior view (roof) of the ship.	EXT.	EXT.	6		1540760406:Player panel.prefab
+Button, abbrevation for "exterior". Turns on exterior view (roof) of the ship.	EXT.	HULL	6		1540760406:Player panel.prefab
 	Toggles ship power overview	Toggles ship power overview	0		476435056:Player panel.prefab
 Button. Clicking it opens power management overlay	POWER	POWER	6		1677516972:Player panel.prefab; 621891590:Player panel.prefab
 	Toggles ship status overview panel	Toggles ship status overview panel	0		2055823088:Player panel.prefab
@@ -1705,9 +1705,9 @@ Button. Opens sector-map view/panel where player can warp during battle	ESCAPE	E
 	Toggles starsystem view	Toggles starsystem view	0		1482715764:Player panel.prefab
 Button/Toggle. Opens starsystem view.	STAR	STAR	6		181114901:Player panel.prefab
 	Toggles ship view	Toggles ship view	0		927952142:Player panel.prefab
-	UPGRADES	UPGRADES	10		1627238085:Player panel.prefab
+	UPGRADES	UPGRADE	10		1627238085:Player panel.prefab
 	Module crafts available!	Module crafts available!	0		1065151186:Player panel.prefab
-	CRAFTABLES	CRAFTABLES	10		870445551:Player panel.prefab
+	CRAFTABLES	CRAFT	10		870445551:Player panel.prefab
 	Ship hull integrity critically low,\navoid battles and repair your ship.	Ship hull integrity critically low,\navoid battles and repair your ship.	0		1055384283:Player panel.prefab
 	LOW	LOW	6		1712696760:Player panel.prefab; 310954415:Player panel.prefab; 493335490:Player panel.prefab; 689864975:Player panel.prefab; 1110735882:Player panel.prefab; 1379080082:Player panel.prefab; 2134483451:Player panel.prefab
 	Fire aboard ship!\nDisables accelerated internal time.	Fire aboard ship!\nDisables accelerated internal time.	0		1383992549:Player panel.prefab
@@ -1763,16 +1763,16 @@ Maximum letters on one row: 10, possible 2 rows	ALMOST\nFULL	ALMOST\nFULL	10		80
 Maximum letters on one row: 10, possible 2 rows	SENSOR\nREDUCED	SENSOR\nREDUCED	10		105689274:Player panel.prefab
 	BEAM\nACTIVATION	BEAM\nACTIVATION	10		654127208:Player panel.prefab
 	RESOURCES	RESOURCES	22		1171776774:Player panel.prefab
-	Open materials convertors	Open materials convertors	0		988705823:Player panel.prefab
-	OPEN MATERIALS CONVERTORS	OPEN MATERIALS CONVERTORS	0		1882657867:Player panel.prefab
+	Open materials convertors	Open material convertors	0		988705823:Player panel.prefab
+	OPEN MATERIALS CONVERTORS	MATERIAL CONVERTORS	0		1882657867:Player panel.prefab
 	/ 100ru	/ 100au	0		147442660:Player panel.prefab; 335117788:Player panel.prefab; 855919772:Player panel.prefab; 1894949713:Player panel.prefab
 	Power consumed / capacity	Power consumed / capacity	0		109188029:Player panel.prefab
 	CREW/MODULES/POWER	CREW/MODULES/POWER	22		596320088:Player panel.prefab
 	Save all current crew positions, roles and module power on/off profile	Save all current crew positions, roles and module power on/off profile	0		1029515040:Player panel.prefab; 619719614:Player panel.prefab; 707606701:Player panel.prefab; 763850742:Player panel.prefab; 1275541649:Player panel.prefab; 1301079697:Player panel.prefab; 1370273252:Player panel.prefab; 1537934019:Player panel.prefab
 	Crew/module power preset 1	Crew/module power preset 1	0		735374544:Player panel.prefab; 192153907:Player panel.prefab; 567407457:Player panel.prefab; 1594059347:Player panel.prefab
-	SAVE\nALL	SAVE\nALL	16		906372781:Player panel.prefab; 197891103:Player panel.prefab; 1627209806:Player panel.prefab; 1769774856:Player panel.prefab; 1872744683:Player panel.prefab; 2047284245:Player panel.prefab
+	SAVE\nALL	SAVE	16		906372781:Player panel.prefab; 197891103:Player panel.prefab; 1627209806:Player panel.prefab; 1769774856:Player panel.prefab; 1872744683:Player panel.prefab; 2047284245:Player panel.prefab
 	CONFIRM	CONFIRM	16		431838704:Player panel.prefab; 1024367601:Player panel.prefab; 1376915463:Player panel.prefab; 1620264179:Player panel.prefab
-	LOAD\nALL	LOAD\nALL	16		313989084:Player panel.prefab; 842089536:Player panel.prefab; 998029992:Player panel.prefab; 1524888210:Player panel.prefab
+	LOAD\nALL	LOAD	16		313989084:Player panel.prefab; 842089536:Player panel.prefab; 998029992:Player panel.prefab; 1524888210:Player panel.prefab
 	Click to choose what is saved in this preset	Click to choose what is saved in this preset	0		950352792:Player panel.prefab; 256574343:Player panel.prefab; 1200040278:Player panel.prefab; 1284368088:Player panel.prefab
 	Close preset editor	Close preset editor	0		1162737091:Player panel.prefab
 	CONFIRM/CLOSE	CONFIRM/CLOSE	16		1877879678:Player panel.prefab
@@ -13166,7 +13166,7 @@ Tips pool.prefab
 	Sometimes losing utility bots doesn't result in resource loss because their components were recovered.	Sometimes losing utility bots doesn't result in resource loss because their components were recovered.	0		354963362:Tips pool.prefab
 	Your ship uses metals and synthetics to construct utility bots automatically.	Your ship uses metals and synthetics to construct utility bots automatically.	0		354963362:Tips pool.prefab
 	Crew will add their skill bonus when operating some modules or ship weapons.	Crew will add their skill bonus when operating some modules or ship weapons.	0		354963362:Tips pool.prefab
-	Material converters allow processing one resource into another. This can make the difference between life and death.	Material converters allow processing one resource into another. This can make the difference between life and death.	0		354963362:Tips pool.prefab
+	Material converters allow processing one resource into another. This can make the difference between life and death.	Material convertors allow processing one resource into another. This can make the difference between life and death.	0		354963362:Tips pool.prefab
 	Your ship automatically builds & tactically sacrifices utility bots during battles that happen off-screen. This results in loss of metals & synthetics.	Your ship automatically builds & tactically sacrifices utility bots during battles that happen off-screen.\nThis results in loss of metals & synthetics.	0		354963362:Tips pool.prefab
 	Your ship automatically prints cheap missiles, bombs and mines during battles that happen off-screen. This results in loss of explosives.	Your ship automatically prints cheap missiles, bombs and mines during battles that happen off-screen.\nThis results in loss of explosives.	0		354963362:Tips pool.prefab
 	Xenodata functions as a form of intergalactic digital currency. It is generated while researching alien planets, for example.	Xenodata functions as a form of intergalactic digital currency. It is generated while researching alien planets, for example.	0		354963362:Tips pool.prefab
