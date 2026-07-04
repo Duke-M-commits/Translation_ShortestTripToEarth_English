@@ -1395,7 +1395,7 @@ Abbrevation for Blue	B:	B:	0		183165484:Menu panel.prefab
 	You may use any Shortest Trip To Earth material for monetized Youtube/Twitch/etc videos\nor other types of casting or streaming. When doing so, please add a link to\nthe game page with your video description.	You may use any Shortest Trip To Earth material for monetized Youtube/Twitch/etc videos\nor other types of casting or streaming. When doing so, please add a link to\nthe game page with your video description.	0		570672256:Menu panel.prefab
 	Disclaimers	Disclaimers	0		1370817076:Menu panel.prefab
 	Language:	Language:	0		1992623942:Menu panel.prefab
-Button in main menu, sets game difficulty	Apply & restart game	Apply & restart game	0		1143930951:Menu panel.prefab
+Button in main menu, sets game difficulty	Apply & restart game	Apply	0		1143930951:Menu panel.prefab
 	Help on translations	Help on translations	0		1599063391:Menu panel.prefab
 Button in main menu, sets game difficulty	?	?	0		1675547602:Menu panel.prefab
 	For adding a translation, see translations guide in Steam.\nTranslation template file can be found in Steam Workshop.	For adding a translation, see translations guide in Steam.\nTranslation template file can be found in Steam Workshop.	0		61463613:Menu panel.prefab
