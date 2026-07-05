@@ -383,7 +383,7 @@ CrewPanel.cs
 	Click to remove {0} from this role	Click to remove {0} from this role	0		CrewPanel.cs
 	Click to add {0} to this role	Click to add {0} to this role	0		CrewPanel.cs
 	SELECT ALL CREW	ALL	0		CrewPanel.cs
-	DESELECT CREW	DESELECT CREW	0		CrewPanel.cs
+	DESELECT CREW	NONE	0		CrewPanel.cs
 	Commemorate lost crew	Commemorate lost crew	0		CrewPanel.cs
 	Cannot commemorate crew during red alerts	Cannot commemorate crew during red alerts	0		CrewPanel.cs
 
@@ -5811,9 +5811,9 @@ text2	Gradually, the fighting stops. But there is no time for the crew to reconn
 text	Two Spideraa ships are approaching us.	Two Spideraa ships are approaching us.	600		1575918497:Spideraa asteroids 0.prefab
 text2	Let's keep on trying to contact them. Some of them are more talkative than others.	Let's keep on trying to contact them. Some of them are more talkative than others.	400		2008049537:Spideraa asteroids 0.prefab; 1222217176:Spideraa asteroids 0.prefab
 text	"WE ARE EATERS. YOU ARE FOOD."	"WE ARE EATERS. YOU ARE FOOD."	600		700982685:Spideraa asteroids 0.prefab
-setText	Visit {0} locations with confirmed Spideraa sightings, attempt to establish contact.	Visit {0} locations with confirmed Spideraa sightings, attempt to establish contact.	100		1597717751:Spideraa asteroids 0.prefab; 434918337:Spideraa asteroids 0.prefab; 2001002278:Spideraa asteroids 0.prefab
-setText	Visit 1 location with confirmed Spideraa sightings, attempt to establish contact.	Visit 1 location with confirmed Spideraa sightings, attempt to establish contact.	100		838202864:Spideraa asteroids 0.prefab
-setText	Return to Earth warpgate ship.	Return to Earth warpgate ship.	100		1419602571:Spideraa asteroids 0.prefab
+setText	Visit {0} locations with confirmed Spideraa sightings, attempt to establish contact.	Visit {0} locations with confirmed Spideraa sightings, attempt to establish contact	100		1597717751:Spideraa asteroids 0.prefab; 434918337:Spideraa asteroids 0.prefab; 2001002278:Spideraa asteroids 0.prefab
+setText	Visit 1 location with confirmed Spideraa sightings, attempt to establish contact.	Visit 1 location with confirmed Spideraa sightings, attempt to establish contact	100		838202864:Spideraa asteroids 0.prefab
+setText	Return to Earth warpgate ship.	Return to Earth warpgate ship	100		1419602571:Spideraa asteroids 0.prefab
 okButtonText	Proceed	Proceed	7		1805654853:Spideraa asteroids 0.prefab; 254808950:SOS Ambusher L2 pirates with decoy ship.prefab; 498060056:Main FSM.prefab; 958705350:Main FSM.prefab; 1038909517:Main FSM.prefab; 1046415677:Main FSM.prefab; 1790902389:Ambusher L2 pirates 2 pirate guardians, Decoy.prefab; 1805062404:Main FSM.prefab; 1940858248:Main FSM.prefab; 2097340264:Ambusher L2 pirates, sstriker and arrowhead.prefab
 text	A larger Spideraa ship is approaching us...	A larger Spideraa ship is approaching us...	600		1805654853:Spideraa asteroids 0.prefab
 
@@ -8257,7 +8257,7 @@ description	Accepts only engine modules, cannot be upgraded.	Accepts only engine
 
 Hybrid slot.prefab
 displayName	Hybrid module slot	Hybrid module slot	35		1229851820:Hybrid slot.prefab
-description	Accepts Point-Defences and internal modules, can be upgraded.	Accepts Point-Defences and internal modules, can be upgraded.\n<color=red>CAN'T BE DOWNGRADED!</color>	250		1229851820:Hybrid slot.prefab
+description	Accepts Point-Defences and internal modules, can be upgraded.	Accepts Point-Defences and internal modules, can be upgraded.\n<color=red>CAN'T BE DOWNGRADED!\n-1 ship HP!</color>	250		1229851820:Hybrid slot.prefab
 upgrades[i].text	Upgrade to weapon slot	Upgrade to weapon slot	35		1229851820:Hybrid slot.prefab
 
 Internal core slot.prefab
@@ -8774,7 +8774,7 @@ displayName	Emperor-banks long-range engine	Emperor-banks long-range engine	40		
 description	Very durable engine with fair fuel efficiency. Durable structure improves ship HP.	Very durable engine with fair fuel efficiency. Durable structure improves ship HP.	200		84732634:engine 03 emperor banks.prefab
 
 engine 04 red.prefab
-displayName	Ruby Thunder engine	Ruby Thunder engine	40		1131227094:engine 04 red.prefab
+displayName	Ruby Thunder engine	Ruby thunder engine	40		1131227094:engine 04 red.prefab
 description	A powerful anti-matter engine. Robust structure improves ship HP.	A powerful anti-matter engine. Robust structure improves ship HP.	200		1131227094:engine 04 red.prefab
 
 engine 04 xblack.prefab
