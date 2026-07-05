@@ -8257,13 +8257,13 @@ description	Accepts only engine modules, cannot be upgraded.	Accepts only engine
 
 Hybrid slot.prefab
 displayName	Hybrid module slot	Hybrid module slot	35		1229851820:Hybrid slot.prefab
-description	Accepts Point-Defences and internal modules, can be upgraded.	Accepts Point-Defences and internal modules, can be upgraded.\n<color=red>CAN'T BE DOWNGRADED!\n-1 ship HP!</color>	250		1229851820:Hybrid slot.prefab
+description	Accepts Point-Defences and internal modules, can be upgraded.	Accepts Point-Defences and internal modules\n<color=red>CAN'T BE DOWNGRADED!</color>	250		1229851820:Hybrid slot.prefab
 upgrades[i].text	Upgrade to weapon slot	Upgrade to weapon slot	35		1229851820:Hybrid slot.prefab
 
 Internal core slot.prefab
 displayName	Internal core module slot	Internal core module slot	35		1582226742:Internal core slot.prefab
 description	Gives the ship +1 max HP	Gives the ship +1 max HP	250		1582226742:Internal core slot.prefab
-upgrades[i].text	Upgrade to hybrid slot	Upgrade to hybrid slot <color=red>[!]</color>	35		1582226742:Internal core slot.prefab
+upgrades[i].text	Upgrade to hybrid slot	Upgrade to hybrid slot <color=red>[-1 HP!]</color>	35		1582226742:Internal core slot.prefab
 upgrades[i].text	Downgrade to internal slot	Downgrade to internal slot	35		1582226742:Internal core slot.prefab
 
 Internal slot.prefab
@@ -9067,18 +9067,18 @@ displayName	Spideraa large energy reactor	Spideraa large energy reactor	40		6278
 
 reactor 4 diy 1.prefab
 displayName	Improvised energy reactor I	Improvised energy reactor I	40		482395317:reactor 4 diy 1.prefab
-description	Reactor assembled from tech scraps. Generates +4 power, low risk of malfunctions.	Reactor assembled from tech scraps. Generates +4 power, low risk of malfunctions.	200		482395317:reactor 4 diy 1.prefab
+description	Reactor assembled from tech scraps. Generates +4 power, low risk of malfunctions.	Reactor assembled from tech scraps. Low risk of malfunctions.	200		482395317:reactor 4 diy 1.prefab
 
 reactor 5 diy 2 backup.prefab
 displayName	Self-assembled light reactor	Self-assembled light reactor	40		1700526886:reactor 5 diy 2 backup.prefab
-description	A small reactor, manually self-assembled from pre-printed parts. Generates +5 power, low risk of malfunctions.	A small reactor, manually self-assembled from pre-printed parts. Generates +5 power, low risk of malfunctions.	200		1700526886:reactor 5 diy 2 backup.prefab
+description	A small reactor, manually self-assembled from pre-printed parts. Generates +5 power, low risk of malfunctions.	A small reactor, manually self-assembled from pre-printed parts. Low risk of malfunctions.	200		1700526886:reactor 5 diy 2 backup.prefab
 
 reactor 6 smalltrapho.prefab
 displayName	Micro reactor I	Micro reactor I	40		833760257:reactor 6 smalltrapho.prefab
 
 reactor 7 diy 3.prefab
 displayName	Improvised energy reactor II	Improvised energy reactor II	40		482395319:reactor 7 diy 3.prefab
-description	Reactor assembled from tech scraps. Generates +7 power, low risk of malfunctions.	Reactor assembled from tech scraps. Generates +7 power, low risk of malfunctions.	200		482395319:reactor 7 diy 3.prefab
+description	Reactor assembled from tech scraps. Generates +7 power, low risk of malfunctions.	Reactor assembled from tech scraps. Low risk of malfunctions.	200		482395319:reactor 7 diy 3.prefab
 
 reactor 8 smallmulty.prefab
 displayName	Micro reactor II	Micro reactor II	40		1796369958:reactor 8 smallmulty.prefab
@@ -9086,7 +9086,7 @@ description	The reactor is necessary for powering ship modules.	The reactor is n
 
 reactor 9 biotech DIY.prefab
 displayName	DIY bioreactor (Zapfruit)	DIY bioreactor (Zapfruit)	40		45764579:reactor 9 biotech DIY.prefab
-description	This reactor produces +9 power by drawing warp charge from an exotic fruit that generates it as a defence mechanism. Zero chance of malfunctions.	This reactor produces +9 power by drawing warp charge from an exotic fruit that generates it as a defence mechanism. Zero chance of malfunctions.	200		45764579:reactor 9 biotech DIY.prefab
+description	This reactor produces +9 power by drawing warp charge from an exotic fruit that generates it as a defence mechanism. Zero chance of malfunctions.	This reactor produces power by drawing warp charge from an exotic fruit that generates it as a defence mechanism. Zero chance of malfunctions.	200		45764579:reactor 9 biotech DIY.prefab
 
 reactor 9 small old.prefab
 displayName	Terran energy reactor (old)	Terran energy reactor (old)	40		1554868377:reactor 9 small old.prefab
