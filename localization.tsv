@@ -8512,7 +8512,7 @@ displayName	Explosives storage (DIY)	Explosives storage (DIY)	40		271236703:expl
 description	Increases explosives storage capacity.	Increases explosives storage capacity.	200		271236703:explosives container 0 diy.prefab; 96469373:explosives container 1 small.prefab; 311517981:explosives container 3 large.prefab; 907034562:explosives container 2 medium.prefab
 
 explosives container 1 small.prefab
-displayName	Explosives storage	Explosives storage	40		96469373:explosives container 1 small.prefab
+displayName	Explosives storage	Explosives storage (small)	40		96469373:explosives container 1 small.prefab
 
 explosives container 2 medium.prefab
 displayName	Explosives storage (medium)	Explosives storage (medium)	40		907034562:explosives container 2 medium.prefab
