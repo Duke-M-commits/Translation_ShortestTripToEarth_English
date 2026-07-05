@@ -1885,7 +1885,7 @@ Refers to shop	Store	Store	0		1611982761:Shop panel tabbed.prefab; 191972498:Sho
 	Unmark all damage	Unmark all damage	0		1463811294:Shop panel tabbed.prefab
 	Marked:	Marked:	0		1935068127:Shop panel tabbed.prefab
 	Dmg	Dmg	0		1730179668:Shop panel tabbed.prefab
-	Cost	Cost	0		1339134797:Shop panel tabbed.prefab; 44850190:Shop panel tabbed.prefab; 1169303138:Shop panel tabbed.prefab
+	Cost	Cost:	0		1339134797:Shop panel tabbed.prefab; 44850190:Shop panel tabbed.prefab; 1169303138:Shop panel tabbed.prefab
 	Total:	Total:	0		113036967:Shop panel tabbed.prefab
 	Repairing by stations is always cheaper than repairing with crew\n(because crew spends 30 metals to repair each ship hitpoint).	Repairing by stations is always cheaper than repairing with crew\n(because crew spends 30 metals to repair each ship hitpoint).	0		757639668:Shop panel tabbed.prefab
 	1 HP repair cost	1 HP repair cost	0		482747460:Shop panel tabbed.prefab
@@ -1907,8 +1907,8 @@ Starmap log panel.prefab
 Storage panel.prefab
 	Storage for modules only	Storage for modules	0		975806872:Storage panel.prefab
 	RIGHT-CLICK ON SHIP MODULE SLOT TO INSTALL	RIGHT-CLICK ON SHIP MODULE SLOT TO INSTALL	0		206688735:Storage panel.prefab
-	Times module has lost 50% of remaining max health	Times module has lost 50% of remaining max health	0		1344369212:Storage panel.prefab
-	Add 1 cargo slot	Add 1 cargo slot	0		415428371:Storage panel.prefab
+	Times module has lost 50% of remaining max health	Times the module has lost 50% of remaining max health	0		1344369212:Storage panel.prefab
+	Add 1 cargo slot	1 cargo slot	0		415428371:Storage panel.prefab
 
 Unlock item panel.prefab
 	New perk unlocked!	New perk unlocked!	0		1459062459:Unlock item panel.prefab
