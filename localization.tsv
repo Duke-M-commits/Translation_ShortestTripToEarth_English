@@ -11079,7 +11079,7 @@ randomizerMenuStrings[i]	Replaces 2 ship reactors	Replaces 2 ship reactors	30		1
 
 Perk TESTER PACKAGE.prefab
 displayName	GAME TESTER PACKAGE	GAME TESTER PACKAGE	40		2106414951:Perk TESTER PACKAGE.prefab
-description	Package of cool stuff for testers of level 6-8.	Package of cool stuff for testers of level 6-8.	250		2106414951:Perk TESTER PACKAGE.prefab
+description	Package of cool stuff for testers of level 6-8.	Package of cool stuff for testers of level 6-8	250		2106414951:Perk TESTER PACKAGE.prefab
 randomizerMenuStrings[i]	+ 6 modules & extra resources	+ 6 modules & extra resources	30		2106414951:Perk TESTER PACKAGE.prefab
 
 Perk war animal for weirdship.prefab
