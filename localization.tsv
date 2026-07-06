@@ -530,10 +530,10 @@ PlayerStatsPanel.cs
 	Base value	Base value	0		PlayerStatsPanel.cs
 
 ResourceActionsPanel.cs
-	Craft resource pack that holds {0} {1}, place directly into storage.\nCost {2} fuel	Craft resource pack that holds {0} {1}, place directly into storage.\nCost {2} fuel	0		ResourceActionsPanel.cs
+	Craft resource pack that holds {0} {1}, place directly into storage.\nCost {2} fuel	Craft resource pack that holds {0} {1}, place directly into storage.\nCost: {2} fuel	0		ResourceActionsPanel.cs
 	No free module storage slot available, cannot craft resource packs	No free module storage slot available, cannot craft resource packs	0		ResourceActionsPanel.cs
 	Module storage disabled, cannot craft resource packs	Module storage disabled, cannot craft resource packs	0		ResourceActionsPanel.cs
-	Not enough resources to create resource packs. Cost {0} fuel	Not enough resources to create resource packs. Cost {0} fuel	0		ResourceActionsPanel.cs
+	Not enough resources to create resource packs. Cost {0} fuel	Not enough resources to create resource packs.\nCost: {0} fuel	0		ResourceActionsPanel.cs
 	Module and resource pack crafting is disabled at the moment	Module and resource pack crafting is disabled at the moment	0		ResourceActionsPanel.cs
 	resource conversion	resource conversion	0		ResourceActionsPanel.cs
 	resource pack crafting	resource pack crafting	0		ResourceActionsPanel.cs
