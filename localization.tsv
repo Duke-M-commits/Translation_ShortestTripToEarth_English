@@ -122,7 +122,7 @@ HoverPanel.cs
 	n/a	n/a	0		HoverPanel.cs
 	Distance {0}ru	Distance {0}au	0		HoverPanel.cs
 	CAN'T MOVE	CAN'T MOVE	0		HoverPanel.cs
-	Credits	Credits:	0		HoverPanel.cs; ResourceValueGroup.cs; ResourceValueGroup.cs; PlayerPanel.cs; 2035575234:Menu panel.prefab
+	Credits	Credits	0		HoverPanel.cs; ResourceValueGroup.cs; ResourceValueGroup.cs; PlayerPanel.cs; 2035575234:Menu panel.prefab
 	Credits	About us	0	2035575234:Menu panel.prefab	HoverPanel.cs; ResourceValueGroup.cs; ResourceValueGroup.cs; PlayerPanel.cs; 2035575234:Menu panel.prefab
 
 MainQuest.cs
@@ -487,17 +487,17 @@ PlayerPanel.cs
 	Life support	Life support	0		PlayerPanel.cs
 	(organics are used for food and healing)	(organics are used for food and healing)	0		PlayerPanel.cs
 	Continuous research	Continuous research	0		PlayerPanel.cs
-	(XenoData is used as currency (credits))	(XenoData is used as currency (credits))	0		PlayerPanel.cs
+	(XenoData is used as currency (credits))	(Xenodata credits is used as currency)	0		PlayerPanel.cs
 	(explosives are used as ammo)	(explosives are used as ammo)	0		PlayerPanel.cs
 	(exotics are most useful for upgrades, crafting and bartering)	(exotics are most useful for upgrades, crafting and bartering)	0		PlayerPanel.cs
 	(repairing 1 module hitpoint costs {0} synthetics)	(repairing 1 module hitpoint costs {0} synthetics)	0		PlayerPanel.cs
 	(repairing 1 ship HP with crew costs usually {0} metals)	(repairing 1 ship HP with crew costs usually {0} metals)	0		PlayerPanel.cs
-	{0} not consumed/produced while moving	{0} not consumed/produced while moving	0		PlayerPanel.cs
+	{0} not consumed/produced while moving	{0}: not consumed/produced while moving	0		PlayerPanel.cs
 	{0} consumed per 100 range units: {1:+0;-0;-0}	{0} consumed per 100 range units: {1:+0;-0;-0}	0		PlayerPanel.cs
-	{0} not consumed while moving	{0} not consumed while moving	0		PlayerPanel.cs
+	{0} not consumed while moving	{0}: not consumed while moving	0		PlayerPanel.cs
 	(nominal consumption is {0:+0;-0;-0})	(nominal consumption is {0:+0;-0;-0})	0		PlayerPanel.cs
 	{0} produced per 100 range units: {1:+0;-0;+0}	{0} produced per 100 range units: {1:+0;-0;+0}	0		PlayerPanel.cs
-	{0} not produced while moving	{0} not produced while moving	0		PlayerPanel.cs
+	{0} not produced while moving	{0}: not produced while moving	0		PlayerPanel.cs
 	(nominal production is {0:+0;-0;+0})	(nominal production is {0:+0;-0;+0})	0		PlayerPanel.cs
 
 PlayerStatsPanel.cs
@@ -510,11 +510,11 @@ PlayerStatsPanel.cs
 	Shipwide accuracy bonus - makes weapons more accurate	Shipwide accuracy bonus - makes weapons more accurate	0		PlayerStatsPanel.cs
 	{0} (accuracy {1:+0;-0;+0}%)	{0} (accuracy {1:+0;-0;+0}%)	0		PlayerStatsPanel.cs
 	Starmap radar range in range units	Starmap radar range in range units	0		PlayerStatsPanel.cs; 241851795:Sector map panel.prefab
-	{0} (provides {1:+0;-0;+0}ru, using max)	{0} (provides {1:+0;-0;+0}ru, using max)	0		PlayerStatsPanel.cs; PlayerStatsPanel.cs
-	(all ranges include ship starmap radar bonus {0:+0;-0;+0}ru)	(all ranges include ship starmap radar bonus {0:+0;-0;+0}ru)	0		PlayerStatsPanel.cs
+	{0} (provides {1:+0;-0;+0}ru, using max)	{0} (provides {1:+0;-0;+0}au, using max)	0		PlayerStatsPanel.cs; PlayerStatsPanel.cs
+	(all ranges include ship starmap radar bonus {0:+0;-0;+0}ru)	(all ranges include ship starmap radar bonus {0:+0;-0;+0}au)	0		PlayerStatsPanel.cs
 	(current range is reduced by clouds)	(current range is reduced by clouds)	0		PlayerStatsPanel.cs
 	Sector radar range in range units	Sector radar range in range units	0		PlayerStatsPanel.cs; 2065303810:Sector map panel.prefab
-	(all ranges include ship sector radar bonus {0:+0;-0;+0}ru)	(all ranges include ship sector radar bonus {0:+0;-0;+0}ru)	0		PlayerStatsPanel.cs
+	(all ranges include ship sector radar bonus {0:+0;-0;+0}ru)	(all ranges include ship sector radar bonus {0:+0;-0;+0}au	0		PlayerStatsPanel.cs
 	Number of seconds it takes to generate one shield point	Number of seconds it takes to generate one shield point	0		PlayerStatsPanel.cs
 	{0} ({1:0.00} SP/second)	{0} ({1:0.00} SP/second)	0		PlayerStatsPanel.cs
 	{0:0.00} seconds/SP	{0:0.00} seconds/SP	0		PlayerStatsPanel.cs
