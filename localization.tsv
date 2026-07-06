@@ -10237,7 +10237,7 @@ randomizerMenuStrings[i]	-100 synthetics	-100 synthetics	30		780498261:Perk augm
 
 Perk augment 001b exotic armor.prefab
 displayName	Exotic ship armor	Exotic ship armor	40		69059130:Perk augment 001b exotic armor.prefab
-description	Adding a nano-thin layer of exotic alloys increases the overall ship deflection by 3%. This kind of work is only offered by a hermit engineer who is both hard to find and very expensive to hire.	Adding a nano-thin layer of exotic alloys increases the overall ship deflection by 3%. This kind of work is only offered by a hermit engineer who is both hard to find and very expensive to hire.	250		69059130:Perk augment 001b exotic armor.prefab
+description	Adding a nano-thin layer of exotic alloys increases the overall ship deflection by 3%. This kind of work is only offered by a hermit engineer who is both hard to find and very expensive to hire.	Adding a nano-thin layer of exotic alloys increases the overall ship deflection. This kind of work is only offered by a hermit engineer who is both hard to find and very expensive to hire.	250		69059130:Perk augment 001b exotic armor.prefab
 unlockAnnouncementText	During our travels, we've met somebody who knows this mysterious hermit engineer. The engineer can make unique ship armor out of exotics.	During our travels, we've met somebody who knows this mysterious hermit engineer. The engineer can make unique ship armor out of exotics.	100		69059130:Perk augment 001b exotic armor.prefab
 randomizerMenuStrings[i]	+3% overall ship deflection	+3% overall ship deflection	30		69059130:Perk augment 001b exotic armor.prefab
 randomizerMenuStrings[i]	-175 credits	-175 credits	30		69059130:Perk augment 001b exotic armor.prefab; 1984849323:Perk drone 09c Sentinel sec.prefab
@@ -10272,22 +10272,22 @@ randomizerMenuStrings[i]	-100 metal	-100 metal	30		2037439773:Perk augment 02 Fo
 
 Perk augment 03 targeting software.prefab
 displayName	Targeting software upgrade	Targeting software upgrade	40		1577853994:Perk augment 03 targeting software.prefab
-description	Increases accuracy of all weapons. Weapon shots will deviate 5% less from target.	Increases accuracy of all weapons. Weapon shots will deviate 5% less from target.	250		1577853994:Perk augment 03 targeting software.prefab
+description	Increases accuracy of all weapons. Weapon shots will deviate 5% less from target.	Increases accuracy of all weapons. Weapon shots will deviate less from target.	250		1577853994:Perk augment 03 targeting software.prefab
 randomizerMenuStrings[i]	+4% accuracy bonus to all weapons	+4% accuracy bonus to all weapons	30		1577853994:Perk augment 03 targeting software.prefab
 
 Perk augment 04 maneuvering jets.prefab
 displayName	Maneuvering jets augmentation	Maneuvering jets augmentation	40		1913754090:Perk augment 04 maneuvering jets.prefab
-description	Increases ship evasion bonus by 5%. Enemy shots may deviate more from original target.	Increases ship evasion bonus by 5%. Enemy shots may deviate more from original target.	250		1913754090:Perk augment 04 maneuvering jets.prefab
+description	Increases ship evasion bonus by 5%. Enemy shots may deviate more from original target.	Increases ship evasion bonus. Enemy shots may deviate more from original target.	250		1913754090:Perk augment 04 maneuvering jets.prefab
 randomizerMenuStrings[i]	+4% Evasion	+4% Evasion	30		1913754090:Perk augment 04 maneuvering jets.prefab
 
 Perk augment 05 deflection.prefab
 displayName	Armor augmentation	Armor augmentation	40		82318717:Perk augment 05 deflection.prefab
-description	Increases overall ship deflection by 4%. Deflection is the chance that enemy landed shots do no damage, simply bouncing off the ship armor.	Increases overall ship deflection by 4%. Deflection is the chance that enemy landed shots do no damage, simply bouncing off the ship armor.	250		82318717:Perk augment 05 deflection.prefab
+description	Increases overall ship deflection by 4%. Deflection is the chance that enemy landed shots do no damage, simply bouncing off the ship armor.	Increases overall ship deflection. Deflection is the chance that enemy landed shots do no damage, simply bouncing off the ship armor.	250		82318717:Perk augment 05 deflection.prefab
 randomizerMenuStrings[i]	+4% overall ship deflection	+4% overall ship deflection	30		82318717:Perk augment 05 deflection.prefab
 
 Perk augment, jet tubing cleanup for Ratship.prefab
 displayName	Jet tubing cleanup	Jet tubing cleanup	40		283158951:Perk augment, jet tubing cleanup for Ratship.prefab
-description	Manually cleaning the old maneuvering system increases ship evasion bonus by 4%. Enemy shots may deviate more from original target.	Manually cleaning the old maneuvering system increases ship evasion bonus by 4%. Enemy shots may deviate more from original target.	250		283158951:Perk augment, jet tubing cleanup for Ratship.prefab
+description	Manually cleaning the old maneuvering system increases ship evasion bonus by 4%. Enemy shots may deviate more from original target.	Manually cleaning the old maneuvering system increases ship evasion bonus. Enemy shots may deviate more from original target.	250		283158951:Perk augment, jet tubing cleanup for Ratship.prefab
 randomizerMenuStrings[i]	+ 4% Evasion	+ 4% Evasion	30		283158951:Perk augment, jet tubing cleanup for Ratship.prefab
 
 Perk barter get credits for explosives.prefab
