@@ -8723,7 +8723,7 @@ description	Hybrid platform for electronic countermeasures. Increases overall sh
 
 ECM 0 terran old.prefab
 displayName	Armored ECM Turret I [old]	Armored ECM Turret I [old]	40		1717910481:ECM 0 terran old.prefab
-description	Hybrid integrity technology with electronic countermeasures. Increases overall ship evasion, improves ship HP, requires a hybrid or slot.	Hybrid integrity technology with electronic countermeasures. Increases overall ship evasion, improves ship HP, requires a hybrid or weapon slot.	200		1717910481:ECM 0 terran old.prefab; 178792571:ECM 03 insectoid.prefab; 738383845:ECM 02 terran.prefab; 738383846:ECM 03 terran.prefab; 738383848:ECM 01 terran.prefab
+description	Hybrid integrity technology with electronic countermeasures. Increases overall ship evasion, improves ship HP, requires a hybrid slot.	Hybrid integrity technology with electronic countermeasures. Increases overall ship evasion, improves ship HP, requires a hybrid or weapon slot.	200		1717910481:ECM 0 terran old.prefab; 178792571:ECM 03 insectoid.prefab; 738383845:ECM 02 terran.prefab; 738383846:ECM 03 terran.prefab; 738383848:ECM 01 terran.prefab
 
 ECM 01 terran.prefab
 displayName	Armored ECM Turret I	Armored ECM Turret I	40		738383848:ECM 01 terran.prefab
