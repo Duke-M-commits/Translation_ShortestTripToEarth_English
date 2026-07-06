@@ -966,9 +966,9 @@ Example text in helpfile	Fuel cost: 100 (max 3 jumps)	Fuel cost: 100 (max 3 jump
 	High danger of\nasteroid impacts	High danger of\nasteroid impacts	0		337343467:Help panel.prefab
 	Concentrated asteroid clusters have increased risk of impacts.\nAsteroid clusters with perceived value have a special asteroid icon and can be mined.\nWeapons, point-defences and integrity modules improve asteroid defence only if turned on.	Concentrated asteroid clusters have increased risk of impacts.\nAsteroid clusters with perceived value have a special asteroid icon and can be mined.\nWeapons, point-defences and integrity modules improve asteroid defence only if turned on.	0		1479796479:Help panel.prefab
 	Weapons & other modules	Weapons & other modules	0		1247357009:Help panel.prefab
-	Weapons and ECM modules can only be installed to external slots:	Weapons and ECM modules can only be installed to external slots:	0		2113675336:Help panel.prefab
+	Weapons and ECM modules can only be installed to external slots:	Weapons and ECM modules be installed to weapon slots:	0		2113675336:Help panel.prefab
 	Point defences can only be installed in hybrid slots:	Point defences can only be installed in hybrid slots:	0		842504228:Help panel.prefab
-	Most other modules can be installed to internal, core, hybrid or external slots:	Most other modules can be installed to internal, core, hybrid or external slots:	0		1970576544:Help panel.prefab
+	Most other modules can be installed to internal, core, hybrid or external slots:	Most other modules can be installed to internal, core, hybrid or weapon slots:	0		1970576544:Help panel.prefab
 	Special modules like warp, engine, bridge and capital missile can only be installed to dedicated slots:	Special modules like warp, engine, bridge and capital missile can only be installed to dedicated slots:	0		1986842920:Help panel.prefab
 	Module slot upgrades	Module slot upgrades	0		1779317176:Help panel.prefab
 	Some of the module slots can be upgraded at a cost. Make sure that slot is empty and undamaged before upgrading.	Some of the module slots can be upgraded at a cost. Make sure that slot is empty and undamaged before upgrading.	0		1685475928:Help panel.prefab
@@ -8715,15 +8715,15 @@ weapondecoy1.prefab
 
 ECM 0 ancient.prefab
 displayName	ECM/integrity turret (ancient)	ECM/integrity turret (ancient)	40		1078640904:ECM 0 ancient.prefab
-description	Hybrid platform for electronic countermeasures. Increases ship evasion & HP, requires a hybrid slot.	Hybrid platform for electronic countermeasures. Increases ship evasion & HP, requires a hybrid slot.	200		1078640904:ECM 0 ancient.prefab
+description	Hybrid platform for electronic countermeasures. Increases ship evasion & HP, requires a hybrid slot.	Hybrid platform for electronic countermeasures. Increases ship evasion & HP, requires a or weapon hybrid slot.	200		1078640904:ECM 0 ancient.prefab
 
 ECM 0 DIY.prefab
 displayName	DIY ECM turret	DIY ECM turret	40		236853983:ECM 0 DIY.prefab
-description	Hybrid platform for electronic countermeasures. Increases overall ship evasion, requires a hybrid slot.	Hybrid platform for electronic countermeasures. Increases overall ship evasion, requires a hybrid slot.	200		236853983:ECM 0 DIY.prefab
+description	Hybrid platform for electronic countermeasures. Increases overall ship evasion, requires a hybrid slot.	Hybrid platform for electronic countermeasures. Increases overall ship evasion, requires a hybrid or weapon slot.	200		236853983:ECM 0 DIY.prefab
 
 ECM 0 terran old.prefab
 displayName	Armored ECM Turret I [old]	Armored ECM Turret I [old]	40		1717910481:ECM 0 terran old.prefab
-description	Hybrid integrity technology with electronic countermeasures. Increases overall ship evasion, improves ship HP, requires a hybrid slot.	Hybrid integrity technology with electronic countermeasures. Increases overall ship evasion, improves ship HP, requires a hybrid slot.	200		1717910481:ECM 0 terran old.prefab; 178792571:ECM 03 insectoid.prefab; 738383845:ECM 02 terran.prefab; 738383846:ECM 03 terran.prefab; 738383848:ECM 01 terran.prefab
+description	Hybrid integrity technology with electronic countermeasures. Increases overall ship evasion, improves ship HP, requires a hybrid or slot.	Hybrid integrity technology with electronic countermeasures. Increases overall ship evasion, improves ship HP, requires a hybrid or weapon slot.	200		1717910481:ECM 0 terran old.prefab; 178792571:ECM 03 insectoid.prefab; 738383845:ECM 02 terran.prefab; 738383846:ECM 03 terran.prefab; 738383848:ECM 01 terran.prefab
 
 ECM 01 terran.prefab
 displayName	Armored ECM Turret I	Armored ECM Turret I	40		738383848:ECM 01 terran.prefab
@@ -8733,11 +8733,11 @@ displayName	Armored ECM Turret II	Armored ECM Turret II	40		738383845:ECM 02 ter
 
 ECM 02.2 ancient artifact, slicer dicer.prefab
 displayName	ECM artifact (ancient slicer-dicer)	ECM artifact (ancient slicer-dicer)	40		355331213:ECM 02.2 ancient artifact, slicer dicer.prefab
-description	This ancient ECM module increases ship evasion and requires a hybrid slot.	This ancient ECM module increases ship evasion and requires a hybrid slot.	200		355331213:ECM 02.2 ancient artifact, slicer dicer.prefab
+description	This ancient ECM module increases ship evasion and requires a hybrid slot.	This ancient ECM module increases ship evasion and requires a hybrid or weapon slot.	200		355331213:ECM 02.2 ancient artifact, slicer dicer.prefab
 
 ECM 03 biotech.prefab
 displayName	Biotech ECM turret	Biotech ECM turret	40		1804253033:ECM 03 biotech.prefab
-description	Biotech electronic countermeasures turret. Increases overall ship evasion, requires a hybrid slot.	Biotech electronic countermeasures turret. Increases overall ship evasion, requires a hybrid slot.	200		1804253033:ECM 03 biotech.prefab
+description	Biotech electronic countermeasures turret. Increases overall ship evasion, requires a hybrid slot.	Biotech electronic countermeasures turret. Increases overall ship evasion, requires a hybrid or weapon slot.	200		1804253033:ECM 03 biotech.prefab
 
 ECM 03 insectoid.prefab
 displayName	ECM turret (insectoid)	ECM turret (insectoid)	40		178792571:ECM 03 insectoid.prefab
@@ -8747,7 +8747,7 @@ displayName	Armored ECM Turret III	Armored ECM Turret III	40		738383846:ECM 03 t
 
 ECM 04 spideraa.prefab
 displayName	Spideraa ECM	Spideraa ECM	40		1754358032:ECM 04 spideraa.prefab
-description	Hybrid integrity technology with electronic countermeasures. Increases overall ship evasion, requires a hybrid slot.	Hybrid integrity technology with electronic countermeasures. Increases overall ship evasion, requires a hybrid slot.	200		1754358032:ECM 04 spideraa.prefab
+description	Hybrid integrity technology with electronic countermeasures. Increases overall ship evasion, requires a hybrid slot.	Hybrid integrity technology with electronic countermeasures. Increases overall ship evasion, requires a hybrid or weapon slot.	200		1754358032:ECM 04 spideraa.prefab
 
 engine 0 diy.prefab
 displayName	DIY engine	DIY engine	40		1284816050:engine 0 diy.prefab
