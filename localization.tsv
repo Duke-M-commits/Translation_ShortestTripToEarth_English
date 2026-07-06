@@ -514,7 +514,7 @@ PlayerStatsPanel.cs
 	(all ranges include ship starmap radar bonus {0:+0;-0;+0}ru)	(all ranges include ship starmap radar bonus {0:+0;-0;+0}au)	0		PlayerStatsPanel.cs
 	(current range is reduced by clouds)	(current range is reduced by clouds)	0		PlayerStatsPanel.cs
 	Sector radar range in range units	Sector radar range in range units	0		PlayerStatsPanel.cs; 2065303810:Sector map panel.prefab
-	(all ranges include ship sector radar bonus {0:+0;-0;+0}ru)	(all ranges include ship sector radar bonus {0:+0;-0;+0}au	0		PlayerStatsPanel.cs
+	(all ranges include ship sector radar bonus {0:+0;-0;+0}ru)	(all ranges include ship sector radar bonus {0:+0;-0;+0}au)	0		PlayerStatsPanel.cs
 	Number of seconds it takes to generate one shield point	Number of seconds it takes to generate one shield point	0		PlayerStatsPanel.cs
 	{0} ({1:0.00} SP/second)	{0} ({1:0.00} SP/second)	0		PlayerStatsPanel.cs
 	{0:0.00} seconds/SP	{0:0.00} seconds/SP	0		PlayerStatsPanel.cs
