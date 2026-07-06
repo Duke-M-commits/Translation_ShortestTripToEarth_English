@@ -8715,7 +8715,7 @@ weapondecoy1.prefab
 
 ECM 0 ancient.prefab
 displayName	ECM/integrity turret (ancient)	ECM/integrity turret (ancient)	40		1078640904:ECM 0 ancient.prefab
-description	Hybrid platform for electronic countermeasures. Increases ship evasion & HP, requires a hybrid slot.	Hybrid platform for electronic countermeasures. Increases ship evasion & HP, requires a or weapon hybrid slot.	200		1078640904:ECM 0 ancient.prefab
+description	Hybrid platform for electronic countermeasures. Increases ship evasion & HP, requires a hybrid slot.	Hybrid platform for electronic countermeasures. Increases ship evasion & HP, requires a hybrid or weapon slot.	200		1078640904:ECM 0 ancient.prefab
 
 ECM 0 DIY.prefab
 displayName	DIY ECM turret	DIY ECM turret	40		236853983:ECM 0 DIY.prefab
