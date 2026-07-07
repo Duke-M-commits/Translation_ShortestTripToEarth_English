@@ -966,10 +966,10 @@ Example text in helpfile	Fuel cost: 100 (max 3 jumps)	Fuel cost: 100 (max 3 jump
 	High danger of\nasteroid impacts	High danger of\nasteroid impacts	0		337343467:Help panel.prefab
 	Concentrated asteroid clusters have increased risk of impacts.\nAsteroid clusters with perceived value have a special asteroid icon and can be mined.\nWeapons, point-defences and integrity modules improve asteroid defence only if turned on.	Concentrated asteroid clusters have increased risk of impacts.\nAsteroid clusters with perceived value have a special asteroid icon and can be mined.\nWeapons, point-defences and integrity modules improve asteroid defence only if turned on.	0		1479796479:Help panel.prefab
 	Weapons & other modules	Weapons & other modules	0		1247357009:Help panel.prefab
-	Weapons and ECM modules can only be installed to external slots:	Weapons and ECM modules be installed to weapon slots:	0		2113675336:Help panel.prefab
-	Point defences can only be installed in hybrid slots:	Point defences can only be installed in hybrid slots:	0		842504228:Help panel.prefab
+	Weapons and ECM modules can only be installed to external slots:	Weapon and ECM modules can be installed to weapon slots:	0		2113675336:Help panel.prefab
+	Point defences can only be installed in hybrid slots:	Point defences be installed in hybrid slots:	0		842504228:Help panel.prefab
 	Most other modules can be installed to internal, core, hybrid or external slots:	Most other modules can be installed to internal, core, hybrid or weapon slots:	0		1970576544:Help panel.prefab
-	Special modules like warp, engine, bridge and capital missile can only be installed to dedicated slots:	Special modules like warp, engine, bridge and capital missile can only be installed to dedicated slots:	0		1986842920:Help panel.prefab
+	Special modules like warp, engine, bridge and capital missile can only be installed to dedicated slots:	Special modules like warp, engine, bridge and nukes can only be installed to dedicated slots:	0		1986842920:Help panel.prefab
 	Module slot upgrades	Module slot upgrades	0		1779317176:Help panel.prefab
 	Some of the module slots can be upgraded at a cost. Make sure that slot is empty and undamaged before upgrading.	Some of the module slots can be upgraded at a cost. Make sure that slot is empty and undamaged before upgrading.	0		1685475928:Help panel.prefab
 	Internal slots can be upgraded to core slots, which give additional hitpoints to ship hull.	Internal slots can be upgraded to core slots, which give additional hitpoints to ship hull.	0		892840485:Help panel.prefab
