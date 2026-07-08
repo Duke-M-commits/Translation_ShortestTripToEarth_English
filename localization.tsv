@@ -10250,7 +10250,7 @@ randomizerMenuStrings[i]	+4 ship max HP	+4 ship max HP	30		2075504578:Perk augme
 
 Perk augment 00b evasive manuever dbase update.prefab
 displayName	Tactical maneuvers update	Tactical maneuvers update	40		344652167:Perk augment 00b evasive manuever dbase update.prefab
-description	Updating tactical database increases our ship's overall evasive capabilities. \nEvasion makes enemy shots deviate more from intended targets. Evasion bonus is countered by combination of ship, crew and weapon accuracy bonuses.	Updating tactical database increases our ship's overall evasive capabilities. \nEvasion makes enemy shots deviate more from intended targets. Evasion bonus is countered by combination of ship, crew and weapon accuracy bonuses.	250		344652167:Perk augment 00b evasive manuever dbase update.prefab
+description	Updating tactical database increases our ship's overall evasive capabilities. \nEvasion makes enemy shots deviate more from intended targets. Evasion bonus is countered by combination of ship, crew and weapon accuracy bonuses.	Updating tactical database increases our ship's overall evasive capabilities.\nEvasion makes enemy shots deviate more from intended targets. Evasion bonus is countered by combination of ship, crew and weapon accuracy bonuses.	250		344652167:Perk augment 00b evasive manuever dbase update.prefab
 randomizerMenuStrings[i]	+2% evasion	+2% evasion	30		344652167:Perk augment 00b evasive manuever dbase update.prefab; 918962338:Perk augment 00d tactical predictor.prefab
 
 Perk augment 00c impact dampeners.prefab
