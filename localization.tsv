@@ -9921,7 +9921,7 @@ description	These railguns propel streams of metal bolts without the use of expl
 
 weapon gatling Insectoid cyano 15,4.prefab
 displayName	Venom gatlingcannon	Venom gatlingcannon	40		458272126:weapon gatling Insectoid cyano 15,4.prefab
-description	Synthethic poison-tipped projectiles deal extra damage to enemy crew. The weapon is more economic than average gatling guns, the projectiles are propelled using reactive organics. Launched projectiles have 1hp each.	synthetic poison-tipped projectiles deal extra damage to enemy crew. The weapon is more economic than average gatling guns, the projectiles are propelled using reactive organics. Launched projectiles have 1hp each.	200		458272126:weapon gatling Insectoid cyano 15,4.prefab
+description	Synthethic poison-tipped projectiles deal extra damage to enemy crew. The weapon is more economic than average gatling guns, the projectiles are propelled using reactive organics. Launched projectiles have 1hp each.	Synthetic poison-tipped projectiles deal extra damage to enemy crew. The weapon is more economic than average gatling guns, the projectiles are propelled using reactive organics. Launched projectiles have 1hp each.	200		458272126:weapon gatling Insectoid cyano 15,4.prefab
 
 weapon gatling Insectoid plasma 18,4x2.prefab
 displayName	Plasma gatling cannon	Plasma gatling cannon	40		992516328:weapon gatling Insectoid plasma 18,4x2.prefab
